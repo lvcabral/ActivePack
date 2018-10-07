@@ -5,7 +5,8 @@ RainDrops ActivePack - OCX Components for Visual Basic 6
 
 ## The Project
 
-ActivePack is a collection of ActiveX controls designed to be used with Microsoft® Visual Basic 6, they were created during my ActiveX technology studies around 1998, I was looking to make simple, useful an practical controls, that would cover some needs that the Visual Basic with it's native controls doesn't cover.
+ActivePack is a collection of ActiveX controls designed to be used with Microsoft® Visual Basic 6, they were created during my ActiveX technology studies around 1998, I was looking to make simple, useful an practical controls, that would cover some needs that the Visual Basic with it's native controls doesn't cover. 
+This was an active freeware project until 2002. I'm now opening the source code under a new license (see below).
 
 ## The Controls
 
