@@ -1,0 +1,144 @@
+[Root]
+Most Recent Package=ActiveCalendar DEP
+
+
+[Package|ActiveCalendar INF|Root]
+SubWizProgID=PDWizard.InetCABPkgSubWiz
+BuildFolder=C:\Projetos\ActivePack\ActiveCal\Install
+Controls Design-Time Support=No
+
+[Package|ActiveCalendar INF|Configure DAO ISAMs]
+Applicable=No
+
+[Package|ActiveCalendar INF|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|ActiveCalendar INF|Files Found]
+
+[Package|ActiveCalendar INF|Files Released]
+
+[Package|ActiveCalendar INF|Missing Dependency Information]
+
+[Package|ActiveCalendar INF|Out-of-Date Dependency Information]
+
+[Package|ActiveCalendar INF|Files Added]
+C:\WINDOWS\SYSTEM\MsStkPrp.dll=This file is needed for usercontrol design-time support.
+C:\Projetos\ActivePack\ActiveCal\ActiveCal.DEP=
+
+[Package|ActiveCalendar INF|Files Removed]
+c:\windows\system\msstkprp.dll=
+c:\windows\system\msvbvm60.dll=
+c:\windows\system\oleaut32.dll=
+c:\windows\system\olepro32.dll=
+c:\windows\system\asycfilt.dll=
+c:\windows\system\stdole2.tlb=
+c:\arquivos de programas\microsoft visual studio\vb98\wizards\pdwizard\redist\comcat.dll=
+
+[Package|ActiveCalendar INF|Files In Project]
+C:\Projetos\ActivePack\ActiveCal\ActiveCal.ocx=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=No
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=No
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=No
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=No
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=No
+C:\Arquivos de Programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\WINDOWS\SYSTEM\Msstkprp.dll=No
+C:\Projetos\ActivePack\ActiveCal\ActiveCal.DEP=Yes
+
+[Package|ActiveCalendar INF|Configure Registry Files]
+Applicable=No
+
+[Package|ActiveCalendar INF|Configure Remote Servers]
+Applicable=No
+
+[Package|ActiveCalendar INF|Install Locations]
+
+[Package|ActiveCalendar INF|Configure Shared Files]
+Applicable=
+
+[Package|ActiveCalendar INF|ComponentInfo]
+ActiveCal.ocx=thiscab
+ActiveCal.DEP=thiscab
+
+[Package|ActiveCalendar INF|ObjectInfo]
+ActiveCalendar=false;false
+
+[Package|ActiveCalendar INF|Package]
+PackageFolder=C:\Projetos\ActivePack\ActiveCal\Install
+ProjectFolder=C:\Projetos\ActivePack\ActiveCal
+ServerSideCab=C:\Projetos\ActivePack\ActiveCal\Install\ActiveCal.CAB
+File1=C:\Projetos\ActivePack\ActiveCal\Install\ActiveCal.CAB
+File2=C:\Projetos\ActivePack\ActiveCal\Install\ActiveCal.HTM
+Handler1=PDWizard.WebPostDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+
+
+[Package|ActiveCalendar DEP|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Projetos\ActivePack\ActiveCal
+Controls Design-Time Support=Yes
+
+[Package|ActiveCalendar DEP|Configure DAO ISAMs]
+Applicable=No
+
+[Package|ActiveCalendar DEP|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|ActiveCalendar DEP|Files Found]
+ActiveCal.hlp=C:\Projetos\ActivePack\Help\ActiveCal.hlp
+
+[Package|ActiveCalendar DEP|Files Released]
+
+[Package|ActiveCalendar DEP|Missing Dependency Information]
+
+[Package|ActiveCalendar DEP|Out-of-Date Dependency Information]
+
+[Package|ActiveCalendar DEP|Files Added]
+c:\windows\system\msstkprp.dll=This file is needed for usercontrol design-time support.
+
+[Package|ActiveCalendar DEP|Files Removed]
+
+[Package|ActiveCalendar DEP|Files In Project]
+C:\Projetos\ActivePack\ActiveCal\ActiveCal.ocx=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Arquivos de Programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\Msstkprp.dll=Yes
+C:\Projetos\ActivePack\Help\ActiveCal.hlp=Yes
+
+[Package|ActiveCalendar DEP|Configure Registry Files]
+Applicable=
+
+[Package|ActiveCalendar DEP|Configure Remote Servers]
+Applicable=
+
+[Package|ActiveCalendar DEP|Install Locations]
+C:\Projetos\ActivePack\ActiveCal\ActiveCal.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Arquivos de Programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\Msstkprp.dll=$(WinSysPath)
+C:\Projetos\ActivePack\Help\ActiveCal.hlp=$(AppPath)
+
+[Package|ActiveCalendar DEP|Configure Shared Files]
+Applicable=
+
+[Package|ActiveCalendar DEP|DepFile]
+DepCabFile=
+DepCabRun=acal.INF
+
+[Package|ActiveCalendar DEP|Package]
+PackageFolder=C:\Projetos\ActivePack\ActiveCal
+ProjectFolder=C:\Projetos\ActivePack\ActiveCal
+ServerSideCab=
+File1=C:\Projetos\ActivePack\ActiveCal\ActiveCal.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

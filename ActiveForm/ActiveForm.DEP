@@ -1,0 +1,18 @@
+[Version]
+Version=1.0.0.8
+
+[ActiveForm.ocx <0009>]
+Dest=$(WinSysPath)
+Date=22/12/1998
+Time=19:33
+Version=1.0.0.8
+CABFilename=ActiveForm.CAB
+CABINFFile=ActiveForm.INF
+Uses1=MSVBVM60.DLL
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=ActiveForm.hlp
+Uses8=Msstkprp.dll

@@ -1,0 +1,18 @@
+[Version]
+Version=1.1.0.19
+
+[ActiveText.ocx <0009>]
+Dest=$(WinSysPath)
+Date=22/12/1998
+Time=19:36
+Version=1.1.0.19
+CABFilename=
+CABINFFile=atext.INF
+Uses1=MSVBVM60.DLL
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=ActiveText.hlp
+Uses8=Msstkprp.dll

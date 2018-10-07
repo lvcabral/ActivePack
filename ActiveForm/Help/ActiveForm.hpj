@@ -1,0 +1,47 @@
+; This file is maintained by HCW. Do not modify this file directly.
+; This file was created with VSDOCX 1.0
+
+[OPTIONS]
+errorlog=VSDOCX.Err
+title=RainDrops ActiveForm Help
+copyright=RainDrops ActiveForm copyright (c) 2000 RainDrops Software Design.
+citation=copyright (c) 2000 RainDrops Software Design.
+compress=12 Hall Zeck
+oldkeyphrase=False
+warning=3
+cnt=ACTIVEFORM.cnt
+
+[FILES]
+d:\users\mcabral\backup home\activepack\activeform\ajuda\activeform.rth
+
+[MAP]
+; map for ActiveForm Control
+csCtlActiveForm             0
+csPAllwaysOnTopActiveForm   0
+csPBackColorActiveForm      0
+csPBackColor2ActiveForm     0
+csPBackGradientActiveForm   0
+csPBackgroundActiveForm     0
+csPCloseButtonActiveForm    0
+csPMaxHeightActiveForm      0
+csPMaxWidthActiveForm       0
+csPMinHeightActiveForm      0
+csPMinimizeToTrayActiveForm 0
+csPMinWidthActiveForm       0
+csPResizeControlsActiveForm 0
+csPResizeFontsActiveForm    0
+csMRestoreActiveForm        0
+csPRestoreModeActiveForm    0
+csMSetTrayIconActiveForm    0
+csMSetTrayToolTipActiveForm 0
+csETrayDblClickActiveForm   0
+csETrayLeftClickActiveForm  0
+csETrayRightClickActiveForm 0
+
+[WINDOWS]
+main="RainDrops ActiveForm Help",,, (255, 255, 255), (255, 255, 255)
+
+[CONFIG]
+BrowseButtons()
+CreateButton("btnActiveForm", "ActiveForm", "JumpID(`ACTIVEFORM.HLP', `csCtlActiveForm')")
+

@@ -1,0 +1,355 @@
+{\rtf1\ansi \deff0\deflang1033{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\froman\fcharset0 Arial;}{\f2\fswiss\fcharset0 Arial;}{\f3\fmodern\fcharset0 Courier New;}{\f4\fmodern\fcharset0 Arial;}}{\colortbl\red0\green0\blue0;\red128\green128\blue128;}{\stylesheet{\sb0\sa240\li0\f0\fs18\snext0 \snext0 Normal;}{\s1\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 \sbasedon0\snext0 heading 1;}{\s2\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 \sbasedon0\snext0 heading 2;}{\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 \sbasedon0\snext0 heading 3;}{\*\cs10 \additive \f1\fs22 Default Paragraph Font;}{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 \sbasedon0\snext17 CallOut;}{\*\cs16\additive\f2\fs18\b\i0\sbasedon10 \sbasedon10 CallOutChar;}{\*\cs17\additive\f3\fs18\sbasedon10 \sbasedon10 Code;}}\pard\plain \sb0\sa240\li0\f0\fs18\snext0 
+{\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 ActiveCombo Controle}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csCtlActiveCombo}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 ActiveCombo Controle;ACTIVECOMBO.OCX Controles}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00001}}}\s1\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 ActiveCombo Controle{\f4\fs16\b0\i0\line {\uldb\cf1 Propriedades}{\v !KLink("ActiveCombo Propriedades")}     {\uldb\cf1 Métodos}{\v !KLink("ActiveCombo Métodos")}     {\uldb\cf1 Eventos}{\v !KLink("ActiveCombo Eventos")}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0\b Controle:  \tab \f0\b0\i0\ul0  {\pict\wmetafile8\picw394\pich373\picscalex98\picscaley99\picwgoal226\pichgoal213
+0100090000035102000000008A0100000000050000000B0200000000050000000C0275018A0103
+0000001E00050000000C0278019001050000000B0200000000030000001E00050000000C027D01
+9501050000000B0200000000050000000B0200000000030000001E00050000000C0281019A0105
+0000000B0200000000050000000B0200000000050000000B0200000000030000001E0005000000
+0C028701A001050000000B0200000000050000000B0200000000050000000B0200000000050000
+000B0200000000030000001E00050000000C028B01A501050000000B0200000000050000000B02
+00000000050000000B0200000000050000000B0200000000050000000B0200000000030000001E
+00050000000C028C01A701050000000B0200000000050000000B0200000000050000000B020000
+0000050000000B0200000000050000000B0200000000050000000B02000000008A010000430F20
+00CC0000000F001000000000008C01A7010000000028000000100000000F000000010018000000
+0000D0020000C40E0000C40E00000000000000000000BFBFBF0000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000BFBFBF000000FFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000
+00BFBFBF000000FFFFFF7F7F00FFFFFF7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F
+7F7F7F7FFFFFFF000000BFBFBF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000BFBFBF000000FFFFFF007F00FFFFFF7F7F7F7F7F
+7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7FFFFFFF000000BFBFBF000000FFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000BFBF
+BF000000FFFFFFFF0000FFFFFF7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F
+7FFFFFFF000000BFBFBF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFF000000BFBFBF000000FFFFFF0000FFFFFFFF7F7F7F7F7F7F7F7F
+7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7FFFFFFF000000BFBFBF000000FFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000000000000000
+00000000000000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FF000000000000000000BFBFBF000000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFF000000000000BFBFBFBFBFBFBFBFBF0000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+00040000002701FFFF040000002701FFFF040000002701FFFF040000002701FFFF040000002701
+FFFF040000002701FFFF030000000000
+}\f0\b0\i0\ul0   ActiveCombo
+\line \f0\b0\i0\ul0\b Descri\'e7\'e3o:  \tab \f0\b0\i0\ul0  ComboBox com \'cdcones e Indenta\'e7\'e3o dos \'cdtens.
+\line \f0\b0\i0\ul0\b Arquivo:      \tab \f0\b0\i0\ul0  ActiveCbo.ocx
+\line \f0\b0\i0\ul0\b Ajuda:     \tab \f0\b0\i0\ul0  ActiveCbo.hlp
+\line \f0\b0\i0\ul0\b TypeLib GUID:    \tab  \f0\b0\i0\ul0 \{ED442B9F-ADE2-11D4-B868-00606E3BC2C9\}
+\line \f0\b0\i0\ul0\b CLSID:        \tab \f0\b0\i0\ul0  \{ED442BA8-ADE2-11D4-B868-00606E3BC2C9\}
+\line \f0\b0\i0\ul0\b Propriedades:   \tab \f0\b0\i0\ul0  17
+\line \f0\b0\i0\ul0\b Eventos:       \tab \f0\b0\i0\ul0  6
+\line \f0\b0\i0\ul0\b M\'e9todos:      \tab \f0\b0\i0\ul0  3
+\line 
+\line Antes de usar o controle \f0\b0\i0\ul0\b ActiveCombo\f0\b0\i0\ul0  em seus aplicativos, voc\'ea deve incluir o arquivo \f0\b0\i0\ul0\b ActiveCbo.ocx\f0\b0\i0\ul0  em seu projeto. Se voc\'ea usa o controle na maioria de seus projetos, recomenda-se adicion\'e1-lo ao arquivo Autoload do Visual Basic.
+\line 
+\line Para distribuir aplicativos criados com o controle \f0\b0\i0\ul0\b ActiveCombo\f0\b0\i0\ul0 , voc\'ea deve instal\'e1-lo e registr\'e1-lo no computador do usu\'e1rio. O Package & Deployment Wizard distribuido com o Visual Basic fornece as ferramentas necess\'e1rias para fazer isso. Veja o manual do Visual Basic para detalhes.
+\par 
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 AddIcon Método}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csMAddIconActiveCombo}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 AddIcon Método;ActiveCombo Métodos;Veja também ImageList Propriedade}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00002}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 AddIcon Método{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}{\v !KLink("Veja também AddIcon Método", 0)}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveCombo Controle", 0)}     }\sa100 \par \pard\plain 
+
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveCombo}.{\b AddIcon} {\i hIcon} As Variant\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Notas    }\line \sb0\sa240\li0\f0\fs18\snext0 \f0\fs18\b0\i0\ul0 Os par\'e2metros do m\'e9todo \f0\fs18\b0\i0\ul0\b AddIcon\f0\fs18\b0\i0\ul0  est\'e3o descritos abaixo:
+\line 
+\line \f0\fs18\b0\i0\ul0\i hIcon\f0\fs18\b0\i0\ul0  As Variant
+\line Este par\'e2metro deve conter o handle do \'edcone a ser adicionado.
+\line 
+\line \f0\fs18\b0\i0\ul0\b Exemplo\f0\fs18\b0\i0\ul0 
+\line 
+\line \f0\fs18\b0\i0\ul0\f3\fs18 ActiveCombo1.AddIcon = Image1.Picture\f0\fs18\b0\i0\ul0 
+\line 
+\line \f0\fs18\b0\i0\ul0\b Observa\'e7\'f5es\f0\fs18\b0\i0\ul0 
+\line 
+\line O \'edcone adicionado deve ser nos tamanhos 16x16 ou 32x32.
+\line 
+\line A propriedade \f0\fs18\b0\i0\ul0\b {\uldb ImageList}{\v csPImageListActiveCombo}\f0\fs18\b0\i0\ul0  (se configurada) tem prioridade frente aos \'edcones inclu\'eddos por este m\'e9todo.
+\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 AddItem Método}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csMAddItemActiveCombo}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 AddItem Método;ActiveCombo Métodos;Veja também AddIcon Método;Veja também IconSize Propriedade}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00003}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 AddItem Método{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveCombo Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Este m\'e9todo adiciona um \'edtem \'e0 lista do ComboBox.
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 [\f0\b0\i0\ul0\i form\f0\b0\i0\ul0 !]\f0\b0\i0\ul0\i ActiveCombo\f0\b0\i0\ul0 .\f0\b0\i0\ul0\b AddItem\f0\b0\i0\ul0  \f0\b0\i0\ul0\i Item\f0\b0\i0\ul0  As String, [\f0\b0\i0\ul0\i Index\f0\b0\i0\ul0  As Variant], [\f0\b0\i0\ul0\i ImgIndex\f0\b0\i0\ul0  As Variant], [\f0\b0\i0\ul0\i Indent\f0\b0\i0\ul0  As Integer]\f0\b0\i0\ul0 
+\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Notas    }\line \sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Os par\'e2metros do m\'e9todo \f0\b0\i0\ul0\b AddItem\f0\b0\i0\ul0  est\'e3o descritos abaixo:
+\line 
+\line \f0\b0\i0\ul0\i Item\f0\b0\i0\ul0  As String
+\line Este par\'e2metro deve conter o texto do \'edtem a ser adicionado.
+\line 
+\line \f0\b0\i0\ul0\i Index\f0\b0\i0\ul0  As Variant
+\line Este par\'e2metro configura o n\'famero do \'edndice sob o qual o \'edtem ser\'e1 adicionado. (opcional)
+\line 
+\line \f0\b0\i0\ul0\i ImgIndex\f0\b0\i0\ul0  As Variant
+\line Este par\'e2metro configura o \'edndice da imagem no \f0\b0\i0\ul0\b ImageList \f0\b0\i0\ul0 correspondente ao \'edtem adicionado. (opcional)
+\line 
+\line \f0\b0\i0\ul0\i Indent\f0\b0\i0\ul0  As Integer
+\line Este par\'e2metro configura o n\'edvel de indenta\'e7\'e3o do \'edtem adicionado. (opcional)
+\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 BackColor Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPBackColorActiveCombo}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 BackColor Propriedade;ActiveCombo Propriedades;Veja também ForeColor Propriedade}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00004}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 BackColor Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveCombo Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 Returns/sets the background color used to display text and graphics in an object.\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveCombo}.{\b BackColor}[ = {\i colorref&} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 Color\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 Change Evento}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csEChangeActiveCombo}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 Change Evento;ActiveCombo Eventos}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00005}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 Change Evento{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveCombo Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 O evento Change ocorre quando o conte\'fado da parte texto do ComboBox \'e9 alterada.
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 {\b Private Sub }{\i ActiveCombo}_{\b Change}()\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 Clear Método}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csMClearActiveCombo}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 Clear Método;ActiveCombo Métodos}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00006}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 Clear Método{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveCombo Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Este m\'e9todo remove todos os \'edtens da lista do ComboBox.
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveCombo}.{\b Clear} \par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 Click Evento}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csEClickActiveCombo}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 Click Evento;ActiveCombo Eventos}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00007}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 Click Evento{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveCombo Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Este evento ocorre quando o usu\'e1rio seleciona um item do ComboBox, pressionando as teclas de dire\'e7\'e3o e, em seguida, pressionando a tecla ENTER ou clicando o bot\'e3o do mouse.
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 {\b Private Sub }{\i ActiveCombo}_{\b Click}()\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 DropDown Evento}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csEDropDownActiveCombo}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 DropDown Evento;ActiveCombo Eventos}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00008}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 DropDown Evento{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveCombo Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Este evento ocorre quando a Lista do ComboBox \'e9 mostrada.
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 {\b Private Sub }{\i ActiveCombo}_{\b DropDown}()\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 IconColorDepth Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPIconColorDepthActiveCombo}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 IconColorDepth Propriedade;ActiveCombo Propriedades}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00009}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 IconColorDepth Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveCombo Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Esta propriedade configura a quantidade m\'e1xima de cores dos \'edcones do ComboBox.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveCombo}.{\b IconColorDepth}[ = {\i ColorDepthConstants} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Notas    }\line \sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Os valores v\'e1lidos para a propriedade \f0\b0\i0\ul0\b IconColorDepth\f0\b0\i0\ul0  est\'e3o descritos abaixo:
+\line 
+\line \f0\b0\i0\ul0\i [Default] - \f0\b0\i0\ul0 Valor padr\'e3o.
+\line 
+\line \f0\b0\i0\ul0\i [16 Colors]  - \f0\b0\i0\ul0 16 cores
+\line 
+\line \f0\b0\i0\ul0\i [256 Colors]  \f0\b0\i0\ul0 - 256 cores
+\line 
+\line \f0\b0\i0\ul0\i [HighColor]\f0\b0\i0\ul0  - 65 mil cores
+\line 
+\line \f0\b0\i0\ul0\i [TrueColor] - \f0\b0\i0\ul0 16 milh\'f5es de cores
+\line \f0\b0\i0\ul0\b 
+\line Observa\'e7\'e3o
+\line \f0\b0\i0\ul0 
+\line Esta propriedade s\'f3 tem algum efeito se a propriedade \f0\b0\i0\ul0\b {\uldb ShowIcons}{\v csPShowIconsActiveCombo}\f0\b0\i0\ul0  estiver ligada.
+\line \f0\b0\i0\ul0 
+\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 ColorDepthConstants (Enumeration)\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 IconSize Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPIconSizeActiveCombo}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 IconSize Propriedade;ActiveCombo Propriedades;Veja também AddIcon Método;Veja também ImageList Propriedade}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00010}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 IconSize Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}{\v !KLink("Veja também IconSize Propriedade", 0)}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveCombo Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Esta propriedade configura o tamanho dos \'edcones da lista do ComboBox.
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveCombo}.{\b IconSize}[ = {\i IconSizeConstants} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Notas    }\line \sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Os valores v\'e1lidos para a propriedade \f0\b0\i0\ul0\b IconSize\f0\b0\i0\ul0  est\'e3o descritos abaixo:
+\line 
+\line \f0\b0\i0\ul0\i [16x16]\f0\b0\i0\ul0 
+\line Este valor altera a altura do controle para se ajustar aos \'edcones de tamanho 16 por 16 pixels.
+\line 
+\line \f0\b0\i0\ul0\i [32x32]\f0\b0\i0\ul0 
+\line Este valor altera a altura do controle para se ajustar aos \'edcones de tamanho 32 por 32 pixels.
+\line 
+\line \f0\b0\i0\ul0\b Observa\'e7\'e3o
+\line \f0\b0\i0\ul0 
+\line Esta propriedade s\'f3 tem algum efeito se a propriedade \f0\b0\i0\ul0\b {\uldb ShowIcons}{\v csPShowIconsActiveCombo}\f0\b0\i0\ul0  estiver ligada.
+\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 IconSizeConstants (Enumeration)\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 ImageList Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPImageListActiveCombo}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 ImageList Propriedade;ActiveCombo Propriedades;Veja também AddIcon Método;Veja também IconSize Propriedade}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00011}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 ImageList Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}{\v !KLink("Veja também ImageList Propriedade", 0)}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveCombo Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Retorna ou configura um objeto \f0\b0\i0\ul0\b ImageList\f0\b0\i0\ul0  para o controle.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveCombo}.{\b ImageList}[ = {\i object} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Notas    }\line \sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Se esta propriedade estiver anexada a um controle \f0\b0\i0\ul0\b ImageList\f0\b0\i0\ul0 , ela ter\'e1 prioridade aos \'edcones adicionados atrav\'e9s do m\'e9todo \f0\b0\i0\ul0\b {\uldb AddIcon}{\v csMAddIconActiveCombo}\f0\b0\i0\ul0 .\f0\b0\i0\ul0 
+\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 Object\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 ItemData Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPItemDataActiveCombo}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 ItemData Propriedade;ActiveCombo Propriedades}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00012}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 ItemData Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveCombo Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 A propriedade ItemData retorna os dados da cole\'e7\'e3o interna para o \'edtem especificado em um ComboBox.
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveCombo}.{\b ItemData}({\i Index} As Variant)[ = {\i value As Variant} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Notas    }\line \sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Esta propriedade \'e9 equivalente \'e0 propriedade \f0\b0\i0\ul0\b ItemData\f0\b0\i0\ul0  do ComboBox convencional, ela por\'e9m n\'e3o aceita apenas valores do tipo \f0\b0\i0\ul0\i Long\f0\b0\i0\ul0 , ela \'e9 uma \f0\b0\i0\ul0\i Collection\f0\b0\i0\ul0  de valores do tipo \f0\b0\i0\ul0\i Variant\f0\b0\i0\ul0 , ou seja isso significa que podem ser anexados valores de qualquer tipo e at\'e9 mesmo objetos inteiros a cada \'edtem do ComboBox.
+\line \f0\b0\i0\ul0 
+\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 Variant\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 KeyDown Evento}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csEKeyDownActiveCombo}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 KeyDown Evento;ActiveCombo Eventos}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00013}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 KeyDown Evento{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveCombo Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 O evento KeyDown ocorre quando o usu\'e1rio pressiona uma tecla enquanto um controle tem o foco. Esse evento ocorre tamb\'e9m se voc\'ea enviar um pressionamento de tecla para um controle utilizando a instru\'e7\'e3o \f0\b0\i0\ul0\b SendKeys\f0\b0\i0\ul0  do Visual Basic.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 {\b Private Sub }{\i ActiveCombo}_{\b KeyDown}({\i KeyCode} As Integer, {\i Shift} As Integer)\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 KeyPress Evento}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csEKeyPressActiveCombo}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 KeyPress Evento;ActiveCombo Eventos}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00014}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 KeyPress Evento{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveCombo Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 O evento KeyPress ocorre quando o usu\'e1rio pressiona e libera uma tecla ou combina\'e7\'e3o de teclas correspondente a um c\'f3digo ANSI enquanto um controle tem o foco. Esse evento ocorre tamb\'e9m quando voc\'ea envia um pressionamento de tecla ANSI para um controle utilizando a instru\'e7\'e3o \f0\b0\i0\ul0\b SendKeys\f0\b0\i0\ul0  do Visual Basic.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 {\b Private Sub }{\i ActiveCombo}_{\b KeyPress}({\i KeyAscii} As Integer)\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 KeyUp Evento}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csEKeyUpActiveCombo}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 KeyUp Evento;ActiveCombo Eventos}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00015}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 KeyUp Evento{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveCombo Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 O evento KeyUp ocorre quando o usu\'e1rio libera uma tecla enquanto um controle tem o foco. Esse evento ocorre tamb\'e9m se voc\'ea envia um pressionamento de tecla para um controle utilizando a instru\'e7\'e3o \f0\b0\i0\ul0\b SendKeys\f0\b0\i0\ul0  do Visual Basic.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 {\b Private Sub }{\i ActiveCombo}_{\b KeyUp}({\i KeyCode} As Integer, {\i Shift} As Integer)\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 List Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPListActiveCombo}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 List Propriedade;ActiveCombo Propriedades;Veja também AddIcon Método;Veja também IconSize Propriedade}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00016}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 List Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveCombo Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Esta propriedade representa a lista de \'edtens do ComboBox.
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveCombo}.{\b List}({\i Index} As Variant)[ = {\i value As String} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 String\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 ListCount Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPListCountActiveCombo}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 ListCount Propriedade;ActiveCombo Propriedades}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00017}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 ListCount Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveCombo Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Esta propriedade retorna o n\'famero de \'edtens do ComboBox.
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveCombo}.{\b ListCount}[ = {\i value As Integer} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 Integer\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 ListIndex Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPListIndexActiveCombo}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 ListIndex Propriedade;ActiveCombo Propriedades}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00018}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 ListIndex Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveCombo Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Esta propriedade retorna ou configura o \'edndice do item selecionado do ComboBox.
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveCombo}.{\b ListIndex}[ = {\i value As Integer} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 Integer\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 Locked Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPLockedActiveCombo}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 Locked Propriedade;ActiveCombo Propriedades}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00019}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 Locked Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveCombo Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Determina se o controle pode ser editado.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveCombo}.{\b Locked}[ = \{{\b True | False}\} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 Boolean\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 NewIndex Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPNewIndexActiveCombo}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 NewIndex Propriedade;ActiveCombo Propriedades}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00020}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 NewIndex Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveCombo Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Esta propriedade retorna o \'edndice do \'faltimo \'edtem a ser adicionado ao ComboBox.
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveCombo}.{\b NewIndex}[ = {\i value As Integer} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 Integer\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 SelLength Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPSelLengthActiveCombo}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 SelLength Propriedade;ActiveCombo Propriedades}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00021}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 SelLength Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveCombo Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 A propriedade SelLength especifica ou determina o n\'famero de caracteres selecionados na parte de texto do ComboBox.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveCombo}.{\b SelLength}[ = {\i value As Long} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 Long\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 SelStart Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPSelStartActiveCombo}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 SelStart Propriedade;ActiveCombo Propriedades}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00022}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 SelStart Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveCombo Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 A propriedade SelStart especifica ou determina o ponto inicial do texto selecionado ou a posi\'e7\'e3o do ponto de inser\'e7\'e3o se nenhum texto estiver selecionado.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveCombo}.{\b SelStart}[ = {\i value As Long} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 Long\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 SelText Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPSelTextActiveCombo}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 SelText Propriedade;ActiveCombo Propriedades}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00023}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 SelText Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveCombo Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 A propriedade SelText retorna uma seq\'fc\'eancia que cont\'e9m o texto selecionado.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveCombo}.{\b SelText}[ = {\i value As String} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 String\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 ShowIcons Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPShowIconsActiveCombo}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 ShowIcons Propriedade;ActiveCombo Propriedades;Veja também AddIcon Método;Veja também IconSize Propriedade;Veja também ImageList Propriedade}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00024}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 ShowIcons Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveCombo Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Esta propriedade define se devem ou n\'e3o ser apresentados os \'edcones no ComboBox.
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveCombo}.{\b ShowIcons}[ = \{{\b True | False}\} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 Boolean\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 Style Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPStyleActiveCombo}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 Style Propriedade;ActiveCombo Propriedades}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00025}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 Style Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveCombo Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Define o estilo do controle.
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveCombo}.{\b Style}[ = {\i CboStyleConstants} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Notas    }\line \sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Os valores v\'e1lidos para a propriedade \f0\b0\i0\ul0\b Style\f0\b0\i0\ul0  est\'e3o descritos abaixo:
+\line 
+\line \f0\b0\i0\ul0\i Dropdown Combo\f0\b0\i0\ul0 
+\line Este valor configura o ComboBox como uma combina\'e7\'e3o de uma caixa de texto e um listbox.
+\line 
+\line \f0\b0\i0\ul0\i Dropdown List\f0\b0\i0\ul0 
+\line Este valor configura o ComboBox sem a parte edit\'e1vel da caixa de texto.
+\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 CboStyleConstants (Enumeration)\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 Text Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPTextActiveCombo}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 Text Propriedade;ActiveCombo Propriedades}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00026}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 Text Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveCombo Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Esta propriedade retorna ou seta o texto digitado na parte de texto do ComboBox ou a descri\'e7\'e3o do \'edtem selecionado.
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveCombo}.{\b Text}[ = {\i value As String} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 String\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 Histórico das Alterações}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csCstHistricodasAlteraes}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 Histórico das Alterações}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00027}}}\s1\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 Histórico das Alterações\par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0\b\ul Release v1.03.0013 - 26/10/2001
+\line \f0\b0\i0\ul0 
+\line - Quebrada a compatibilidade com as vers\'f5es anteriores e para evitar conflitos foi compilado com o novo nome de arquivo: ActiveCbo.ocx;
+\line 
+\line - Alterado o tipo dos parametros das propriedades List e Itemdata para variant;
+\line 
+\line - Alterado as op\'e7\'f5es do Style para ficar igual ao combobox padr\'e3o;
+\line 
+\line \f0\b0\i0\ul0\b\ul Release v1.03.0010 - 07/04/2000
+\line \f0\b0\i0\ul0 
+\line - Incluida a propriedade IconColorDepth que permite configurar o numero m\'e1ximo de cores dos icones armazenados internamente no combo;
+\line \f0\b0\i0\ul0\b\ul 
+\line Release v1.01.0008 - 22/12/1998\f0\b0\i0\ul0 
+\line 
+\line - A propriedade Text \'e9 agora DataBound, pode ser ligada a um campo de  um controle ou classe DataProvider;
+\line 
+\line - Adicionada a propriedade Locked;
+\line 
+\line - Adicionada a propriedade ImageList para permitir ligar o ActiveCombo a um controle ImageList dos CommonControls;
+\line 
+\line - Alterada a base do indice de \'edcones de 0 para 1 para manter o padr\'e3o adotado pela Microsoft para controles que aceitam ImageList;
+\line 
+\line - Adicionadas as propriedades SelStart, SelLength e SelText;
+\line 
+\line - Alterada a propriedade Enabled para chamar a fun\'e7\'e3o da API EnableWindow para desabilitar o ComboBox realmente, e n\'e3o apenas o UserControl;
+\line 
+\line - Implementada a fun\'e7\'e3o BackColor que j\'e1 existia mas n\'e3o fazia nada, agora ela muda a cor do fundo mas ainda existe um efeito que n\'e3o altera a cor de fundo do texto;
+\line 
+\line - O SubClass do ComboBox agora \'e9 realizado tamb\'e9m em Design Time e as  altera\'e7\'f5es de Propriedade s\'e3o mostradas na hora da altera\'e7\'e3o;
+\line 
+\line - Escondido o M\'e9todo AboutBox que n\'e3o precisa aparecer na interface;
+\line 
+\line - Incluida a refer\'eancia no projeto ao arquivo de Help do controle;
+\line 
+\line \f0\b0\i0\ul0\b\ul Release v1.00.0005 - 04/12/1998
+\line \f0\b0\i0\ul0 
+\line - Release Inicial do Produto\f0\b0\i0\ul0 
+\par 
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 Sobre o ActivePack}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csCstSobreoActivePack}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 Sobre o ActivePack}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00028}}}\s1\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 Sobre o ActivePack\par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0\b\i O Software
+\line \f0\b0\i0\ul0 
+\line Este \'e9 um software FREEWARE. 
+\line 
+\line Software FREEWARE \'e9 de LIVRE uso e distribui\'e7\'e3o, n\'e3o significa que ele necessariamente seja \f0\b0\i0\ul0\i gr\'e1tis,\f0\b0\i0\ul0  pois existem direitos autorais envolvidos, e \'e9 claro tempo e dinheiro investidos. Por favor leia a Licen\'e7a de Uso.
+\line 
+\line Se voc\'ea acha que este software de alguma forma lhe est\'e1 sendo \'fatil, para que ele possa continuar sendo atualizado e aperfei\'e7oado e para que voc\'ea possa me ajudar a fazer uma poupan\'e7a para o meu filho Matheus (ele tem 4 anos) ,  torne-se um usu\'e1rio registrado depositando qualquer quantia na poupan\'e7a que abri para ele (veja o n\'famero l\'e1 embaixo). Ap\'f3s o dep\'f3sito envie um e-mail informando os dados do comprovante (data / hora / valor),  para ser registrado e receber as novas vers\'f5es do software em primeira m\'e3o e ter prioridade nas solicita\'e7\'f5es de novas funcionalidades.
+\line 
+\line Se voc\'ea achar melhor, ajude uma institui\'e7\'e3o de apoio a menores carentes que atue na sua cidade, n\'e3o d\'ea apenas dinheiro, visite regularmente, d\'ea aten\'e7\'e3o e carinho. Um sorriso pode iluminar um cora\'e7\'e3o sufocado na desesperan\'e7a. Envie-me ent\'e3o o nome e endere\'e7o da institui\'e7\'e3o que voc\'ea ajuda regularmente, para que eu possa divulg\'e1-la na HomePage e incentivar outras pessoas a faz\'ea-lo, bem como inclu\'ed-lo como usu\'e1rio registrado. 
+\line 
+\line O Usu\'e1rio registrado tem direito, al\'e9m do j\'e1 exposto, a fazer consultas sobre Visual Basic via e-mail exclusivo para usu\'e1rios registrados.
+\line 
+\line \f0\b0\i0\ul0\b\i O Autor
+\line \f0\b0\i0\ul0 
+\line Eu sou o Marcelo, analista de sistemas, casado com a \'c9rika, pai do Matheus. Programo computadores desde a d\'e9cada de 80, l\'e1 pelos meus 12 anos de idade eu j\'e1 fazia uns "programinhas" em BASIC no COMMODORE VIC-20 do meu pai. Comecei minha vida profissional programando com o D-Base  III+, depois FoxBase (que depois virou FoxPro e a MS comprou), passei alguns anos com o Clipper, trabalhei com COBOL para os minicomputadores COBRA (arghhhh) do Ex\'e9rcito Brasileiro. Conheci o VB na vers\'e3o 1.0 e desde l\'e1 tenho acompanhado a sua evolu\'e7\'e3o. Hoje, apesar de trabalhar com an\'e1lise de sistemas (OOA with UML), continuo exercitando a minha paix\'e3o pela arte de programar usando o Visual Basic 6.0. Em agosto de 1999 me certifiquei como Microsoft Certified Professional em Visual Basic 6.0.
+\line 
+\line Depois que terminei meus estudos de migra\'e7\'e3o do VB3 para o VB6, vi que tinha feito alguns controles que poderiam ser \'fateis a outras pessoas, resolvi ent\'e3o disponibiliz\'e1-los na Grande Rede.
+\line 
+\line Espero que gostem,
+\line 
+\line \f0\b0\i0\ul0\i Marcelo Leal Limaverde Cabral
+\line \f0\b0\i0\ul0 
+\line \f0\b0\i0\ul0\b Dep\'f3sitos para Registro:\f0\b0\i0\ul0 
+\line \f0\b0\i0\ul0\i Matheus Feitosa Cabral
+\line \f0\b0\i0\ul0 Caixa Econ\'f4mica Federal
+\line Ag\'eancia: 1583 - Espinheiro - Recife-PE
+\line Conta Poupan\'e7a: 13159-3
+\line 
+\line ____________________________________________
+\line http://www.activepack.cjb.net
+\line http://www.activepack.tsx.org
+\line info@activepack.cjb.net
+\line Copyright \'a9 1998-2001 Marcelo Leal Limaverde Cabral\f0\b0\i0\ul0 
+\par 
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 Licença de Uso}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csCstLicenadeUso}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 Licença de Uso}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00029}}}\s1\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 Licença de Uso\par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0\b\ul Acordo de Licen\'e7a de Uso de Usu\'e1rio Final
+\line \f0\b0\i0\ul0 
+\line SOFTWARE : RainDrops ActivePack for Visual Basic 6
+\line AUTOR    : Marcelo Leal Limaverde Cabral
+\line 
+\line O SOFTWARE, a informa\'e7\'e3o e a documenta\'e7\'e3o \'e9 distribuida "como est\'e1" sem garantias expl\'edcitas ou impl\'edcitas de nenhum tipo.
+\line 
+\line Em nenhum caso o AUTOR poder\'e1 ser processado legalmente por qualquer dano ou problema ocorrido incluindo prejuizos diretos, indiretos ou mesmo perda de informacoes em decorrencia do uso do SOFTWARE, mesmo que o AUTOR tenha sido avisado da possibilidade de tais danos.
+\line 
+\line Todo o risco relacionado com a performance do sofware bem como da sua qualidade \'e9 assumido pelo usu\'e1rio.
+\line 
+\line \'c9 proibido alterar este software de qualquer forma, incluindo mudan\'e7as ou remo\'e7\'f5es de quaisquer mensagens ou janelas.
+\line 
+\line \'c9 proibido realizar a engenharia reversa (descompila\'e7\'e3o) deste SOFTWARE.
+\line 
+\line \'c9 proibido adicionar qualquer outra informa\'e7\'e3o de copyright (direitos Autorais) \'e0quelas listadas nesta licen\'e7a, na documenta\'e7\'e3o e no SOFTWARE.
+\line 
+\line Este software pode ser distribu\'eddo gratuitamente em servi\'e7os online, BBS, ou quaisquer outras m\'eddias eletr\'f4nicas, desde que todos os arquivos sejam inclu\'eddos na distribui\'e7\'e3o. Este software n\'e3o pode ser distribu\'eddo em CD-ROM, disquete ou outra m\'eddia f\'edsica n\'e3o gratuita sem a permiss\'e3o do AUTOR.
+\line 
+\line O registro do software junto ao autor n\'e3o \'e9 obrigat\'f3rio, no entanto o usu\'e1rio registrado passa a receber as novas vers\'f5es dos controles antes da sua publica\'e7\'e3o na internet e tem direito \'e0 suporte t\'e9cnico em Visual Basic via e-mail exclusivo para usu\'e1rios registrados. Para obter informa\'e7\'f5es sobre registro visite a homepage do SOFTWARE ou envie e-mail ao AUTOR.
+\line 
+\line Todos os direitos s\'e3o reservados ao AUTOR.
+\line 
+\line Se voc\'ea n\'e3o concorda com os termos desta licen\'e7a voc\'ea deve remover o SOFTWARE dos seus dispositivos de armazenamento (discos r\'edgidos e disketes) e n\'e3o utilizar mais o SOFTWARE.
+\line 
+\line Contatos com o AUTOR:
+\line 
+\line \f0\b0\i0\ul0\b Marcelo Leal Limaverde Cabral
+\line \f0\b0\i0\ul0 
+\line ____________________________________________
+\line http://www.activepack.cjb.net
+\line http://www.activepack.tsx.org
+\line \f0\b0\i0\ul0 info@activepack.cjb.net
+\line Copyright \'a9 1998-2001 Marcelo Leal Limaverde Cabral\f0\b0\i0\ul0 
+\line \f0\b0\i0\ul0 
+\par 
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 IconSizeConstants Constantes}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csSetIconSizeConstants}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 IconSizeConstants Constantes;Constants;Settings}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00030}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 IconSizeConstants Constantes\par \pard\plain 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Usado com}\line \sb0\sa240\li0\f0\fs18\snext0 IconSize (ActiveCombo)\par }
+\sb0\sa240\li0\f0\fs18\snext0 {\b\ul Valor\tab Constante\tab\tab\tab\tab}\line 16	16x16\line 32	32x32\line \par 
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 CboStyleConstants Constantes}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csSetCboStyleConstants}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 CboStyleConstants Constantes;Constants;Settings}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00031}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 CboStyleConstants Constantes\par \pard\plain 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Usado com}\line \sb0\sa240\li0\f0\fs18\snext0 Style (ActiveCombo)\par }
+\sb0\sa240\li0\f0\fs18\snext0 {\b\ul Valor\tab Constante\tab\tab\tab\tab}\line 0	Dropdown Combo\line 2	Dropdown List\line \par 
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 ColorDepthConstants Constantes}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csSetColorDepthConstants}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 ColorDepthConstants Constantes;Constants;Settings}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00032}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 ColorDepthConstants Constantes\par \pard\plain 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Usado com}\line \sb0\sa240\li0\f0\fs18\snext0 IconColorDepth (ActiveCombo)\par }
+\sb0\sa240\li0\f0\fs18\snext0 {\b\ul Valor\tab Constante\tab\tab\tab\tab}\line 0	Default\line 1	16 Colors\line 2	256 Colors\line 3	HighColor\line 4	TrueColor\line \par 
+}

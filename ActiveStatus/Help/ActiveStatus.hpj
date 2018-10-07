@@ -1,0 +1,38 @@
+; This file is maintained by HCW. Do not modify this file directly.
+; This file was created with VSDOCX 1.0
+
+[OPTIONS]
+errorlog=VSDOCX.Err
+title=Raindrops ActiveStatus Help
+copyright=Raindrops ActiveStatus copyright (c) 2000 Raindrops Freeware Project
+citation=copyright (c) 2000 Raindrops Freeware Project
+compress=12 Hall Zeck
+oldkeyphrase=False
+warning=3
+
+[FILES]
+d:\users\mcabral\backup home\activepack\activestatus\ajuda\activestatus.rth
+
+[MAP]
+; map for ActiveStatus Control
+csCtlActiveStatus           0
+csEClickActiveStatus        0
+csEDblClickActiveStatus     0
+csPEnabledActiveStatus      0
+csPFontActiveStatus         0
+csPImageListActiveStatus    0
+csPImageSizeActiveStatus    0
+csEMouseDownActiveStatus    0
+csEMouseMoveActiveStatus    0
+csEMouseUpActiveStatus      0
+csPPanelsActiveStatus       0
+csPSimpleTextActiveStatus   0
+csPStyleActiveStatus        0
+
+[WINDOWS]
+main="Raindrops ActiveStatus Help",,, (255, 255, 255), (255, 255, 255)
+
+[CONFIG]
+BrowseButtons()
+CreateButton("btnActiveStatus", "ActiveStatus", "JumpID(`ACTIVESTATUS.HLP', `csCtlActiveStatus')")
+

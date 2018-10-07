@@ -1,0 +1,14 @@
+:Base ACTIVESCROLL.hlp
+:Title RainDrops ActiveScroll
+1 RainDrops ActivePack
+2 Sobre o ActivePack=csCstSobreoActivePack
+2 Licença de Uso=csCstLicenadeUso
+1 ActiveScroll Controle
+2 ActiveScroll Controle=csCtlActiveScroll
+2 ActiveScroll Propriedades
+3 hWnd=csPhWndActiveScroll
+3 Style=csPStyleActiveScroll
+2 Histórico das Alterações
+2 Histórico das Alterações=csCstHistricodasAlteraes
+1 Constantes
+2 EFSStyleConstants Constants=csSetEFSStyleConstants

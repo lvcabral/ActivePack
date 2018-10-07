@@ -1,0 +1,115 @@
+Microsoft (R) Help Compiler
+HCRTF 4.01.0950
+Copyright (c) Microsoft Corp 1990 - 1995. All rights reserved.
+activecbo.hpj
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csMAddIconActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csMAddItemActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPBackColorActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csEChangeActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csMClearActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csEClickActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csEDropDownActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPIconColorDepthActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPIconSizeActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPImageListActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPItemDataActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csEKeyDownActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csEKeyPressActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csEKeyUpActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPListActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPListCountActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPListIndexActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPLockedActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPNewIndexActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPSelLengthActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPSelStartActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPSelTextActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPShowIconsActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPStyleActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPTextActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csMAddIconActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csMAddItemActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPBackColorActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csEChangeActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csMClearActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csEClickActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csEDropDownActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPIconColorDepthActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPIconSizeActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPImageListActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPItemDataActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csEKeyDownActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csEKeyPressActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csEKeyUpActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPListActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPListCountActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPListIndexActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPLockedActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPNewIndexActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPSelLengthActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPSelStartActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPSelTextActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPShowIconsActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPStyleActiveCombo" is the same as the map value for "csCtlActiveCombo".
+    HC3037: Warning: activecbo.hpj : 
+	The map value for "csPTextActiveCombo" is the same as the map value for "csCtlActiveCombo".
+32	Topics
+4	Jumps
+77	Keywords
+1	Bitmap
+
+
+File size: 24,409
+Bitmaps: 1,194 bytes
+Hall+Zeck compression decreased help file by 11,565 bytes.
+Compile time: 0 minutes, 0 seconds
+0 notes, 50 warnings

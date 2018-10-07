@@ -1,0 +1,27 @@
+Produto.....: RainDrops ActivePack for Visual Basic 6
+Controle....: RainDrops ActiveCalendar Control
+Arquivo.....: ActiveCal.ocx
+Documento...: Histórico das Alterações e Correções das Releases do Produto
+
+*** Release v1.03.0014 *** 10/04/2000 ***
+- Configurado o controle para apresentar o mês sempre no modo ProperCase;
+
+*** Release v1.02.0012 *** 20/04/1999 ***
+- Incluida a data atual como ToolTip do botão Hoje;
+
+*** Release v1.01.0011 *** 21/02/1999 ***
+- Incluida rotina para traduzir automaticamente os labels com os dias da
+  semana, de acordo com a configuração do windows;
+
+*** Release v1.01.0010 *** 07/02/1999 ***
+- Melhorada consideravelmente a velocidade de redesenho do controle durante
+  alteracoes de posicao e tamanho;
+
+*** Release v1.01.0009 *** 22/12/1998 ***
+- A propriedade SelectedDate é agora DataBound, pode ser ligada a um campo de 
+  um controle ou classe DataSource;
+- Escondido o Método AboutBox que não precisa aparecer na interface;
+- Incluida a referência no projeto ao arquivo de Help do controle;
+
+*** Release v1.00.0006 *** 13/12/1998 ***
+- Release Inicial do Produto

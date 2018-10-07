@@ -1,0 +1,60 @@
+; This file is maintained by HCW. Do not modify this file directly.
+; This file was created with VSDOCX 1.0
+
+[OPTIONS]
+errorlog=VSDOCX.Err
+title=RainDrops ActiveText Help
+copyright=RainDrops ActiveText copyright (c) 2001 Raindrops Freeware Project
+citation=copyright (c) 2001 Raindrops Freeware Project
+compress=12 Hall Zeck
+oldkeyphrase=False
+warning=3
+cnt=ACTIVETEXT.cnt
+
+[FILES]
+d:\users\mcabral\backup home\activepack\activetext\ajuda\activetext.rth
+
+[MAP]
+; map for ActiveText Control
+csCtlActiveText             0
+csPAlignmentActiveText      0
+csPAppearanceActiveText     0
+csPBackColorActiveText      0
+csPBorderStyleActiveText    0
+csEChangeActiveText         0
+csEClickActiveText          0
+csPDateFormatActiveText     0
+csEDblClickActiveText       0
+csPDecimalPointActiveText   0
+csPDecimalsActiveText       0
+csPEnabledActiveText        0
+csPFloatFormatActiveText    0
+csPFocusSelectActiveText    0
+csPFontActiveText           0
+csPForeColorActiveText      0
+csEKeyDownActiveText        0
+csEKeyPressActiveText       0
+csEKeyUpActiveText          0
+csPLockedActiveText         0
+csPMaskActiveText           0
+csPMaxLengthActiveText      0
+csEMouseDownActiveText      0
+csEMouseMoveActiveText      0
+csEMouseUpActiveText        0
+csPPasswordCharActiveText   0
+csPRawTextActiveText        0
+csPSelLengthActiveText      0
+csPSelStartActiveText       0
+csPSelTextActiveText        0
+csPTextActiveText           0
+csPTextCaseActiveText       0
+csPTextMaskActiveText       0
+csPTimeFormatActiveText     0
+
+[WINDOWS]
+main="RainDrops ActiveText Help",,, (255, 255, 255), (255, 255, 255)
+
+[CONFIG]
+BrowseButtons()
+CreateButton("btnActiveText", "ActiveText", "JumpID(`ACTIVETEXT.HLP', `csCtlActiveText')")
+

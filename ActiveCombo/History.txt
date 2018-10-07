@@ -1,0 +1,36 @@
+Produto.....: RainDrops ActivePack for Visual Basic 6
+Controle....: RainDrops ActiveCombo Control
+Arquivo.....: ActiveCombo.ocx
+Documento...: Histórico das Alterações e Correções das Releases do Produto
+
+*** Release v1.03.0013 *** 26/10/2001 ***
+- Quebrada a compatibilidade com as versões anteriores e para evitar conflitos 
+  foi compilado com o novo nome de arquivo: ActiveCbo.ocx;
+- Alterado o tipo dos parametros das propriedades List e Itemdata para variant;
+- Alterado as opções do Style para ficar igual ao combobox padrão;
+
+*** Release v1.03.0010 *** 07/04/2000 ***
+- Incluida a propriedade IconColorDepth que permite configurar o número 
+  máximo de cores dos icones armazenados internamente no combo;
+
+*** Release v1.01.0008 *** 22/12/1998 ***
+- A propriedade Text é agora DataBound, pode ser ligada a um campo de 
+  um controle ou classe DataProvider;
+- Adicionada a propriedade Locked;
+- Adicionada a propriedade ImageList para permitir ligar o ActiveCombo a
+  um controle ImageList dos CommonControls;
+- Alterada a base do indice de ícones de 0 para 1 para manter o padrão 
+  adotado pela Microsoft para controles que aceitam ImageList;
+- Adicionadas as propriedades SelStart, SelLength e SelText;
+- Alterada a propriedade Enabled para chamar a função da API EnableWindow
+  para desabilitar o ComboBox realmente, e não apenas o UserControl;
+- Implementada a função BackColor que já existia mas não fazia nada, agora
+  ela muda a cor do fundo mas ainda existe um efeito que não altera a cor
+  de fundo do texto;
+- O SubClass do ComboBox agora é realizado também em Design Time e as 
+  alterações de Propriedade são mostradas na hora da alteração;
+- Escondido o Método AboutBox que não precisa aparecer na interface;
+- Incluida a referência no projeto ao arquivo de Help do controle;
+
+*** Release v1.00.0005 *** 04/12/1998 ***
+- Release Inicial do Produto

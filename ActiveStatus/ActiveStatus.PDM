@@ -1,0 +1,69 @@
+[Root]
+Most Recent Package=ActiveStatus DEP
+
+
+[Package|ActiveStatus DEP|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Projetos\ActivePack\ActiveStatus
+Controls Design-Time Support=No
+
+[Package|ActiveStatus DEP|Configure DAO ISAMs]
+Applicable=No
+
+[Package|ActiveStatus DEP|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|ActiveStatus DEP|Files Found]
+
+[Package|ActiveStatus DEP|Files Released]
+
+[Package|ActiveStatus DEP|Missing Dependency Information]
+
+[Package|ActiveStatus DEP|Out-of-Date Dependency Information]
+
+[Package|ActiveStatus DEP|Files Added]
+C:\WINDOWS\SYSTEM\MsStkPrp.dll=This file is needed for usercontrol design-time support.
+
+[Package|ActiveStatus DEP|Files Removed]
+
+[Package|ActiveStatus DEP|Files In Project]
+C:\Projetos\ActivePack\ActiveStatus\ActiveStatus.ocx=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Arquivos de Programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\Msstkprp.dll=Yes
+
+[Package|ActiveStatus DEP|Configure Registry Files]
+Applicable=
+
+[Package|ActiveStatus DEP|Configure Remote Servers]
+Applicable=
+
+[Package|ActiveStatus DEP|Install Locations]
+C:\Projetos\ActivePack\ActiveStatus\ActiveStatus.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Arquivos de Programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\Msstkprp.dll=$(WinSysPath)
+
+[Package|ActiveStatus DEP|Configure Shared Files]
+Applicable=
+
+[Package|ActiveStatus DEP|DepFile]
+DepCabFile=ActiveStatus.CAB
+DepCabRun=ActiveStatus.INF
+
+[Package|ActiveStatus DEP|Package]
+PackageFolder=C:\Projetos\ActivePack\ActiveStatus
+ProjectFolder=C:\Projetos\ActivePack\ActiveStatus
+ServerSideCab=
+File1=C:\Projetos\ActivePack\ActiveStatus\ActiveStatus.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

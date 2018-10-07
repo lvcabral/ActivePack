@@ -1,0 +1,80 @@
+; This file is maintained by HCW. Do not modify this file directly.
+; This file was created with VSDOCX 1.0
+
+[OPTIONS]
+errorlog=VSDOCX.Err
+title=RainDrops ActiveCombo Help
+copyright=RainDrops ActiveCombo copyright (c) 2001 RainDrops Freeware Project
+citation=copyright (c) 2001 RainDrops Freeware Project
+compress=12 Hall Zeck
+oldkeyphrase=False
+warning=3
+cnt=ACTIVECBO.cnt
+
+[FILES]
+d:\users\mcabral\backup home\activepack\activecombo\ajuda\activecbo.rth
+
+[MAP]
+; map for ActiveCombo Control
+csCtlActiveCombo            0
+csMAddIconActiveCombo       0
+csMAddItemActiveCombo       0
+csPBackColorActiveCombo     0
+csEChangeActiveCombo        0
+csMClearActiveCombo         0
+csEClickActiveCombo         0
+csEDropDownActiveCombo      0
+csPIconColorDepthActiveCombo              0
+csPIconSizeActiveCombo      0
+csPImageListActiveCombo     0
+csPItemDataActiveCombo      0
+csEKeyDownActiveCombo       0
+csEKeyPressActiveCombo      0
+csEKeyUpActiveCombo         0
+csPListActiveCombo          0
+csPListCountActiveCombo     0
+csPListIndexActiveCombo     0
+csPLockedActiveCombo        0
+csPNewIndexActiveCombo      0
+csPSelLengthActiveCombo     0
+csPSelStartActiveCombo      0
+csPSelTextActiveCombo       0
+csPShowIconsActiveCombo     0
+csPStyleActiveCombo         0
+csPTextActiveCombo          0
+; map for ActiveCombo Control
+csCtlActiveCombo            0
+csMAddIconActiveCombo       0
+csMAddItemActiveCombo       0
+csPBackColorActiveCombo     0
+csEChangeActiveCombo        0
+csMClearActiveCombo         0
+csEClickActiveCombo         0
+csEDropDownActiveCombo      0
+csPIconColorDepthActiveCombo              0
+csPIconSizeActiveCombo      0
+csPImageListActiveCombo     0
+csPItemDataActiveCombo      0
+csEKeyDownActiveCombo       0
+csEKeyPressActiveCombo      0
+csEKeyUpActiveCombo         0
+csPListActiveCombo          0
+csPListCountActiveCombo     0
+csPListIndexActiveCombo     0
+csPLockedActiveCombo        0
+csPNewIndexActiveCombo      0
+csPSelLengthActiveCombo     0
+csPSelStartActiveCombo      0
+csPSelTextActiveCombo       0
+csPShowIconsActiveCombo     0
+csPStyleActiveCombo         0
+csPTextActiveCombo          0
+
+[WINDOWS]
+main="RainDrops ActiveCombo Help",,, (255, 255, 255), (255, 255, 255)
+
+[CONFIG]
+BrowseButtons()
+CreateButton("btnActiveCombo", "ActiveCombo", "JumpID(`ACTIVECBO.HLP', `csCtlActiveCombo')")
+CreateButton("btnActiveCombo", "ActiveCombo", "JumpID(`ACTIVECBO.HLP', `csCtlActiveCombo')")
+

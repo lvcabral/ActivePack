@@ -1,0 +1,74 @@
+Produto.....: RainDrops ActivePack for Visual Basic 6
+Controle....: RainDrops ActiveText Control
+Arquivo.....: ActiveText.ocx
+Documento...: Histórico das Alterações e Correções das Releases do Controle
+
+*** Release v1.03.0035 *** 30/10/2001 ***
+- Implementado o tratamento correto de números negativos tanto para a [Integer Mask]
+  como para a [Float Mask];
+
+*** Release v1.03.0034 *** 18/04/2001 ***
+- Corrigido bug que apagava o conteúdo do ActiveText quando este estava com
+  a propriedade Locked = True e uma tecla era pressionada;
+
+*** Release v1.03.0033 *** 24/06/2000 ***
+- Alterado o comportamento da propriedade RawText para formatar as máscaras 
+  [Date Mask] e [Time Mask] sem os caracteres de separação;
+
+*** Release v1.03.0032 *** 18/04/2000 ***
+- Incluida a possibilidade de configurar posições da [Custom Mask] para aceitar 
+  outros tipos de caracteres que não apenas os numericos. 
+  Os caracteres especiais são:  
+  Apenas letras e espaço   - "?" 
+  Apenas número e espaço   - "#"
+  Letras, números e espaço - "&";
+- Corrigido o bug da Máscara de CGC que eliminava os zeros à esquerda no LostFocus;
+- Corrigida a Máscara de Telefone para aceitar espaços quando o DDD e prefixo forem 
+  de apenas dois e três digitos respectivamente;
+- Permite na [Integer Mask] números negativos, bastando que o primeiro caractere 
+  digitado seja o sinal negativo "-";
+- Autoformata o controle também quando o controle esta no modo [Integer Mask] evitando
+  que o controle retorne "";
+- Ao usuário mudar as propriedades Decimals e DecimalPoint quando o contole está no
+  modo [Float Mask] o texto é autoformatado;
+- Corrigido bug que ignorava o MaxLength quando o TextMask era alterado em Runtime;
+- Incluida a classe CActiveText para tratar globalmente os eventos de todos os 
+  controles ActiveText da aplicação;
+
+*** Release v1.03.0023 *** 16/06/1999 ***
+- Criada a propriedade FloatFormat para permitir a configuração da Auto
+  formatação do TextMask [Float Mask];
+- Alterada a propriedade RawText para retornar corretamente para o 
+  TextMask [Float Mask], o valor digitado só com o ponto decimal;
+- Compilação com o Service Pack 3 do Visual Studio 6;
+
+*** Release v1.02.0022 *** 28/04/1999 ***
+- Corrigido erro na rotina de mascara que permitia a entrada de uma letra 
+  quando o texto estava selecionado;
+- Corrigido erro quando a máscara iniciava com caracter diferente de #;
+- O DecimalPoint default agora é o padrão configurado no Windows;
+- Incluida a Autoformatação para o TextMask [Float Mask] e [Integer Mask];
+
+*** Release v1.01.0019 *** 22/12/1998 ***
+- Alterado o tratamento interno da propriedade BackColor para alterar o
+  BackColor do TextBox e do UserControl simultaneamente;
+- Adicionada a propriedade Appearance para permitir o usuário configurar
+  o ActiveText com a borda Flat ou 3D (que ainda é o default);
+- Adicionada a propriedade Alignment para que o usuário possa alterar a
+  justificação do texto, as máscaras numéricas mudam por default essa
+  propriedade para Right Justify;
+- Implementada, na janela de propriedades, rotina para desabilitar as 
+  propriedades não utilizadas na máscara configurada;
+- Corrigida a rotina de Resize do TextBox para que fique exatamente 1
+  pixel apos o inicio do UserControl e 1 pixel antes do final, tanto
+  na Largura como na Altura;
+- As propriedades Text e RawText são agora DataBound, podem ser ligadas
+  a um campo de um controle ou classe DataProvider;
+- Adicionada a propriedade Mask e mais uma opção na propriedade TextMask 
+  chamada [Custom Mask] que mapeia a máscara para a nova propriedade;
+- A tecla "."(ponto) agora sempre representa o caracter definido na pro-
+  priedade DecimalPoint, quando a propriedade TextMask for [Float Mask];
+- Incluida a referência no projeto ao arquivo de Help do controle;
+
+*** Release v1.00.0015 *** 13/12/1998 ***
+- Release Inicial do Controle

@@ -1,0 +1,66 @@
+Produto.....: RainDrops ActivePack for Visual Basic 6
+Controle....: RainDrops ActiveDate Control
+Arquivo.....: ActiveDate.ocx
+Documento...: Histórico das Alterações e Correções das Releases do Produto
+
+*** Release v1.03.0028 *** 23/02/2001 ***
+- Incluido o tratamento da tecla Enter para fechar o controle retornando
+  a data atual caso o controle esteja em branco;
+- Alterados os bitmaps do botão para apresentar as cores do sistema e não
+  o cinza padrão windows 95;
+
+*** Release v1.03.0025 *** 22/09/2000 ***
+- Incluido controle de erro no evento Click (DatePopup) para evitar erro intermitente
+  quando o usuário dá um duplo click no botão;
+
+*** Release v1.03.0024 *** 05/05/2000 ***
+- Incluido controle de erro no evento ReadProperties para evitar erro intermitente 
+  na abertura de forms;
+
+*** Release v1.03.0023 *** 15/04/2000 ***
+- Alterado o controle para permitir o seu uso em Web Browser's ActiveX enabled;
+- Configurado para apresentar os dias da semana sempre em maiúsculas;
+- Configurado para apresentar o mês no modo ProperCase;
+- O botão popup do controle agora fica visivelmente desabilitado quando o valor
+  da propriedade Enabled for falso;
+
+*** Release v1.03.0020 *** 12/10/1999 ***
+- Alterada o Método de KeyPress para não eliminar a primeira tecla após o
+  fechamento do calendário PopUp;
+
+*** Release v1.03.0018 *** 03/07/1999 ***
+- Corrigido o problema que ocorria quando o controle era colocado em um Form
+  modal: a formatação do TodayCaption não era usada nem o Tooltip do botão;
+- Corrigido o problema que ocorria quando o controle era colocado em um Form
+  modal: o Tooltip do botão Hoje não era mostrado;
+- Corrigido o problema que ocorria quando o controle era colocado em um Form
+  modal: a tecla ESC não fechava o calendário popup;
+- Corrigido o problema que ocorria quando o controle era colocado em um Form
+  modal: o botão ficava apertado e não voltava mais à posição original;
+- Quebrada a compatibilidade binária com a versão anterior para implementar
+  a propriedade Text como default;
+- Alterado o comportamento da tecla F4 para imitar um ComboBox, agora ele
+  abre e fecha o calendário PopUp;
+- Para permitir fechar o calendário PopUp nas telas modal usando o mouse 
+  o usuario pode clicar na barra de mes/ano;
+
+*** Release v1.02.0014 *** 20/04/1999 ***
+- Incluido um ToolTip no botão hoje com a data atual no formato "Long Date";
+
+*** Release v1.01.0012 *** 21/02/1999 ***
+- Incluida rotina para traduzir automaticamente os labels com os dias da
+  semana, de acordo com a configuração do windows;
+
+*** Release v1.01.0010 *** 22/12/1998 ***
+- A propriedade Text é agora DataBound, pode ser ligada a um campo de 
+  um controle ou classe DataProvider;
+- A propriedade Text só aceita uma data válida, caso seja digitada uma
+  data inválida o campo é limpo;
+- Escondido o Método AboutBox que não precisa aparecer na interface;
+- Adicionadas as propriedades BackColor, ForeColor e Locked;
+- Adicionadas as propriedades de fonte escondidas para compatibilidade,
+  FontBold, FontItalic, FontName, FontUnderline e FontStrikeThru;
+- Incluida a referência no projeto ao arquivo de Help do controle;
+
+*** Release v1.00.0006 *** 13/12/1998 ***
+- Release Inicial do Produto

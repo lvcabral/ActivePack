@@ -1,0 +1,43 @@
+Produto.....: RainDrops ActivePack for Visual Basic 6
+Controle....: RainDrops ActiveForm Control
+Arquivo.....: ActiveForm.ocx
+Documento...: Histórico das Alterações e Correções das Releases do Produto
+
+*** Release v1.03.0018 *** 27/09/2000 ***
+
+- Incluídos os métodos SetTrayIcon e SetTrayTooltip para permitir a alteração
+  do ícone e do ToolTip do form minimizado no tray;
+- Corrigido o problema que ocorria quando era usado um menu PopUp nos eventos
+  de Mouse que deixava o menu aberto quando o usuário clicava na barra de 
+  tarefas ou no desktop;
+
+*** Release v1.03.0017 *** 24/07/2000 ***
+
+- Incluida a propriedade RestoreMode para configurar a forma de Restaurar a
+  janela minimizada para o Tray, o Default é DoubleClick para manter a
+  compatibilidade;
+- Incluido o evento TrayDblClick que é gerado quando o usuário executa um
+  DblClick no icone do Form no Tray e a propriedade RestoreMode está
+  configurada como Manual ou SingleClick;
+
+*** Release v1.03.0016 *** 07/04/2000 ***
+- Corrigido bug que alterava o ScaleMode do Form quando a propriedade 
+  BackGround estava configurada para Gradient, isso conflitava com o
+  comportamento da propriedade Resize Controls;
+
+*** Release v1.02.0013 *** 30/04/1999 ***
+- Corrigido bug que não permitia o uso em MDIForms, e incluida mensagem de
+  aviso nas propriedades não suportadas nesse tipo de container;
+- Incluida a propriedade Background que permite configurar o fundo do form
+  com um Degradê (Gradient), Transparente, ou com um papel de parede;
+- Incluidas as propriedades BackGradient, BackColor e BackColor2;
+- Incluida a propriedade MinimizeToTray;
+- Incluidos os eventos TrayLeftClick e TrayRightClick;
+- Incluido o método Restore;
+
+*** Release v1.00.0008 *** 22/12/1998 ***
+- Escondido o Método AboutBox que não precisa aparecer na interface;
+- Incluida a referência no projeto ao arquivo de Help do controle;
+
+*** Release v1.00.0006 *** 13/12/1998 ***
+- Release Inicial do Produto

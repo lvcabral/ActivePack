@@ -1,0 +1,18 @@
+[Version]
+Version=1.1.0.10
+
+[ActiveDate.ocx <0009>]
+Dest=$(WinSysPath)
+Date=22/12/1998
+Time=19:26
+Version=1.1.0.10
+CABFilename=
+CABINFFile=adate.INF
+Uses1=MSVBVM60.DLL
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=ActiveDate.hlp
+Uses8=Msstkprp.dll

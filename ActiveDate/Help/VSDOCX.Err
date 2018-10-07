@@ -1,0 +1,43 @@
+Microsoft (R) Help Compiler
+HCRTF 4.01.0950
+Copyright (c) Microsoft Corp 1990 - 1995. All rights reserved.
+activedate.hpj
+    HC3037: Warning: activedate.hpj : 
+	The map value for "csPBackColorActiveDate" is the same as the map value for "csCtlActiveDate".
+    HC3037: Warning: activedate.hpj : 
+	The map value for "csEChangeActiveDate" is the same as the map value for "csCtlActiveDate".
+    HC3037: Warning: activedate.hpj : 
+	The map value for "csEClickActiveDate" is the same as the map value for "csCtlActiveDate".
+    HC3037: Warning: activedate.hpj : 
+	The map value for "csPEnabledActiveDate" is the same as the map value for "csCtlActiveDate".
+    HC3037: Warning: activedate.hpj : 
+	The map value for "csPForeColorActiveDate" is the same as the map value for "csCtlActiveDate".
+    HC3037: Warning: activedate.hpj : 
+	The map value for "csEKeyDownActiveDate" is the same as the map value for "csCtlActiveDate".
+    HC3037: Warning: activedate.hpj : 
+	The map value for "csEKeyPressActiveDate" is the same as the map value for "csCtlActiveDate".
+    HC3037: Warning: activedate.hpj : 
+	The map value for "csEKeyUpActiveDate" is the same as the map value for "csCtlActiveDate".
+    HC3037: Warning: activedate.hpj : 
+	The map value for "csPLockedActiveDate" is the same as the map value for "csCtlActiveDate".
+    HC3037: Warning: activedate.hpj : 
+	The map value for "csPSelLengthActiveDate" is the same as the map value for "csCtlActiveDate".
+    HC3037: Warning: activedate.hpj : 
+	The map value for "csPSelStartActiveDate" is the same as the map value for "csCtlActiveDate".
+    HC3037: Warning: activedate.hpj : 
+	The map value for "csPSelTextActiveDate" is the same as the map value for "csCtlActiveDate".
+    HC3037: Warning: activedate.hpj : 
+	The map value for "csPTextActiveDate" is the same as the map value for "csCtlActiveDate".
+    HC3037: Warning: activedate.hpj : 
+	The map value for "csPTodayCaptionActiveDate" is the same as the map value for "csCtlActiveDate".
+18	Topics
+0	Jumps
+35	Keywords
+1	Bitmap
+
+
+File size: 18,187
+Bitmaps: 1,036 bytes
+Hall+Zeck compression decreased help file by 7,813 bytes.
+Compile time: 0 minutes, 0 seconds
+0 notes, 14 warnings

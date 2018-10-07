@@ -1,0 +1,143 @@
+[Root]
+Most Recent Package=ActiveDate DEP
+
+
+[Package|ActiveDate INF|Root]
+SubWizProgID=PDWizard.InetCABPkgSubWiz
+BuildFolder=C:\Projetos\ActivePack\ActiveDate\Install
+Controls Design-Time Support=No
+
+[Package|ActiveDate INF|Configure DAO ISAMs]
+Applicable=No
+
+[Package|ActiveDate INF|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|ActiveDate INF|Files Found]
+
+[Package|ActiveDate INF|Files Released]
+
+[Package|ActiveDate INF|Missing Dependency Information]
+
+[Package|ActiveDate INF|Out-of-Date Dependency Information]
+
+[Package|ActiveDate INF|Files Added]
+C:\WINDOWS\SYSTEM\MsStkPrp.dll=This file is needed for usercontrol design-time support.
+C:\Projetos\ActivePack\ActiveDate\ActiveDate.DEP=
+
+[Package|ActiveDate INF|Files Removed]
+c:\windows\system\msstkprp.dll=
+c:\windows\system\msvbvm60.dll=
+c:\windows\system\oleaut32.dll=
+c:\windows\system\olepro32.dll=
+c:\windows\system\asycfilt.dll=
+c:\windows\system\stdole2.tlb=
+c:\arquivos de programas\microsoft visual studio\vb98\wizards\pdwizard\redist\comcat.dll=
+
+[Package|ActiveDate INF|Files In Project]
+C:\Projetos\ActivePack\ActiveDate\ActiveDate.ocx=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=No
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=No
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=No
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=No
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=No
+C:\Arquivos de Programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\WINDOWS\SYSTEM\Msstkprp.dll=No
+C:\Projetos\ActivePack\ActiveDate\ActiveDate.DEP=Yes
+
+[Package|ActiveDate INF|Configure Registry Files]
+Applicable=No
+
+[Package|ActiveDate INF|Configure Remote Servers]
+Applicable=No
+
+[Package|ActiveDate INF|Install Locations]
+
+[Package|ActiveDate INF|Configure Shared Files]
+Applicable=
+
+[Package|ActiveDate INF|ComponentInfo]
+ActiveDate.ocx=thiscab
+ActiveDate.DEP=thiscab
+
+[Package|ActiveDate INF|ObjectInfo]
+ActiveDate=false;false
+
+[Package|ActiveDate INF|Package]
+PackageFolder=C:\Projetos\ActivePack\ActiveDate\Install
+ProjectFolder=C:\Projetos\ActivePack\ActiveDate
+ServerSideCab=C:\Projetos\ActivePack\ActiveDate\Install\ActiveDate.CAB
+File1=C:\Projetos\ActivePack\ActiveDate\Install\ActiveDate.CAB
+File2=C:\Projetos\ActivePack\ActiveDate\Install\ActiveDate.HTM
+Handler1=PDWizard.WebPostDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+
+
+[Package|ActiveDate DEP|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Projetos\ActivePack\ActiveDate
+Controls Design-Time Support=Yes
+
+[Package|ActiveDate DEP|Configure DAO ISAMs]
+Applicable=No
+
+[Package|ActiveDate DEP|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|ActiveDate DEP|Files Found]
+
+[Package|ActiveDate DEP|Files Released]
+
+[Package|ActiveDate DEP|Missing Dependency Information]
+
+[Package|ActiveDate DEP|Out-of-Date Dependency Information]
+
+[Package|ActiveDate DEP|Files Added]
+c:\windows\system\msstkprp.dll=This file is needed for usercontrol design-time support.
+
+[Package|ActiveDate DEP|Files Removed]
+
+[Package|ActiveDate DEP|Files In Project]
+C:\Projetos\ActivePack\ActiveDate\ActiveDate.ocx=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Arquivos de Programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\Msstkprp.dll=Yes
+C:\Projetos\ActivePack\Help\ActiveDate.hlp=Yes
+
+[Package|ActiveDate DEP|Configure Registry Files]
+Applicable=
+
+[Package|ActiveDate DEP|Configure Remote Servers]
+Applicable=
+
+[Package|ActiveDate DEP|Install Locations]
+C:\Projetos\ActivePack\ActiveDate\ActiveDate.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Arquivos de Programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\Msstkprp.dll=$(WinSysPath)
+C:\Projetos\ActivePack\Help\ActiveDate.hlp=$(AppPath)
+
+[Package|ActiveDate DEP|Configure Shared Files]
+Applicable=
+
+[Package|ActiveDate DEP|DepFile]
+DepCabFile=
+DepCabRun=adate.INF
+
+[Package|ActiveDate DEP|Package]
+PackageFolder=C:\Projetos\ActivePack\ActiveDate
+ProjectFolder=C:\Projetos\ActivePack\ActiveDate
+ServerSideCab=
+File1=C:\Projetos\ActivePack\ActiveDate\ActiveDate.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

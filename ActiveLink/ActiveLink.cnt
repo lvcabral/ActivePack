@@ -1,0 +1,14 @@
+:Base ACTIVELINK.hlp
+:Title RainDrops ActiveLink
+1 RainDrops ActivePack
+2 Sobre o ActivePack=csCstSobreoActivePack
+2 Licença de Uso=csCstLicenadeUso
+1 Controle ActiveLink 
+3 Controle ActiveLink=csCtlActiveLink
+2 Propriedades do ActiveLink 
+4 Caption*=csPCaptionActiveLink
+4 Link=csPLinkActiveLink
+4 MouseIcon=csPMouseIconActiveLink
+4 MousePointer=csPMousePointerActiveLink
+2 Histórico de Alterações
+2 Histórico de Alterações=csCstHistricodeAlteraes

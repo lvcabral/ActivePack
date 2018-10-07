@@ -1,0 +1,12 @@
+Produto.....: RainDrops ActivePack for Visual Basic 6
+Controle....: RainDrops ActiveStatus Control
+Arquivo.....: ActiveStatus.ocx
+Documento...: Histórico das Alterações e Correções das Releases do Produto
+
+*** Release v1.03.0005 *** 10/04/2000 ***
+- Paineis com estilo (Date, Time, Caps, Num, Ins e Scrl) agora são centralizados 
+  por Default;
+- Compilação com o Service Pack 3 do Visual Studio 6;
+
+*** Release v1.02.0003 *** 20/04/1999 ***
+- Release Inicial do Produto

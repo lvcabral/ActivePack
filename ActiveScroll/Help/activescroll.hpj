@@ -1,0 +1,28 @@
+; This file is maintained by HCW. Do not modify this file directly.
+; This file was created with VSDOCX 1.0
+
+[OPTIONS]
+errorlog=VSDOCX.Err
+title=RainDrops ActiveScroll Help
+copyright=RainDrops ActiveScroll copyright (c) 2000 RainDrops Freeware Project
+citation=copyright (c) 2000 RainDrops Freeware Project
+compress=12 Hall Zeck
+oldkeyphrase=False
+warning=3
+
+[FILES]
+d:\users\mcabral\backup home\activepack\activescroll\ajuda\activescroll.rth
+
+[MAP]
+; map for ActiveScroll Control
+csCtlActiveScroll           0
+csPhWndActiveScroll         0
+csPStyleActiveScroll        0
+
+[WINDOWS]
+main="RainDrops ActiveScroll Help",,, (255, 255, 255), (255, 255, 255)
+
+[CONFIG]
+BrowseButtons()
+CreateButton("btnActiveScroll", "ActiveScroll", "JumpID(`ACTIVESCROLL.HLP', `csCtlActiveScroll')")
+

@@ -1,0 +1,340 @@
+VERSION 5.00
+Begin VB.PropertyPage ControlStyles 
+   Caption         =   "Custom"
+   ClientHeight    =   3195
+   ClientLeft      =   0
+   ClientTop       =   0
+   ClientWidth     =   5625
+   LockControls    =   -1  'True
+   PaletteMode     =   0  'Halftone
+   ScaleHeight     =   3195
+   ScaleWidth      =   5625
+   Begin VB.ComboBox cboFloatFormat 
+      Height          =   315
+      ItemData        =   "ActiveText.pgx":0000
+      Left            =   60
+      List            =   "ActiveText.pgx":0010
+      Style           =   2  'Dropdown List
+      TabIndex        =   21
+      Top             =   2760
+      Width           =   1920
+   End
+   Begin VB.TextBox txtMask 
+      Height          =   315
+      Left            =   3360
+      TabIndex        =   19
+      Top             =   2220
+      Width           =   2115
+   End
+   Begin VB.ComboBox cboTimeFormat 
+      Height          =   315
+      ItemData        =   "ActiveText.pgx":0066
+      Left            =   60
+      List            =   "ActiveText.pgx":0070
+      Style           =   2  'Dropdown List
+      TabIndex        =   7
+      Top             =   2160
+      Width           =   1920
+   End
+   Begin VB.ComboBox cboDateFormat 
+      Height          =   315
+      ItemData        =   "ActiveText.pgx":008C
+      Left            =   60
+      List            =   "ActiveText.pgx":009C
+      Style           =   2  'Dropdown List
+      TabIndex        =   5
+      Top             =   1560
+      Width           =   1920
+   End
+   Begin VB.ComboBox cboTextCase 
+      Height          =   315
+      ItemData        =   "ActiveText.pgx":00DC
+      Left            =   90
+      List            =   "ActiveText.pgx":00EC
+      Style           =   2  'Dropdown List
+      TabIndex        =   3
+      Top             =   960
+      Width           =   1920
+   End
+   Begin VB.ComboBox cboTextMask 
+      Height          =   315
+      ItemData        =   "ActiveText.pgx":012A
+      Left            =   90
+      List            =   "ActiveText.pgx":014C
+      Style           =   2  'Dropdown List
+      TabIndex        =   1
+      Top             =   360
+      Width           =   1920
+   End
+   Begin VB.Frame Frame1 
+      Caption         =   "Toggles"
+      Height          =   1935
+      Left            =   3900
+      TabIndex        =   14
+      Top             =   120
+      Width           =   1575
+      Begin VB.CheckBox chkBorder 
+         Caption         =   "Show Border"
+         Height          =   285
+         Left            =   180
+         TabIndex        =   18
+         Top             =   1500
+         Width           =   1260
+      End
+      Begin VB.CheckBox chkFocusSelect 
+         Caption         =   "FocusSelect"
+         Height          =   285
+         Left            =   180
+         TabIndex        =   17
+         Top             =   1080
+         Width           =   1200
+      End
+      Begin VB.CheckBox chkEnabled 
+         Caption         =   "Enabled"
+         Height          =   285
+         Left            =   180
+         TabIndex        =   15
+         Top             =   300
+         Width           =   1320
+      End
+      Begin VB.CheckBox chkLocked 
+         Caption         =   "Locked"
+         Height          =   285
+         Left            =   180
+         TabIndex        =   16
+         Top             =   675
+         Width           =   1320
+      End
+   End
+   Begin VB.TextBox txtDecimalPoint 
+      Alignment       =   2  'Center
+      Height          =   330
+      Left            =   3360
+      MaxLength       =   1
+      TabIndex        =   13
+      Top             =   1560
+      Width           =   360
+   End
+   Begin VB.TextBox txtDecimals 
+      Alignment       =   1  'Right Justify
+      Height          =   330
+      Left            =   3360
+      MaxLength       =   1
+      TabIndex        =   11
+      Top             =   960
+      Width           =   360
+   End
+   Begin VB.TextBox txtMaxLength 
+      Alignment       =   1  'Right Justify
+      Height          =   330
+      Left            =   3120
+      MaxLength       =   5
+      TabIndex        =   9
+      Top             =   360
+      Width           =   600
+   End
+   Begin VB.Label Label1 
+      Caption         =   "Float Format:"
+      Height          =   240
+      Index           =   4
+      Left            =   90
+      TabIndex        =   22
+      Top             =   2520
+      Width           =   1920
+   End
+   Begin VB.Label lblCustomFormat 
+      Caption         =   "Mask:"
+      Height          =   240
+      Left            =   2160
+      TabIndex        =   20
+      Top             =   2265
+      Width           =   1080
+   End
+   Begin VB.Label Label1 
+      Caption         =   "Time Format:"
+      Height          =   240
+      Index           =   3
+      Left            =   90
+      TabIndex        =   6
+      Top             =   1920
+      Width           =   1920
+   End
+   Begin VB.Label Label1 
+      Caption         =   "Date Format:"
+      Height          =   240
+      Index           =   2
+      Left            =   90
+      TabIndex        =   4
+      Top             =   1320
+      Width           =   1920
+   End
+   Begin VB.Label Label1 
+      Caption         =   "Text Case:"
+      Height          =   240
+      Index           =   1
+      Left            =   120
+      TabIndex        =   2
+      Top             =   720
+      Width           =   1920
+   End
+   Begin VB.Label Label1 
+      Caption         =   "Text Mask:"
+      Height          =   240
+      Index           =   0
+      Left            =   120
+      TabIndex        =   0
+      Top             =   120
+      Width           =   1920
+   End
+   Begin VB.Label lblDecimalPoint 
+      Caption         =   "DecimalPoint:"
+      Height          =   240
+      Left            =   2160
+      TabIndex        =   12
+      Top             =   1620
+      Width           =   1080
+   End
+   Begin VB.Label lblDecimals 
+      Caption         =   "Decimals:"
+      Height          =   240
+      Left            =   2160
+      TabIndex        =   10
+      Top             =   1020
+      Width           =   1080
+   End
+   Begin VB.Label lblMaxLength 
+      Caption         =   "MaxLength:"
+      Height          =   240
+      Left            =   2160
+      TabIndex        =   8
+      Top             =   420
+      Width           =   900
+   End
+End
+Attribute VB_Name = "ControlStyles"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = True
+Attribute VB_PredeclaredId = False
+Attribute VB_Exposed = True
+Option Explicit
+
+Private Sub cboDateFormat_Click()
+    Changed = True
+End Sub
+
+Private Sub cboFloatFormat_Click()
+    Changed = True
+End Sub
+
+Private Sub cboTextCase_Click()
+    Changed = True
+End Sub
+
+Private Sub cboTextMask_Click()
+Dim Index As Long
+    Index = cboTextMask.ListIndex
+    cboTextCase.Enabled = False
+    cboDateFormat.Enabled = False
+    cboTimeFormat.Enabled = False
+    cboFloatFormat.Enabled = False
+    txtMaxLength.Enabled = False
+    txtDecimals.Enabled = False
+    txtDecimalPoint.Enabled = False
+    txtMask.Enabled = False
+    Select Case Index
+    Case 0  'No Mask
+       cboTextCase.Enabled = True
+       txtMaxLength.Enabled = True
+    Case 1  'Date
+       cboDateFormat.Enabled = True
+    Case 2  'Time
+       cboTimeFormat.Enabled = True
+    Case 3  'Integer
+       txtMaxLength.Enabled = True
+    Case 4  'Float
+       txtMaxLength.Enabled = True
+       txtDecimals.Enabled = True
+       txtDecimalPoint.Enabled = True
+       cboFloatFormat.Enabled = True
+    Case 9  'Custom
+       cboTextCase.Enabled = True
+       txtMask.Enabled = True
+    End Select
+    Changed = True
+End Sub
+
+Private Sub cboTimeFormat_Click()
+    Changed = True
+End Sub
+
+Private Sub chkLocked_Click()
+    Changed = True
+End Sub
+
+Private Sub txtMask_Change()
+    Changed = True
+End Sub
+
+Private Sub txtDecimalPoint_Change()
+    Changed = True
+End Sub
+
+Private Sub txtDecimals_Change()
+    Changed = True
+End Sub
+
+Private Sub txtMaxLength_Change()
+    Changed = True
+End Sub
+
+Private Sub chkEnabled_Click()
+    Changed = True
+End Sub
+
+Private Sub chkFocusSelect_Click()
+    Changed = True
+End Sub
+
+Private Sub PropertyPage_ApplyChanges()
+    SelectedControls(0).TextMask = cboTextMask.ListIndex
+    Select Case cboTextMask.ListIndex
+    Case 0  'No Mask
+        SelectedControls(0).TextCase = cboTextCase.ListIndex
+        SelectedControls(0).MaxLength = txtMaxLength.Text
+    Case 1  'Date
+        SelectedControls(0).DateFormat = cboDateFormat.ListIndex
+    Case 2  'Time
+        SelectedControls(0).TimeFormat = cboTimeFormat.ListIndex
+    Case 3  'Integer
+       SelectedControls(0).MaxLength = txtMaxLength.Text
+    Case 4  'Float
+        SelectedControls(0).MaxLength = txtMaxLength.Text
+        SelectedControls(0).DecimalPoint = txtDecimalPoint.Text
+        SelectedControls(0).Decimals = txtDecimals.Text
+        SelectedControls(0).FloatFormat = cboFloatFormat.ListIndex
+    Case 9  'Custom
+        SelectedControls(0).TextCase = cboTextCase.ListIndex
+        SelectedControls(0).Mask = txtMask.Text
+    End Select
+    SelectedControls(0).Locked = (chkLocked.Value = vbChecked)
+    SelectedControls(0).Enabled = (chkEnabled.Value = vbChecked)
+    SelectedControls(0).FocusSelect = (chkFocusSelect.Value = vbChecked)
+    SelectedControls(0).BorderStyle = chkBorder.Value
+End Sub
+
+Private Sub PropertyPage_SelectionChanged()
+    cboTextMask.ListIndex = SelectedControls(0).TextMask
+    cboTextCase.ListIndex = SelectedControls(0).TextCase
+    cboDateFormat.ListIndex = SelectedControls(0).DateFormat
+    cboTimeFormat.ListIndex = SelectedControls(0).TimeFormat
+    cboFloatFormat.ListIndex = SelectedControls(0).FloatFormat
+    chkLocked.Value = (SelectedControls(0).Locked And vbChecked)
+    txtDecimalPoint.Text = SelectedControls(0).DecimalPoint
+    txtDecimals.Text = SelectedControls(0).Decimals
+    txtMaxLength.Text = SelectedControls(0).MaxLength
+    chkEnabled.Value = (SelectedControls(0).Enabled And vbChecked)
+    chkFocusSelect.Value = (SelectedControls(0).FocusSelect And vbChecked)
+    chkBorder.Value = SelectedControls(0).BorderStyle
+    txtMask.Text = SelectedControls(0).Mask
+End Sub
+

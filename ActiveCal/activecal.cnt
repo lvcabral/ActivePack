@@ -1,0 +1,18 @@
+:Base ACTIVECAL.hlp
+:Title RainDrops ActiveCalendar
+1 RainDrops ActivePack
+2 Sobre o ActivePack=csCstSobreoActivePack
+2 Licença de Uso=csCstLicenadeUso
+1 ActiveCalendar Controle
+2 ActiveCalendar Controle=csCtlActiveCalendar
+2 ActiveCalendar Propriedades
+3 BorderStyle=csPBorderStyleActiveCalendar
+3 SelectedDate=csPSelectedDateActiveCalendar
+3 TodayCaption=csPTodayCaptionActiveCalendar
+2 ActiveCalendar Eventos
+3 Click=csEClickActiveCalendar
+3 DblClick=csEDblClickActiveCalendar
+2 Histórico das Alterações
+3 Histórico das Alterações=csCstHistricodasAlteraes
+1 Constantes
+2 BorderStyleOptions Constantes=csSetBorderStyleOptions

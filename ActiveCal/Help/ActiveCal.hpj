@@ -1,0 +1,31 @@
+; This file is maintained by HCW. Do not modify this file directly.
+; This file was created with VSDOCX 1.0
+
+[OPTIONS]
+errorlog=VSDOCX.Err
+title=RainDrops ActiveCalendar Help
+copyright=RainDrops ActiveCalendar copyright (c) 2000 RainDrops Software Design
+citation=copyright (c) 2000 RainDrops Software Design
+compress=12 Hall Zeck
+oldkeyphrase=False
+warning=3
+
+[FILES]
+d:\users\mcabral\backup home\activepack\activecal\ajuda\activecal.rth
+
+[MAP]
+; map for ActiveCalendar Control
+csCtlActiveCalendar         0
+csPBorderStyleActiveCalendar              0
+csEClickActiveCalendar      0
+csEDblClickActiveCalendar   0
+csPSelectedDateActiveCalendar             0
+csPTodayCaptionActiveCalendar             0
+
+[WINDOWS]
+main="RainDrops ActiveCalendar Help",,, (255, 255, 255), (255, 255, 255)
+
+[CONFIG]
+BrowseButtons()
+CreateButton("btnActiveCalendar", "ActiveCalendar", "JumpID(`ACTIVECAL.HLP', `csCtlActiveCalendar')")
+

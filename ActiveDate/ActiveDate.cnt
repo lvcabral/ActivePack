@@ -1,0 +1,25 @@
+:Base ACTIVEDATE.hlp
+:Title RainDrops ActiveDate
+1 RainDrops ActivePack
+2 Sobre o ActivePack=csCstSobreoActivePack
+2 Licença de Uso=csCstLicenadeUso
+1 ActiveDate Controle
+2 ActiveDate Controle=csCtlActiveDate
+2 ActiveDate Propriedades
+4 BackColor=csPBackColorActiveDate
+4 Enabled=csPEnabledActiveDate
+4 ForeColor=csPForeColorActiveDate
+4 Locked=csPLockedActiveDate
+4 SelLength=csPSelLengthActiveDate
+4 SelStart=csPSelStartActiveDate
+4 SelText=csPSelTextActiveDate
+4 Text=csPTextActiveDate
+4 TodayCaption=csPTodayCaptionActiveDate
+2 ActiveDate Eventos
+4 Change=csEChangeActiveDate
+4 Click=csEClickActiveDate
+4 KeyDown=csEKeyDownActiveDate
+4 KeyPress=csEKeyPressActiveDate
+4 KeyUp=csEKeyUpActiveDate
+2 Histórico das Alterações
+2 Histórico das Alterações=csCstHistricodasAlteraes

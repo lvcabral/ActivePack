@@ -1,0 +1,36 @@
+:Base ACTIVEFORM.hlp
+:Title RainDrops ActiveForm
+1 RainDrops ActivePack
+2 Sobre o ActivePack=csCstSobreoActivePack
+2 Licença de Uso=csCstLicenadeUso
+1 Controle ActiveForm
+2 ActiveForm Controle=csCtlActiveForm
+2 Propriedades do ActiveForm 
+4 AllwaysOnTop=csPAllwaysOnTopActiveForm
+4 BackColor=csPBackColorActiveForm
+4 BackColor2=csPBackColor2ActiveForm
+4 BackGradient=csPBackGradientActiveForm
+4 Background=csPBackgroundActiveForm
+4 CloseButton=csPCloseButtonActiveForm
+4 MinimizeToTray=csPMinimizeToTrayActiveForm
+4 MaxHeight=csPMaxHeightActiveForm
+4 MaxWidth=csPMaxWidthActiveForm
+4 MinHeight=csPMinHeightActiveForm
+4 MinWidth=csPMinWidthActiveForm
+4 ResizeControls=csPResizeControlsActiveForm
+4 ResizeFonts=csPResizeFontsActiveForm
+4 RestoreMode=csPRestoreModeActiveForm
+2 Eventos do ActiveForm 
+4 TrayDblClick=csETrayDblClickActiveForm
+4 TrayLeftClick=csETrayLeftClickActiveForm
+4 TrayRightClick=csETrayRightClickActiveForm
+2 Métodos do ActiveForm 
+4 Restore=csMRestoreActiveForm
+4 SetTrayIcon=csMSetTrayIconActiveForm
+4 SetTrayToolTip=csMSetTrayToolTipActiveForm
+2 Histórico de Alterações
+2 Histórico de Alterações=csCstHistricodeAlteraes
+1  Constantes
+2 rdBackgroundConstants Constantes=csSetrdBackgroundConstants
+2 rdGradientConstants Constantes=csSetrdGradientConstants
+2 rdRestoreModeConstants Constantes=csSetrdRestoreModeConstants

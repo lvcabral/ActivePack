@@ -1,0 +1,52 @@
+:Base ACTIVETEXT.hlp
+:Title RainDrops ActiveText
+1 Sobre o ActivePack
+2 Sobre o ActivePack=csCstSobreoActivePack
+2 Licença de Uso=csCstLicenadeUso
+1 ActiveText Controle
+2 ActiveText Controle=csCtlActiveText
+2 ActiveText Propriedades
+4 Alignment=csPAlignmentActiveText
+4 Appearance=csPAppearanceActiveText
+4 BackColor=csPBackColorActiveText
+4 BorderStyle=csPBorderStyleActiveText
+4 DateFormat=csPDateFormatActiveText
+4 DecimalPoint=csPDecimalPointActiveText
+4 Decimals=csPDecimalsActiveText
+4 Enabled=csPEnabledActiveText
+4 FloatFormat=csPFloatFormatActiveText
+4 FocusSelect=csPFocusSelectActiveText
+4 ForeColor=csPForeColorActiveText
+4 Locked=csPLockedActiveText
+4 Mask=csPMaskActiveText
+4 MaxLength=csPMaxLengthActiveText
+4 PasswordChar=csPPasswordCharActiveText
+4 RawText=csPRawTextActiveText
+4 SelLength=csPSelLengthActiveText
+4 SelStart=csPSelStartActiveText
+4 SelText=csPSelTextActiveText
+4 Text=csPTextActiveText
+4 TextCase=csPTextCaseActiveText
+4 TextMask=csPTextMaskActiveText
+4 TimeFormat=csPTimeFormatActiveText
+2 ActiveText Eventos
+4 Change=csEChangeActiveText
+4 Click=csEClickActiveText
+4 DblClick=csEDblClickActiveText
+4 KeyDown=csEKeyDownActiveText
+4 KeyPress=csEKeyPressActiveText
+4 KeyUp=csEKeyUpActiveText
+4 MouseDown=csEMouseDownActiveText
+4 MouseMove=csEMouseMoveActiveText
+4 MouseUp=csEMouseUpActiveText
+2 Histórico de Alterações
+2 Histórico de Alterações=csCstHistricodeAlteraes
+1 Constantes
+2 AlignmentOptions Constantes=csSetAlignmentOptions
+2 AppearanceOptions Constantes=csSetAppearanceOptions
+2 BorderStyleOptions Constantes=csSetBorderStyleOptions
+2 DateFormatOptions Constantes=csSetDateFormatOptions
+2 FloatFormatOptions Constantes=csSetFloatFormatOptions
+2 TextCaseOptions Constantes=csSetTextCaseOptions
+2 TextMaskOptions Constantes=csSetTextMaskOptions
+2 TimeFormatOptions Constantes=csSetTimeFormatOptions

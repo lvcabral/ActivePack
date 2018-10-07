@@ -1,0 +1,213 @@
+{\rtf1\ansi \deff0\deflang1033{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\froman\fcharset0 Arial;}{\f2\fswiss\fcharset0 Arial;}{\f3\fmodern\fcharset0 Courier New;}{\f4\fmodern\fcharset0 Arial;}}{\colortbl\red0\green0\blue0;\red128\green128\blue128;}{\stylesheet{\sb0\sa240\li0\f0\fs18\snext0 \snext0 Normal;}{\s1\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 \sbasedon0\snext0 heading 1;}{\s2\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 \sbasedon0\snext0 heading 2;}{\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 \sbasedon0\snext0 heading 3;}{\*\cs10 \additive \f1\fs22 Default Paragraph Font;}{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 \sbasedon0\snext17 CallOut;}{\*\cs16\additive\f2\fs18\b\i0\sbasedon10 \sbasedon10 CallOutChar;}{\*\cs17\additive\f3\fs18\sbasedon10 \sbasedon10 Code;}}\pard\plain \sb0\sa240\li0\f0\fs18\snext0 
+{\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 ActiveStatus Controle}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csCtlActiveStatus}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 ActiveStatus Controle;ACTIVESTATUS.OCX Controles}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00001}}}\s1\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 ActiveStatus Controle{\f4\fs16\b0\i0\line {\uldb\cf1 Propriedades}{\v !KLink("ActiveStatus Propriedades")}     {\uldb\cf1 Métodos}     {\uldb\cf1 Eventos}{\v !KLink("ActiveStatus Eventos")}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0\b Controle:  \tab \f0\b0\i0\ul0  {\pict\wmetafile8\picw405\pich381\picscalex98\picscaley98\picwgoal232\pichgoal218
+0100090000030202000000008A0100000000050000000B0200000000050000000C027D01950103
+0000001E00050000000C0281019A01050000000B0200000000030000001E00050000000C028701
+A001050000000B0200000000050000000B0200000000030000001E00050000000C028B01A50105
+0000000B0200000000050000000B0200000000050000000B0200000000030000001E0005000000
+0C028C01A701050000000B0200000000050000000B0200000000050000000B0200000000050000
+000B02000000008A010000430F2000CC0000000F001000000000008C01A7010000000028000000
+100000000F0000000100180000000000D0020000C40E0000C40E00000000000000000000BFBFBF
+BFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBF
+BFBFBFBFBFBFBFBFBF000000000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000BFBFBFFFFFFFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBF
+BFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFFFFFFFBFBFBF7F7F7FFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFBFBFBF7F7F7FFFFFFFFFFFFFFFFFFFBFBFBFFFFFFF
+BFBFBF7F7F7FBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFFFFFFFBFBFBF7F7F7FBFBFBFBFBFBF
+BFBFBFBFBFBFFFFFFFBFBFBF7F7F7FBFBFBFFF0000FF00000000FF0000FFBFBFBFFFFFFFBFBFBF
+7F7F7FBFBFBF000000000000BFBFBFFFFFFFBFBFBF7F7F7FBFBFBFBFBFBFBFBFBFBFBFBFBFBFBF
+BFBFBFFFFFFFBFBFBF7F7F7FBFBFBFBFBFBFBFBFBFBFBFBFFFFFFFBFBFBF7F7F7F7F7F7F7F7F7F
+7F7F7F7F7F7F7F7F7F7F7F7FFFFFFFBFBFBF7F7F7F7F7F7F7F7F7F7F7F7FBFBFBFFFFFFFBFBFBF
+BFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBF
+BFBFBFFFFFFFBFBFBFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFBFBFBFFFFFFFBFBFBF7F7F7FBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBF
+BFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFFFFFFFBFBFBF7F7F7FBFBFBF7F7F7FBFBFBF
+7F7F7FBFBFBF7F7F7FBFBFBF7F7F7FBFBFBF7F7F7FBFBFBF7F7F7FBFBFBFFFFFFFBFBFBF7F7F7F
+BFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBF
+FFFFFFBFBFBF7F7F7FBFBFBF7F7F7FBFBFBF7F7F7FBFBFBF7F7F7FBFBFBF7F7F7FBFBFBF7F7F7F
+BFBFBF7F7F7FBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBF
+BFBFBFBFBFBFBFBFBFBFBFBFBFBFBF040000002701FFFF040000002701FFFF040000002701FFFF
+040000002701FFFF030000000000
+}\f0\b0\i0\ul0   ActiveStatus
+\line \f0\b0\i0\ul0\b Descri\'e7\'e3o:  \tab \f0\b0\i0\ul0  Barra de Status
+\line \f0\b0\i0\ul0\b Arquivo:      \tab \f0\b0\i0\ul0  ActiveStatus.ocx
+\line \f0\b0\i0\ul0\b Ajuda:     \tab \f0\b0\i0\ul0  ActiveStatus.hlp
+\line \f0\b0\i0\ul0\b GUID:        \tab \f0\b0\i0\ul0  \{abfd345b-f684-11d2-9905-006008cdec24\}
+\line \f0\b0\i0\ul0\b Propriedades:   \tab \f0\b0\i0\ul0  7
+\line \f0\b0\i0\ul0\b Eventos:       \tab \f0\b0\i0\ul0  5
+\line 
+\line Antes de usar o controle \f0\b0\i0\ul0\b ActiveStatus\f0\b0\i0\ul0  em seus aplicativos, voc\'ea deve incluir o arquivo \f0\b0\i0\ul0\b ActiveStatus.ocx\f0\b0\i0\ul0  em seu projeto. Se voc\'ea usa o controle na mioria de seus projetos, recomenda-se adicion\'e1-lo ao arquivo Autoload do Visual Basic.
+\line 
+\line Para distribuir aplicativos criados com o controle \f0\b0\i0\ul0\b ActiveStatus\f0\b0\i0\ul0 , voc\'ea deve instal\'e1-lo e registr\'e1-lo no computador do usu\'e1rio. O Package & Deployment Wizard distribuido com o Visual Basic fornece as ferramentas necess\'e1rias para fazer isso. Veja o manual do Visual Basic para detalhes.
+\par 
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 Click Evento}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csEClickActiveStatus}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 Click Evento;ActiveStatus Eventos}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00002}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 Click Evento{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveStatus Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 O evento Click ocorre quando o usu\'e1rio pressiona e libera um bot\'e3o do mouse sobre o controle.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 {\b Private Sub }{\i ActiveStatus}_{\b Click}()\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 DblClick Evento}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csEDblClickActiveStatus}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 DblClick Evento;ActiveStatus Eventos}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00003}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 DblClick Evento{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveStatus Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 O evento DblClick ocorre quando o usu\'e1rio executa um duplo clique mouse sobre o controle.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 {\b Private Sub }{\i ActiveStatus}_{\b DblClick}()\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 Enabled Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPEnabledActiveStatus}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 Enabled Propriedade;ActiveStatus Propriedades}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00004}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 Enabled Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveStatus Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Determina se o controle poder\'e1 ou n\'e3o responder \'e0s a\'e7\'f5es do usu\'e1rio.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveStatus}.{\b Enabled}[ = \{{\b True | False}\} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 Boolean\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 Font* Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPFontActiveStatus}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 Font* Propriedade;ActiveStatus Propriedades}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00005}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 Font* Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveStatus Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Configura a fonte do controle.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveStatus}.{\b Font}[ = {\i Font} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 Font\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 ImageList Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPImageListActiveStatus}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 ImageList Propriedade;ActiveStatus Propriedades}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00006}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 ImageList Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveStatus Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Atribui um objeto ImageList para o controle acessar figuras.
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveStatus}.{\b ImageList}[ = {\i value As Variant} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 Variant\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 ImageSize Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPImageSizeActiveStatus}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 ImageSize Propriedade;ActiveStatus Propriedades}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00007}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 ImageSize Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveStatus Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Configura o tamanho dos icones.
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveStatus}.{\b ImageSize}[ = {\i sbImageSizeConstants} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Notas    }\line \sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Os valores v\'e1lidos para a propriedade \f0\b0\i0\ul0\b ImageSize\f0\b0\i0\ul0  s\'e3o: \f0\b0\i0\ul0\i 16x16, 24x24, 32x32 e 48x48\f0\b0\i0\ul0 
+\line 
+\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 sbImageSizeConstants (Enumeration)\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 MouseDown Evento}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csEMouseDownActiveStatus}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 MouseDown Evento;ActiveStatus Eventos}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00008}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 MouseDown Evento{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveStatus Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Ocorre quando o usu\'e1rio pressiona um bot\'e3o do mouse enquando o controle tem o foco.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 {\b Private Sub }{\i ActiveStatus}_{\b MouseDown}({\i Button} As Integer, {\i Shift} As Integer, {\i x} As Single, {\i Y} As Single)\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 MouseMove Evento}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csEMouseMoveActiveStatus}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 MouseMove Evento;ActiveStatus Eventos}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00009}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 MouseMove Evento{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveStatus Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Ocorre quando o usu\'e1rio move o mouse por sobre o controle.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 {\b Private Sub }{\i ActiveStatus}_{\b MouseMove}({\i Button} As Integer, {\i Shift} As Integer, {\i x} As Single, {\i Y} As Single)\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 MouseUp Evento}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csEMouseUpActiveStatus}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 MouseUp Evento;ActiveStatus Eventos}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00010}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 MouseUp Evento{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveStatus Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Ocorre quando o usu\'e1rio libera um bot\'e3o do mouse enquando o controle tem o foco.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 {\b Private Sub }{\i ActiveStatus}_{\b MouseUp}({\i Button} As Integer, {\i Shift} As Integer, {\i x} As Single, {\i Y} As Single)\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 Panels Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPPanelsActiveStatus}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 Panels Propriedade;ActiveStatus Propriedades;Veja também Style Propriedade}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00011}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 Panels Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveStatus Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Configura os paineis da barra de status.
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveStatus}.{\b Panels}[ = {\i _cPanels} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Notas    }\line \sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Esta propriedade \'e9 uma refer\'eancia \'e0 cole\'e7\'e3o de pain\'e9is, os m\'e9todos e propriedades da cole\'e7\'e3o e do painel voc\'ea poder\'e1 consultar na documenta\'e7\'e3o do controle \f0\b0\i0\ul0\b StatusBar\f0\b0\i0\ul0  do \f0\b0\i0\ul0 Visual Basic.
+\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 _cPanels\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 SimpleText Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPSimpleTextActiveStatus}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 SimpleText Propriedade;ActiveStatus Propriedades;Veja também Style Propriedade}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00012}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 SimpleText Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}{\v !KLink("Veja também SimpleText Propriedade", 0)}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveStatus Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Retorna/seta o texto da barra de status quando a propriedade \f0\b0\i0\ul0\b {\uldb Style}{\v csPStyleActiveStatus}\f0\b0\i0\ul0  est\'e1 configurada no modo simples.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveStatus}.{\b SimpleText}[ = {\i value As String} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 String\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 Style Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPStyleActiveStatus}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 Style Propriedade;ActiveStatus Propriedades;Veja também SimpleText Propriedade}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00013}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 Style Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}{\v !KLink("Veja também Style Propriedade", 0)}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveStatus Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Configura o estilo da barra de status.
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveStatus}.{\b Style}[ = {\i sbStyleConstants} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Notas    }\line \sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Os valores v\'e1lidos para a propriedade \f0\b0\i0\ul0\b Style\f0\b0\i0\ul0  est\'e3o descritos abaixo:
+\line 
+\line \f0\b0\i0\ul0\i sbrNormal\f0\b0\i0\ul0 
+\line Este valor configura a barra de status para apresentar os paineis conforme est\'e1 configurado na propriedade \f0\b0\i0\ul0\b {\uldb Panels}{\v csPPanelsActiveStatus}\f0\b0\i0\ul0 .
+\line 
+\line \f0\b0\i0\ul0\i sbrSimple\f0\b0\i0\ul0 
+\line Este valor configura a barra de status para apresentar um \'fanico painel que pode ser preenchido pela propriedade \f0\b0\i0\ul0\b {\uldb SimpleText}{\v csPSimpleTextActiveStatus}\f0\b0\i0\ul0 .
+\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 sbStyleConstants (Enumeration)\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 Histórico de Alterações}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csCstHistricodeAlteraes}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 Histórico de Alterações}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00014}}}\s1\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 Histórico de Alterações\par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0\b\ul Release v1.02.0004 - 16/06/1999
+\line \f0\b0\i0\ul0 
+\line - Paineis com estilo (Date, Time, Caps, Num, Ins e Scrl) agora s\'e3o centralizados por Default;
+\line - Compila\'e7\'e3o com o Service Pack 3 do Visual Studio 6;
+\line 
+\line \f0\b0\i0\ul0\b\ul Release v1.02.0003 - 20/04/1999
+\line \f0\b0\i0\ul0 
+\line - Release Inicial do Produto
+\line 
+\par 
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 Sobre o ActivePack}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csCstSobreoActivePack}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 Sobre o ActivePack}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00015}}}\s1\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 Sobre o ActivePack\par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0\b\i O Software
+\line \f0\b0\i0\ul0 
+\line Este \'e9 um software FREEWARE. 
+\line 
+\line Software FREEWARE \'e9 de LIVRE uso e distribui\'e7\'e3o, n\'e3o significa que ele necessariamente seja \f0\b0\i0\ul0\i gr\'e1tis,\f0\b0\i0\ul0  pois existem direitos autorais envolvidos, e \'e9 claro tempo e dinheiro investidos. Por favor leia a Licen\'e7a de Uso.
+\line 
+\line Se voc\'ea acha que este software de alguma forma lhe est\'e1 sendo \'fatil, para que ele possa continuar sendo atualizado e aperfei\'e7oado e para que voc\'ea possa me ajudar a fazer uma poupan\'e7a para o meu filho Matheus (ele tem 2 anos) ,  torne-se um usu\'e1rio registrado depositando qualquer quantia na poupan\'e7a que abri para ele (veja o n\'famero l\'e1 embaixo). Ap\'f3s o dep\'f3sito envie um e-mail informando os dados do comprovante (data / hora / valor),  para ser registrado e receber as novas vers\'f5es do software em primeira m\'e3o e ter prioridade nas solicita\'e7\'f5es de novas funcionalidades.
+\line 
+\line Se voc\'ea achar melhor, ajude uma institui\'e7\'e3o de apoio a menores carentes que atue na sua cidade, n\'e3o d\'ea apenas dinheiro, visite regularmente, d\'ea aten\'e7\'e3o e carinho. Um sorriso pode iluminar um cora\'e7\'e3o sufocado na desesperan\'e7a. Envie-me ent\'e3o o nome e endere\'e7o da institui\'e7\'e3o que voc\'ea ajuda regularmente, para que eu possa divulg\'e1-la na HomePage e incentivar outras pessoas a faz\'ea-lo, bem como inclu\'ed-lo como usu\'e1rio registrado. 
+\line 
+\line O Usu\'e1rio registrado tem direito, al\'e9m do j\'e1 exposto, a fazer consultas sobre Visual Basic via e-mail exclusivo para usu\'e1rios registrados.
+\line 
+\line \f0\b0\i0\ul0\b\i O Autor
+\line \f0\b0\i0\ul0 
+\line Eu sou o Marcelo, analista de sistemas, casado com a \'c9rika, pai do Matheus. Programo computadores desde a d\'e9cada de 80, l\'e1 pelos meus 12 anos de idade eu j\'e1 fazia uns "programinhas" em BASIC no COMMODORE VIC-20 do meu pai. Comecei minha vida profissional programando com o D-Base  III+, depois FoxBase (que depois virou FoxPro e a MS comprou), passei alguns anos com o Clipper, trabalhei com COBOL para os minicomputadores COBRA (arghhhh) do Ex\'e9rcito Brasileiro. Conheci o VB na vers\'e3o 1.0 e desde l\'e1 tenho acompanhado a sua evolu\'e7\'e3o. Hoje, apesar de trabalhar com an\'e1lise de sistemas (OOA with UML), continuo exercitando a minha paix\'e3o pela arte de programar usando o Visual Basic 6.0. Em agosto de 1999 me certifiquei como Microsoft Certified Professional em Visual Basic 6.0.
+\line 
+\line Depois que terminei meus estudos de migra\'e7\'e3o do VB3 para o VB6, vi que tinha feito alguns controles que poderiam ser \'fateis a outras pessoas, resolvi ent\'e3o disponibiliz\'e1-los na Grande Rede.
+\line 
+\line Espero que gostem,
+\line 
+\line \f0\b0\i0\ul0\i Marcelo Leal Limaverde Cabral
+\line \f0\b0\i0\ul0 
+\line \f0\b0\i0\ul0\b Dep\'f3sitos para Registro:\f0\b0\i0\ul0 
+\line \f0\b0\i0\ul0\i Matheus Feitosa Cabral
+\line \f0\b0\i0\ul0 Caixa Econ\'f4mica Federal
+\line Ag\'eancia: 1583 - Espinheiro - Recife-PE
+\line Conta Poupan\'e7a: 13159-3
+\line 
+\line ____________________________________________
+\line http://members.xoom.com/ActivePack
+\line activepack@xoommail.com
+\line Copyright \'a9 1998-2000 Marcelo Leal Limaverde Cabral
+\par 
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 Licença de Uso}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csCstLicenadeUso}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 Licença de Uso}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00016}}}\s1\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 Licença de Uso\par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0\b\ul Acordo de Licen\'e7a de Uso de Usu\'e1rio Final
+\line \f0\b0\i0\ul0 
+\line SOFTWARE : RainDrops ActivePack for Visual Basic 6
+\line AUTOR    : Marcelo Leal Limaverde Cabral
+\line 
+\line O SOFTWARE, a informa\'e7\'e3o e a documenta\'e7\'e3o \'e9 distribuida "como est\'e1" sem garantias expl\'edcitas ou impl\'edcitas de nenhum tipo.
+\line 
+\line Em nenhum caso o AUTOR poder\'e1 ser processado legalmente por qualquer dano ou problema ocorrido incluindo prejuizos diretos, indiretos ou mesmo perda de informacoes em decorrencia do uso do SOFTWARE, mesmo que o AUTOR tenha sido avisado da possibilidade de tais danos.
+\line 
+\line Todo o risco relacionado com a performance do sofware bem como da sua qualidade \'e9 assumido pelo usu\'e1rio.
+\line 
+\line \'c9 proibido alterar este software de qualquer forma, incluindo mudan\'e7as ou remo\'e7\'f5es de quaisquer mensagens ou janelas.
+\line 
+\line \'c9 proibido realizar a engenharia reversa (descompila\'e7\'e3o) deste SOFTWARE.
+\line 
+\line \'c9 proibido adicionar qualquer outra informa\'e7\'e3o de copyright (direitos Autorais) \'e0quelas listadas nesta licen\'e7a, na documenta\'e7\'e3o e no SOFTWARE.
+\line 
+\line Este software pode ser distribu\'eddo gratuitamente em servi\'e7os online, BBS, ou quaisquer outras m\'eddias eletr\'f4nicas, desde que todos os arquivos sejam inclu\'eddos na distribui\'e7\'e3o. Este software n\'e3o pode ser distribu\'eddo em CD-ROM, disquete ou outra m\'eddia f\'edsica n\'e3o gratuita sem a permiss\'e3o do AUTOR.
+\line 
+\line O registro do software junto ao autor n\'e3o \'e9 obrigat\'f3rio, no entanto o usu\'e1rio registrado passa a receber as novas vers\'f5es dos controles antes da sua publica\'e7\'e3o na internet e tem direito \'e0 suporte t\'e9cnico em Visual Basic via e-mail exclusivo para usu\'e1rios registrados. Para obter informa\'e7\'f5es sobre registro visite a homepage do SOFTWARE ou envie e-mail ao AUTOR.
+\line 
+\line Todos os direitos s\'e3o reservados ao AUTOR.
+\line 
+\line Se voc\'ea n\'e3o concorda com os termos desta licen\'e7a voc\'ea deve remover o SOFTWARE dos seus dispositivos de armazenamento (discos r\'edgidos e disketes) e n\'e3o utilizar mais o SOFTWARE.
+\line 
+\line Contatos com o AUTOR:
+\line 
+\line \f0\b0\i0\ul0\b Marcelo Leal Limaverde Cabral
+\line \f0\b0\i0\ul0 
+\line ____________________________________________
+\line http://members.xoom.com/ActivePack
+\line activepack@xoommail.com
+\line Copyright \'a9 1998-2000 Marcelo Leal Limaverde Cabral
+\line \f0\b0\i0\ul0 
+\par 
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 sbStyleConstants Constantes}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csSetsbStyleConstants}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 sbStyleConstants Constantes;Constants;Settings}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00017}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 sbStyleConstants Constantes\par \pard\plain 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Usado com}\line \sb0\sa240\li0\f0\fs18\snext0 Style (ActiveStatus)\par }
+\sb0\sa240\li0\f0\fs18\snext0 {\b\ul Valor\tab Constante\tab\tab\tab\tab}\line 0	sbrNormal\line 1	sbrSimple\line \par 
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 sbImageSizeConstants Constantes}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csSetsbImageSizeConstants}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 sbImageSizeConstants Constantes;Constants;Settings}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00018}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 sbImageSizeConstants Constantes\par \pard\plain 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Usado com}\line \sb0\sa240\li0\f0\fs18\snext0 ImageSize (ActiveStatus)\par }
+\sb0\sa240\li0\f0\fs18\snext0 {\b\ul Valor\tab Constante\tab\tab\tab\tab}\line 16	16x16\line 24	24x24\line 32	32x32\line 48	48x48\line \par 
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 sbPanelBevelConstants Constantes}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csSetsbPanelBevelConstants}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 sbPanelBevelConstants Constantes;Constants;Settings}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00019}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 sbPanelBevelConstants Constantes\par \pard\plain 
+
+\sb0\sa240\li0\f0\fs18\snext0 {\b\ul Valor\tab Constante\tab\tab\tab\tab}\line 0	sbrNoBevel\line 1	sbrInset\line 2	sbrRaised\line \par 
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 sbPanelAlignmentConstants Constantes}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csSetsbPanelAlignmentConstants}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 sbPanelAlignmentConstants Constantes;Constants;Settings}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00020}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 sbPanelAlignmentConstants Constantes\par \pard\plain 
+
+\sb0\sa240\li0\f0\fs18\snext0 {\b\ul Valor\tab Constante\tab\tab\tab\tab}\line 0	sbrLeft\line 1	sbrCenter\line 2	sbrRight\line \par 
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 sbPanelStyleConstants Constantes}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csSetsbPanelStyleConstants}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 sbPanelStyleConstants Constantes;Constants;Settings}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00021}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 sbPanelStyleConstants Constantes\par \pard\plain 
+
+\sb0\sa240\li0\f0\fs18\snext0 {\b\ul Valor\tab Constante\tab\tab\tab\tab}\line 0	sbrText\line 1	sbrCaps\line 2	sbrNum\line 3	sbrIns\line 4	sbrScrl\line 5	sbrTime\line 6	sbrDate\line \par 
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 sbAutoSizeConstants Constantes}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csSetsbAutoSizeConstants}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 sbAutoSizeConstants Constantes;Constants;Settings}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00022}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 sbAutoSizeConstants Constantes\par \pard\plain 
+
+\sb0\sa240\li0\f0\fs18\snext0 {\b\ul Valor\tab Constante\tab\tab\tab\tab}\line 0	sbrNoAutoSize\line 1	sbrSpring\line 2	sbrContents\line \par 
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 EErrorTimer Constantes}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csSetEErrorTimer}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 EErrorTimer Constantes;Constants;Settings}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00023}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 EErrorTimer Constantes\par \pard\plain 
+
+\sb0\sa240\li0\f0\fs18\snext0 {\b\ul Valor\tab Constante\tab\tab\tab\tab}\line 13650	eeBaseTimer\line 13651	eeTooManyTimers\line 13652	eeCantCreateTimer\line \par 
+}

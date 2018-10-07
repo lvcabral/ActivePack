@@ -1,0 +1,329 @@
+{\rtf1\ansi \deff0\deflang1033{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\froman\fcharset0 Arial;}{\f2\fswiss\fcharset0 Arial;}{\f3\fmodern\fcharset0 Courier New;}{\f4\fmodern\fcharset0 Arial;}}{\colortbl\red0\green0\blue0;\red128\green128\blue128;}{\stylesheet{\sb0\sa240\li0\f0\fs18\snext0 \snext0 Normal;}{\s1\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 \sbasedon0\snext0 heading 1;}{\s2\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 \sbasedon0\snext0 heading 2;}{\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 \sbasedon0\snext0 heading 3;}{\*\cs10 \additive \f1\fs22 Default Paragraph Font;}{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 \sbasedon0\snext17 CallOut;}{\*\cs16\additive\f2\fs18\b\i0\sbasedon10 \sbasedon10 CallOutChar;}{\*\cs17\additive\f3\fs18\sbasedon10 \sbasedon10 Code;}}\pard\plain \sb0\sa240\li0\f0\fs18\snext0 
+{\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 ActiveForm Controle}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csCtlActiveForm}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 ActiveForm Controle;ACTIVEFORM.OCX Controles}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00001}}}\s1\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 ActiveForm Controle{\f4\fs16\b0\i0\line {\uldb\cf1 Propriedades}{\v !KLink("ActiveForm Propriedades")}     {\uldb\cf1 Métodos}{\v !KLink("ActiveForm Métodos")}     {\uldb\cf1 Eventos}{\v !KLink("ActiveForm Eventos")}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0\b Controle:  \tab \f0\b0\i0\ul0  {\pict\wmetafile8\picw385\pich368\picscalex98\picscaley99\picwgoal221\pichgoal210
+010009000003B402000000008A0100000000050000000B0200000000050000000C027001810103
+0000001E00050000000C0273018601050000000B0200000000030000001E00050000000C027501
+8A01050000000B0200000000050000000B0200000000030000001E00050000000C027801900105
+0000000B0200000000050000000B0200000000050000000B0200000000030000001E0005000000
+0C027D019501050000000B0200000000050000000B0200000000050000000B0200000000050000
+000B0200000000030000001E00050000000C0281019A01050000000B0200000000050000000B02
+00000000050000000B0200000000050000000B0200000000050000000B0200000000030000001E
+00050000000C028701A001050000000B0200000000050000000B0200000000050000000B020000
+0000050000000B0200000000050000000B0200000000050000000B0200000000030000001E0005
+0000000C028B01A501050000000B0200000000050000000B0200000000050000000B0200000000
+050000000B0200000000050000000B0200000000050000000B0200000000050000000B02000000
+00030000001E00050000000C028C01A701050000000B0200000000050000000B02000000000500
+00000B0200000000050000000B0200000000050000000B0200000000050000000B020000000005
+0000000B0200000000050000000B02000000008A010000430F2000CC0000000F00100000000000
+8C01A7010000000028000000100000000F0000000100180000000000D0020000C40E0000C40E00
+0000000000000000007F007F7F007F7F007F7F007F7F007F7F007F7F007F7F007F7F007F7F007F
+7F007F7F007F7F007F7F007F7F007F7F007F000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000000000000000000000000007F7F7F
+FFFFFFFFFFFF7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F
+7F7F7F0000007F7F7FFFFFFFFFFFFFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBF
+BFBFBFBFBFBF7F7F7F7F7F7F0000007F7F7FFFFFFFFFFFFFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBF
+BFBFBFBFBFBFBFBFBFBFBFBFBFBFBF7F7F7F7F7F7F0000007F7F7FFFFFFFFFFFFFBFBFBFBFBFBF
+BFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBF7F7F7F7F7F7F0000007F7F7FFFFFFF
+FFFFFFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBF7F7F7F7F7F7F
+0000007F7F7FFFFFFFFFFFFFBFBFBF7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F
+BFBFBF7F7F7F7F7F7F0000007F7F7FFFFFFFFFFFFFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBF
+BFBFBFBFBFBFBFBFBFBFBFBF7F7F7F7F7F7F0000007F7F7FFFFFFFFFFFFFFF0000FF0000FF0000
+FF0000FF0000FF0000FF0000FF0000FF0000FF00007F7F7F7F7F7F0000007F7F7FFFFFFFFFFFFF
+FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF00007F7F7F7F7F7F000000
+7F7F7FFFFFFFFFFFFFFF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000
+7F7F7F7F7F7F0000007F7F7FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000007F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F
+7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F000000040000002701FFFF04000000
+2701FFFF040000002701FFFF040000002701FFFF040000002701FFFF040000002701FFFF040000
+002701FFFF040000002701FFFF030000000000
+}\f0\b0\i0\ul0   ActiveForm
+\line \f0\b0\i0\ul0\b Descri\'e7\'e3o:  \tab \f0\b0\i0\ul0  Adiciona Propriedades, Eventos e M\'e9todos ao Form
+\line \f0\b0\i0\ul0\b Arquivo:      \tab \f0\b0\i0\ul0  ActiveForm.ocx
+\line \f0\b0\i0\ul0\b Ajuda:     \tab \f0\b0\i0\ul0  ActiveForm.hlp
+\line \f0\b0\i0\ul0\b GUID:        \tab \f0\b0\i0\ul0  \{8e22fd0f-91ed-11d2-8865-eaf032485d5b\}
+\line \f0\b0\i0\ul0\b Propriedades:   \tab \f0\b0\i0\ul0  13
+\line \f0\b0\i0\ul0\b Eventos:\f0\b0\i0\ul0 \tab  2
+\line \f0\b0\i0\ul0\b M\'e9todo:\f0\b0\i0\ul0 \tab \tab  1
+\line 
+\line Para usar este controle basta adicion\'e1-lo ao Form e configurar suas propriedades, ele n\'e3o \'e9 vis\'edvel no modo \f0\b0\i0\ul0\i runtime\f0\b0\i0\ul0 .
+\line 
+\line Antes de usar o controle \f0\b0\i0\ul0\b ActiveForm\f0\b0\i0\ul0  em seus aplicativos, voc\'ea deve incluir o arquivo \f0\b0\i0\ul0\b ActiveForm.ocx\f0\b0\i0\ul0  em seu projeto. Se voc\'ea usa o controle na maioria de seus projetos, recomenda-se adicion\'e1-lo ao arquivo Autoload do Visual Basic.
+\line 
+\line Para distribuir aplicativos criados com o controle \f0\b0\i0\ul0\b ActiveForm\f0\b0\i0\ul0 , voc\'ea deve instal\'e1-lo e registr\'e1-lo no computador do usu\'e1rio. O Package & Deployment Wizard distribuido com o Visual Basic fornece as ferramentas necess\'e1rias para fazer isso. Veja o manual do Visual Basic para detalhes.\f0\b0\i0\ul0 
+\par 
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 AllwaysOnTop Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPAllwaysOnTopActiveForm}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 AllwaysOnTop Propriedade;ActiveForm Propriedades}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00002}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 AllwaysOnTop Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveForm Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Esta propriedade, quando ligada, torna o Form sempre vis\'edvel sobre as outras janelas abertas.
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveForm}.{\b AllwaysOnTop}[ = \{{\b True | False}\} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 Boolean\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 BackColor Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPBackColorActiveForm}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 BackColor Propriedade;ActiveForm Propriedades;Veja também BackColor2 Propriedade;Veja também BackGradient Propriedade}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00003}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 BackColor Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}{\v !KLink("Veja também BackColor Propriedade", 0)}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveForm Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 A propriedade BackColor recebe ou retorna uma express\'e3o num\'e9rica que corresponde \'e0 cor utilizada para preencher o fundo do form.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveForm}.{\b BackColor}[ = {\i colorref&} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Notas    }\line \sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Esta propriedade \'e9 usada em conjunto com as propriedades \f0\b0\i0\ul0\b {\uldb Background}{\v csPBackgroundActiveForm}\f0\b0\i0\ul0 , \f0\b0\i0\ul0\b {\uldb BackGradient}{\v csPBackGradientActiveForm}\f0\b0\i0\ul0  e \f0\b0\i0\ul0\b {\uldb BackColor2}{\v csPBackColor2ActiveForm}\f0\b0\i0\ul0  para configurar o fundo do form com um degrad\'ea.\f0\b0\i0\ul0 
+\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 Color\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 BackColor2 Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPBackColor2ActiveForm}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 BackColor2 Propriedade;ActiveForm Propriedades;Veja também BackColor Propriedade;Veja também BackGradient Propriedade}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00004}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 BackColor2 Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}{\v !KLink("Veja também BackColor2 Propriedade", 0)}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveForm Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 A propriedade BackColor recebe ou retorna uma express\'e3o num\'e9rica que corresponde \'e0 segunda cor utilizada para preencher o fundo do form com um degrad\'ea.
+\line \f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveForm}.{\b BackColor2}[ = {\i colorref&} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Notas    }\line \sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Esta propriedade \'e9 usada em conjunto com as propriedades \f0\b0\i0\ul0\b {\uldb Background}{\v csPBackgroundActiveForm}\f0\b0\i0\ul0 , \f0\b0\i0\ul0\b {\uldb BackGradient}{\v csPBackGradientActiveForm}\f0\b0\i0\ul0  e \f0\b0\i0\ul0\b {\uldb BackColor}{\v csPBackColorActiveForm}\f0\b0\i0\ul0  \f0\b0\i0\ul0 para configurar o fundo do form com um degrad\'ea.
+\line \f0\b0\i0\ul0 
+\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 Color\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 BackGradient Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPBackGradientActiveForm}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 BackGradient Propriedade;ActiveForm Propriedades;Veja também BackColor Propriedade;Veja também BackColor2 Propriedade;Veja também Background Propriedade}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00005}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 BackGradient Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}{\v !KLink("Veja também BackGradient Propriedade", 0)}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveForm Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Esta propriedade configura o tipo de degrad\'ea a ser aplicado ao fundo do form.
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveForm}.{\b BackGradient}[ = {\i rdGradientConstants} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Notas    }\line \sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Esta propriedade \'e9 usada em conjunto com as propriedades \f0\b0\i0\ul0\b {\uldb Background}{\v csPBackgroundActiveForm}\f0\b0\i0\ul0 ,  \f0\b0\i0\ul0\b {\uldb BackColor}{\v csPBackColorActiveForm}\f0\b0\i0\ul0  e \f0\b0\i0\ul0\b {\uldb BackColor2}{\v csPBackColor2ActiveForm}\f0\b0\i0\ul0  para configurar o fundo do form com um degrad\'ea.
+\line 
+\line Os valores v\'e1lidos para a propriedade \f0\b0\i0\ul0\b BackGradient\f0\b0\i0\ul0  est\'e3o descritos abaixo:
+\line 
+\line \f0\b0\i0\ul0\i bgVertical  - \f0\b0\i0\ul0 Degrad\'ea de cima para baixo do form.
+\line 
+\line \f0\b0\i0\ul0\i bgHorizontal - \f0\b0\i0\ul0 Degrad\'ea da esquerda para a direita.
+\line 
+\line \f0\b0\i0\ul0\i bgCircle - \f0\b0\i0\ul0 Degrad\'ea em c\'edrculos concentricos.
+\line 
+\line \f0\b0\i0\ul0\i bgRectangle - \f0\b0\i0\ul0 Degrad\'ea em ret\'e2ngulos concentricos.
+\line 
+\line \f0\b0\i0\ul0\i bgDiagLeftRight - \f0\b0\i0\ul0 Degrad\'ea em diagonal da esquerda para a direira.
+\line 
+\line \f0\b0\i0\ul0\i bgDiagRightLeft - \f0\b0\i0\ul0 Degrad\'ea em diagonal da direita para a esquerda.
+\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 rdGradientConstants (Enumeration)\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 Background Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPBackgroundActiveForm}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 Background Propriedade;ActiveForm Propriedades;Veja também BackColor Propriedade;Veja também BackColor2 Propriedade;Veja também BackGradient Propriedade}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00006}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 Background Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}{\v !KLink("Veja também Background Propriedade", 0)}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveForm Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Esta propriedade define como ser\'e1 preenchido o fundo
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveForm}.{\b Background}[ = {\i rdBackgroundConstants} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Notas    }\line \sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Os valores v\'e1lidos para a propriedade \f0\b0\i0\ul0\b Background\f0\b0\i0\ul0  est\'e3o descritos abaixo:
+\line 
+\line \f0\b0\i0\ul0\i bgNone - \f0\b0\i0\ul0 Nenhum preenchimento.\f0\b0\i0\ul0 
+\line 
+\line \f0\b0\i0\ul0\i bgGradient - \f0\b0\i0\ul0 Preenche o fundo com um degrad\'ea definido pela propriedade \f0\b0\i0\ul0\b {\uldb BackGradient}{\v csPBackGradientActiveForm}\f0\b0\i0\ul0 .\f0\b0\i0\ul0 
+\line 
+\line \f0\b0\i0\ul0\i bgTransparent - \f0\b0\i0\ul0 Torna o fundo do form transparente.
+\line 
+\line \f0\b0\i0\ul0\i bgTiledPicture - \f0\b0\i0\ul0 Preenche o fundo do form com a figura configurada na propriedade \f0\b0\i0\ul0\b Picture\f0\b0\i0\ul0  do form.\f0\b0\i0\ul0 
+\line 
+\line \f0\b0\i0\ul0\i bgLeftPicture - \f0\b0\i0\ul0 Preenche a parte esquerda do form com \f0\b0\i0\ul0 a figura configurada na propriedade \f0\b0\i0\ul0\b Picture\f0\b0\i0\ul0  do form.\f0\b0\i0\ul0 
+\line \f0\b0\i0\ul0 
+\line \f0\b0\i0\ul0\i bgCenterPicture - \f0\b0\i0\ul0 Centraliza no fundo do form \f0\b0\i0\ul0 a figura configurada na propriedade \f0\b0\i0\ul0\b Picture\f0\b0\i0\ul0  do form.\f0\b0\i0\ul0 
+\line \f0\b0\i0\ul0 
+\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 rdBackgroundConstants (Enumeration)\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 CloseButton Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPCloseButtonActiveForm}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 CloseButton Propriedade;ActiveForm Propriedades}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00007}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 CloseButton Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveForm Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Voc\'ea pode utilizar a propriedade CloseButton para especificar se o bot\'e3o Fechar (bot\'e3o X) estar\'e1 habilitado no Form.
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveForm}.{\b CloseButton}[ = \{{\b True | False}\} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Notas    }\line \sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Quando esta propriedade estiver desligada \'e9 importante dar ao usu\'e1rio uma outra forma de fechar o Form.
+\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 Boolean\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 MaxHeight Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPMaxHeightActiveForm}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 MaxHeight Propriedade;ActiveForm Propriedades;Veja também MaxWidth Propriedade;Veja também MinHeight Propriedade;Veja também MinWidth Propriedade}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00008}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 MaxHeight Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}{\v !KLink("Veja também MaxHeight Propriedade", 0)}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveForm Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Esta propriedade configura a altura m\'e1xima do Form, em Twips.
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveForm}.{\b MaxHeight}[ = {\i value As Long} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 Long\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 MaxWidth Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPMaxWidthActiveForm}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 MaxWidth Propriedade;ActiveForm Propriedades;Veja também MaxHeight Propriedade;Veja também MinHeight Propriedade;Veja também MinWidth Propriedade}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00009}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 MaxWidth Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}{\v !KLink("Veja também MaxWidth Propriedade", 0)}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveForm Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Esta propriedade configura a largura m\'e1xima do Form, em Twips.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveForm}.{\b MaxWidth}[ = {\i value As Long} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 Long\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 MinHeight Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPMinHeightActiveForm}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 MinHeight Propriedade;ActiveForm Propriedades;Veja também MaxHeight Propriedade;Veja também MaxWidth Propriedade;Veja também MinWidth Propriedade;Veja também ResizeControls Propriedade;Veja também ResizeFonts Propriedade}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00010}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 MinHeight Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}{\v !KLink("Veja também MinHeight Propriedade", 0)}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveForm Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Esta propriedade configura a altura m\'ednima do Form, em Twips.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveForm}.{\b MinHeight}[ = {\i value As Long} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 Long\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 MinimizeToTray Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPMinimizeToTrayActiveForm}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 MinimizeToTray Propriedade;ActiveForm Propriedades;Veja também Restore Método;Veja também TrayLeftClick Evento;Veja também TrayRightClick Evento}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00011}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 MinimizeToTray Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}{\v !KLink("Veja também MinimizeToTray Propriedade", 0)}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveForm Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Esta propriedade, quando ligada, faz com que o form quando minimizado v\'e1 para a bandeja (Tray) do windows.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveForm}.{\b MinimizeToTray}[ = \{{\b True | False}\} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Notas    }\line \sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Quando o form est\'e1 minimizado no Tray, por default, o DoubleClick restaura o form para o tamanho original para alterar este comportamento utilize a propriedade \f0\b0\i0\ul0\b {\uldb RestoreMode}{\v csPRestoreModeActiveForm}\f0\b0\i0\ul0 , existe por\'e9m uma forma de restaur\'e1-lo em qualquer evento, bastando para isso executar o m\'e9todo \f0\b0\i0\ul0\b {\uldb Restore}{\v csMRestoreActiveForm}\f0\b0\i0\ul0 .
+\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 Boolean\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 MinWidth Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPMinWidthActiveForm}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 MinWidth Propriedade;ActiveForm Propriedades;Veja também MaxHeight Propriedade;Veja também MaxWidth Propriedade;Veja também MinHeight Propriedade;Veja também ResizeControls Propriedade;Veja também ResizeFonts Propriedade}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00012}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 MinWidth Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}{\v !KLink("Veja também MinWidth Propriedade", 0)}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveForm Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Esta propriedade configura a largura m\'ednima do Form, em Twips.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveForm}.{\b MinWidth}[ = {\i value As Long} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 Long\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 ResizeControls Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPResizeControlsActiveForm}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 ResizeControls Propriedade;ActiveForm Propriedades;Veja também ResizeFonts Propriedade}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00013}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 ResizeControls Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}{\v !KLink("Veja também ResizeControls Propriedade", 0)}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveForm Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Esta propriedade, quando ligada, faz com que os controles do Form sejam redimensionados automaticamente quando o Form muda de tamanho.
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveForm}.{\b ResizeControls}[ = \{{\b True | False}\} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Notas    }\line \sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 \'c9 recomend\'e1vel limitar o tamanho m\'ednimo do Form usando as propriedades \f0\b0\i0\ul0\b {\uldb MinHeight}{\v csPMinHeightActiveForm}\f0\b0\i0\ul0  e \f0\b0\i0\ul0\b {\uldb MinWidth}{\v csPMinWidthActiveForm}\f0\b0\i0\ul0  para que os controles n\'e3o fiquem pequenos demais para serem utilizados. 
+\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 Boolean\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 ResizeFonts Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPResizeFontsActiveForm}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 ResizeFonts Propriedade;ActiveForm Propriedades;Veja também ResizeControls Propriedade}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00014}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 ResizeFonts Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}{\v !KLink("Veja também ResizeFonts Propriedade", 0)}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveForm Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Esta propriedade, quando ligada, faz com que a Fonte dos controles do Form sejam redimensionadas automaticamente quando o Form muda de tamanho.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveForm}.{\b ResizeFonts}[ = \{{\b True | False}\} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Notas    }\line \sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Esta propriedade s\'f3 tem algum efeito quando a propriedade \f0\b0\i0\ul0\b {\uldb ResizeControls}{\v csPResizeControlsActiveForm}\f0\b0\i0\ul0  est\'e1 ligada.
+\line 
+\line \'c9 recomend\'e1vel limitar o tamanho m\'ednimo do Form usando as propriedades \f0\b0\i0\ul0\b {\uldb MinHeight}{\v csPMinHeightActiveForm}\f0\b0\i0\ul0  e \f0\b0\i0\ul0\b {\uldb MinWidth}{\v csPMinWidthActiveForm}\f0\b0\i0\ul0  para que as fontes n\'e3o fiquem pequenas demais para serem lidas. 
+\line 
+\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 Boolean\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 Restore Método}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csMRestoreActiveForm}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 Restore Método;ActiveForm Métodos;Veja também MinimizeToTray Propriedade}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00015}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 Restore Método{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}{\v !KLink("Veja também Restore Método", 0)}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveForm Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Este m\'e9todo restaura o form para seu tamanho original quando minimizado.
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveForm}.{\b Restore} [ {\i WindowState} As Variant ]\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 RestoreMode Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPRestoreModeActiveForm}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 RestoreMode Propriedade;ActiveForm Propriedades}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00016}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 RestoreMode Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveForm Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Esta propriedade define os modo como\f0\b0\i0\ul0  o form ser\'e1 restaurado quando este est\'e1 minimizado no Traybar.
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveForm}.{\b RestoreMode}[ = {\i rdRestoreModeConstants} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Notas    }\line \sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Os valores v\'e1lidos para \f0\b0\i0\ul0\b RestoreMode\f0\b0\i0\ul0  property est\'e3o descritos abaixo:
+\line 
+\line \f0\b0\i0\ul0\i rmManual\f0\b0\i0\ul0 
+\line Este valor permite ao usu\'e1rio controlar manualmente, atrav\'e9s do m\'e9todo \f0\b0\i0\ul0\b {\uldb Restore}{\v csMRestoreActiveForm}\f0\b0\i0\ul0  a restaura\'e7\'e3o da janela nos eventos
+\line 
+\line \f0\b0\i0\ul0\i rmSingleClick\f0\b0\i0\ul0 
+\line Este valor configura a restaura\'e7\'e3o do form com um clique simples do mouse no icone.
+\line 
+\line \f0\b0\i0\ul0\i rmDoubleClick\f0\b0\i0\ul0 
+\line Este valor configura a restaura\'e7\'e3o do form com um clique duplo do mouse no icone. Este \'e9 o valor padr\'e3o.
+\line 
+\line Esta propriedade s\'f3 \'e9 considerada se a propriedade \f0\b0\i0\ul0\b {\uldb MinimizeToTray}{\v csPMinimizeToTrayActiveForm}\f0\b0\i0\ul0  estiver ligada.\f0\b0\i0\ul0 
+\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 rdRestoreModeConstants (Enumeration)\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 SetTrayIcon Método}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csMSetTrayIconActiveForm}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 SetTrayIcon Método;ActiveForm Métodos}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00017}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 SetTrayIcon Método{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveForm Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Este m\'e9todo permite a altera\'e7\'e3o do \'edcone do traybar quando o form est\'e1 minimizado.
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveForm}.{\b SetTrayIcon} {\i hIcon} As Long\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Notas    }\line \sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Este m\'e9todo s\'f3 \'e9 considerado se a propriedade \f0\b0\i0\ul0\b {\uldb MinimizeToTray}{\v csPMinimizeToTrayActiveForm}\f0\b0\i0\ul0  estiver ligada e o form estiver minimizado.
+\line \f0\b0\i0\ul0 
+\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 SetTrayToolTip Método}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csMSetTrayToolTipActiveForm}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 SetTrayToolTip Método;ActiveForm Métodos}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00018}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 SetTrayToolTip Método{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveForm Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Este m\'e9todo permite a altera\'e7\'e3o do Tooltip do \'edcone no traybar quando o form est\'e1 minimizado.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveForm}.{\b SetTrayToolTip} {\i sTip} As String\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Notas    }\line \sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Este m\'e9todo s\'f3 \'e9 considerado se a propriedade \f0\b0\i0\ul0\b {\uldb MinimizeToTray}{\v csPMinimizeToTrayActiveForm}\f0\b0\i0\ul0  estiver ligada e o form estiver minimizado.
+\line \f0\b0\i0\ul0 
+\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 TrayDblClick Evento}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csETrayDblClickActiveForm}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 TrayDblClick Evento;ActiveForm Eventos}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00019}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 TrayDblClick Evento{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveForm Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Este evento \'e9 gerado quando o usu\'e1rio d\'e1 um duplo clique com o mouse no \'edcone minimizado na bandeja (Tray) do windows.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 {\b Private Sub }{\i ActiveForm}_{\b TrayDblClick}()\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 TrayLeftClick Evento}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csETrayLeftClickActiveForm}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 TrayLeftClick Evento;ActiveForm Eventos;Veja também MinimizeToTray Propriedade;Veja também TrayRightClick Evento}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00020}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 TrayLeftClick Evento{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}{\v !KLink("Veja também TrayLeftClick Evento", 0)}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveForm Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Este evento \'e9 gerado quando o usu\'e1rio clica com o bot\'e3o esquerdo do mouse no \'edcone minimizado na bandeja (Tray) do windows.
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 {\b Private Sub }{\i ActiveForm}_{\b TrayLeftClick}()\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 TrayRightClick Evento}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csETrayRightClickActiveForm}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 TrayRightClick Evento;ActiveForm Eventos;Veja também MinimizeToTray Propriedade;Veja também TrayLeftClick Evento}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00021}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 TrayRightClick Evento{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}{\v !KLink("Veja também TrayRightClick Evento", 0)}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveForm Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Este evento \'e9 gerado quando o usu\'e1rio clica com o bot\'e3o direito do mouse no \'edcone minimizado na bandeja (Tray) do windows.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 {\b Private Sub }{\i ActiveForm}_{\b TrayRightClick}()\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 Histórico de Alterações}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csCstHistricodeAlteraes}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 Histórico de Alterações}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00022}}}\s1\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 Histórico de Alterações\par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0\b\ul Release v1.03.0018 - 27/09/2000
+\line 
+\line \f0\b0\i0\ul0 - Inclu\'eddos os m\'e9todos SetTrayIcon e SetTrayTooltip para permitir a altera\'e7\'e3o do \'edcone e do ToolTip do form minimizado no tray;
+\line - Corrigido o problema que ocorria quando era usado um menu PopUp nos eventos de Mouse que deixava o menu aberto quando o usu\'e1rio clicava na barra de tarefas ou no desktop;
+\line \f0\b0\i0\ul0\b\ul 
+\line Release v1.03.0017 - 24/07/2000
+\line \f0\b0\i0\ul0 
+\line - Incluida a propriedade RestoreMode para configurar a forma de Restaurar a  janela minimizada para o Tray, o Default \'e9 DoubleClick para manter a  compatibilidade;
+\line - Incluido o evento TrayDblClick que \'e9 gerado quando o usu\'e1rio executa um  DblClick no icone do Form no Tray e a propriedade RestoreMode est\'e1  configurada como Manual ou SingleClick;
+\line 
+\line \f0\b0\i0\ul0\b\ul Release v1.03.0016 - 07/04/2000
+\line \f0\b0\i0\ul0 
+\line - Corrigido bug que alterava o ScaleMode do Form quando a propriedade BackGround estava configurada para Gradient, isso confitava com o comportamento da propriedade ResizeControls;
+\line \f0\b0\i0\ul0\b\ul 
+\line Release v1.02.0013 - 30/04/1999
+\line \f0\b0\i0\ul0 
+\line - Corrigido bug que n\'e3o permitia o uso em MDIForms, e incluida mensagem de  aviso nas propriedades n\'e3o suportadas nesse tipo de container;
+\line - Incluida a propriedade Background que permite configurar o fundo do form  com um Degrad\'ea (Gradient), Transparente, ou com um papel de parede;
+\line - Incluidas as propriedades BackGradient, BackColor e BackColor2;
+\line - Incluida a propriedade MinimizeToTray;
+\line - Incluidos os eventos TrayLeftClick e TrayRightClick;
+\line - Incluido o m\'e9todo Restore;
+\line \f0\b0\i0\ul0\b\ul 
+\line Release v1.00.0008 - 22/12/1998
+\line \f0\b0\i0\ul0 
+\line - Escondido o M\'e9todo AboutBox que n\'e3o precisa aparecer na interface;
+\line - Incluida a refer\'eancia no projeto ao arquivo de Help do controle;
+\line 
+\line \f0\b0\i0\ul0\b\ul Release v1.00.0006 - 13/12/1998 
+\line \f0\b0\i0\ul0 
+\line - Release Inicial do Produto\f0\b0\i0\ul0 
+\par 
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 Sobre o ActivePack}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csCstSobreoActivePack}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 Sobre o ActivePack}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00023}}}\s1\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 Sobre o ActivePack\par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0\b\i O Software
+\line \f0\b0\i0\ul0 
+\line Este \'e9 um software FREEWARE. 
+\line 
+\line Software FREEWARE \'e9 de LIVRE uso e distribui\'e7\'e3o, n\'e3o significa que ele necessariamente seja \f0\b0\i0\ul0\i gr\'e1tis,\f0\b0\i0\ul0  pois existem direitos autorais envolvidos, e \'e9 claro tempo e dinheiro investidos. Por favor leia a Licen\'e7a de Uso.
+\line 
+\line Se voc\'ea acha que este software de alguma forma lhe est\'e1 sendo \'fatil, para que ele possa continuar sendo atualizado e aperfei\'e7oado e para que voc\'ea possa me ajudar a fazer uma poupan\'e7a para o meu filho Matheus (ele tem 2 anos) ,  torne-se um usu\'e1rio registrado depositando qualquer quantia na poupan\'e7a que abri para ele (veja o n\'famero l\'e1 embaixo). Ap\'f3s o dep\'f3sito envie um e-mail informando os dados do comprovante (data / hora / valor),  para ser registrado e receber as novas vers\'f5es do software em primeira m\'e3o e ter prioridade nas solicita\'e7\'f5es de novas funcionalidades.
+\line 
+\line Se voc\'ea achar melhor, ajude uma institui\'e7\'e3o de apoio a menores carentes que atue na sua cidade, n\'e3o d\'ea apenas dinheiro, visite regularmente, d\'ea aten\'e7\'e3o e carinho. Um sorriso pode iluminar um cora\'e7\'e3o sufocado na desesperan\'e7a. Envie-me ent\'e3o o nome e endere\'e7o da institui\'e7\'e3o que voc\'ea ajuda regularmente, para que eu possa divulg\'e1-la na HomePage e incentivar outras pessoas a faz\'ea-lo, bem como inclu\'ed-lo como usu\'e1rio registrado. 
+\line 
+\line O Usu\'e1rio registrado tem direito, al\'e9m do j\'e1 exposto, a fazer consultas sobre Visual Basic via e-mail exclusivo para usu\'e1rios registrados.
+\line 
+\line \f0\b0\i0\ul0\b\i O Autor
+\line \f0\b0\i0\ul0 
+\line Eu sou o Marcelo, analista de sistemas, casado com a \'c9rika, pai do Matheus. Programo computadores desde a d\'e9cada de 80, l\'e1 pelos meus 12 anos de idade eu j\'e1 fazia uns "programinhas" em BASIC no COMMODORE VIC-20 do meu pai. Comecei minha vida profissional programando com o D-Base  III+, depois FoxBase (que depois virou FoxPro e a MS comprou), passei alguns anos com o Clipper, trabalhei com COBOL para os minicomputadores COBRA (arghhhh) do Ex\'e9rcito Brasileiro. Conheci o VB na vers\'e3o 1.0 e desde l\'e1 tenho acompanhado a sua evolu\'e7\'e3o. Hoje, apesar de trabalhar com an\'e1lise de sistemas (OOA with UML), continuo exercitando a minha paix\'e3o pela arte de programar usando o Visual Basic 6.0. Em agosto de 1999 me certifiquei como Microsoft Certified Professional em Visual Basic 6.0.
+\line 
+\line Depois que terminei meus estudos de migra\'e7\'e3o do VB3 para o VB6, vi que tinha feito alguns controles que poderiam ser \'fateis a outras pessoas, resolvi ent\'e3o disponibiliz\'e1-los na Grande Rede.
+\line 
+\line Espero que gostem,
+\line 
+\line \f0\b0\i0\ul0\i Marcelo Leal Limaverde Cabral
+\line \f0\b0\i0\ul0 
+\line \f0\b0\i0\ul0\b Dep\'f3sitos para Registro:\f0\b0\i0\ul0 
+\line \f0\b0\i0\ul0\i Matheus Feitosa Cabral
+\line \f0\b0\i0\ul0 Caixa Econ\'f4mica Federal
+\line Ag\'eancia: 1583 - Espinheiro - Recife-PE
+\line Conta Poupan\'e7a: 13159-3
+\line 
+\line ____________________________________________
+\line \f0\b0\i0\ul0 http://www.activepack.cjb.net
+\line http://www.activepack.tsx.org
+\line \f0\b0\i0\ul0 activepack@xoommail.com
+\line Copyright \'a9 1998-2000 Marcelo Leal Limaverde Cabral
+\par 
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 Licença de Uso}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csCstLicenadeUso}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 Licença de Uso}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00024}}}\s1\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 Licença de Uso\par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0\b\ul Acordo de Licen\'e7a de Uso de Usu\'e1rio Final
+\line \f0\b0\i0\ul0 
+\line SOFTWARE : RainDrops ActivePack for Visual Basic 6
+\line AUTOR    : Marcelo Leal Limaverde Cabral
+\line 
+\line O SOFTWARE, a informa\'e7\'e3o e a documenta\'e7\'e3o \'e9 distribuida "como est\'e1" sem garantias expl\'edcitas ou impl\'edcitas de nenhum tipo.
+\line 
+\line Em nenhum caso o AUTOR poder\'e1 ser processado legalmente por qualquer dano ou problema ocorrido incluindo prejuizos diretos, indiretos ou mesmo perda de informacoes em decorrencia do uso do SOFTWARE, mesmo que o AUTOR tenha sido avisado da possibilidade de tais danos.
+\line 
+\line Todo o risco relacionado com a performance do sofware bem como da sua qualidade \'e9 assumido pelo usu\'e1rio.
+\line 
+\line \'c9 proibido alterar este software de qualquer forma, incluindo mudan\'e7as ou remo\'e7\'f5es de quaisquer mensagens ou janelas.
+\line 
+\line \'c9 proibido realizar a engenharia reversa (descompila\'e7\'e3o) deste SOFTWARE.
+\line 
+\line \'c9 proibido adicionar qualquer outra informa\'e7\'e3o de copyright (direitos Autorais) \'e0quelas listadas nesta licen\'e7a, na documenta\'e7\'e3o e no SOFTWARE.
+\line 
+\line Este software pode ser distribu\'eddo gratuitamente em servi\'e7os online, BBS, ou quaisquer outras m\'eddias eletr\'f4nicas, desde que todos os arquivos sejam inclu\'eddos na distribui\'e7\'e3o. Este software n\'e3o pode ser distribu\'eddo em CD-ROM, disquete ou outra m\'eddia f\'edsica n\'e3o gratuita sem a permiss\'e3o do AUTOR.
+\line 
+\line O registro do software junto ao autor n\'e3o \'e9 obrigat\'f3rio, no entanto o usu\'e1rio registrado passa a receber as novas vers\'f5es dos controles antes da sua publica\'e7\'e3o na internet e tem direito \'e0 suporte t\'e9cnico em Visual Basic via e-mail exclusivo para usu\'e1rios registrados. Para obter informa\'e7\'f5es sobre registro visite a homepage do SOFTWARE ou envie e-mail ao AUTOR.
+\line 
+\line Todos os direitos s\'e3o reservados ao AUTOR.
+\line 
+\line Se voc\'ea n\'e3o concorda com os termos desta licen\'e7a voc\'ea deve remover o SOFTWARE dos seus dispositivos de armazenamento (discos r\'edgidos e disketes) e n\'e3o utilizar mais o SOFTWARE.
+\line 
+\line Contatos com o AUTOR:
+\line 
+\line \f0\b0\i0\ul0\b Marcelo Leal Limaverde Cabral
+\line \f0\b0\i0\ul0 
+\line ____________________________________________
+\line \f0\b0\i0\ul0 http://www.activepack.cjb.net
+\line http://www.activepack.tsx.org
+\line \f0\b0\i0\ul0 activepack@xoommail.com
+\line Copyright \'a9 1998-2000 Marcelo Leal Limaverde Cabral
+\par 
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 rdGradientConstants Constantes}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csSetrdGradientConstants}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 rdGradientConstants Constantes;Constants;Settings}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00025}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 rdGradientConstants Constantes\par \pard\plain 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Usado com}\line \sb0\sa240\li0\f0\fs18\snext0 BackGradient (ActiveForm)\par }
+\sb0\sa240\li0\f0\fs18\snext0 {\b\ul Valor\tab Constante\tab\tab\tab\tab}\line 0	bgVertical\line 1	bgHorizontal\line 2	bgCircle\line 3	bgRectangle\line 4	bgDiagLeftRight\line 5	bgDiagRightLeft\line \par 
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 rdBackgroundConstants Constantes}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csSetrdBackgroundConstants}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 rdBackgroundConstants Constantes;Constants;Settings}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00026}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 rdBackgroundConstants Constantes\par \pard\plain 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Usado com}\line \sb0\sa240\li0\f0\fs18\snext0 Background (ActiveForm)\par }
+\sb0\sa240\li0\f0\fs18\snext0 {\b\ul Valor\tab Constante\tab\tab\tab\tab}\line 0	bgNone\line 1	bgGradient\line 2	bgTransparent\line 3	bgTiledPicture\line 4	bgLeftPicture\line 5	bgCenterPicture\line \par 
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 rdRestoreModeConstants Constantes}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csSetrdRestoreModeConstants}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 rdRestoreModeConstants Constantes;Constants;Settings}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00027}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 rdRestoreModeConstants Constantes\par \pard\plain 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Usado com}\line \sb0\sa240\li0\f0\fs18\snext0 RestoreMode (ActiveForm)\par }
+\sb0\sa240\li0\f0\fs18\snext0 {\b\ul Valor\tab Constante\tab\tab\tab\tab}\line 0	rmManual\line 1	rmSingleClick\line 2	rmDoubleClick\line \par 
+}

@@ -1,0 +1,31 @@
+; This file is maintained by HCW. Do not modify this file directly.
+; This file was created with VSDOCX 1.0
+
+[OPTIONS]
+errorlog=VSDOCX.Err
+title=RainDrops ActiveLink Help
+copyright=RainDrops ActiveLink copyright (c) 2000 RainDrops Freeware Project
+citation=copyright (c) 2000 RainDrops Freeware Project
+compress=12 Hall Zeck
+oldkeyphrase=False
+warning=3
+cnt=ACTIVELINK.cnt
+
+[FILES]
+D:\Users\mcabral\Backup Home\ActivePack\ActiveLink\Ajuda\ActiveLink.rth
+
+[MAP]
+; map for ActiveLink Control
+csCtlActiveLink             0
+csPCaptionActiveLink        0
+csPLinkActiveLink           0
+csPMouseIconActiveLink      0
+csPMousePointerActiveLink   0
+
+[WINDOWS]
+main="RainDrops ActiveLink Help",,, (255, 255, 255), (255, 255, 255)
+
+[CONFIG]
+BrowseButtons()
+CreateButton("btnActiveLink", "ActiveLink", "JumpID(`ACTIVELINK.HLP', `csCtlActiveLink')")
+

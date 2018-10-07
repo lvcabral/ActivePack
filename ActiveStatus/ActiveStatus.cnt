@@ -1,0 +1,31 @@
+:Base ACTIVESTATUS.hlp
+:Title Raindrops ActiveStatus
+1 RainDrops ActivePack
+2 Sobre o ActivePack=csCstSobreoActivePack
+2 Licença de Uso=csCstLicenadeUso
+1 Controle ActiveStatus
+2 Controle ActiveStatus=csCtlActiveStatus
+2 Propriedades do ActiveStatus
+4 Enabled=csPEnabledActiveStatus
+4 Font*=csPFontActiveStatus
+4 ImageList=csPImageListActiveStatus
+4 ImageSize=csPImageSizeActiveStatus
+4 Panels=csPPanelsActiveStatus
+4 SimpleText=csPSimpleTextActiveStatus
+4 Style=csPStyleActiveStatus
+2 Eventos do ActiveStatus 
+4 Click=csEClickActiveStatus
+4 DblClick=csEDblClickActiveStatus
+4 MouseDown=csEMouseDownActiveStatus
+4 MouseMove=csEMouseMoveActiveStatus
+4 MouseUp=csEMouseUpActiveStatus
+2 Histórico de Alterações
+2 Histórico de Alterações=csCstHistricodeAlteraes
+1 Constantes
+2 EErrorTimer Constantes=csSetEErrorTimer
+2 sbAutoSizeConstants Constantes=csSetsbAutoSizeConstants
+2 sbImageSizeConstants Constantes=csSetsbImageSizeConstants
+2 sbPanelAlignmentConstants Constantes=csSetsbPanelAlignmentConstants
+2 sbPanelBevelConstants Constantes=csSetsbPanelBevelConstants
+2 sbPanelStyleConstants Constantes=csSetsbPanelStyleConstants
+2 sbStyleConstants Constantes=csSetsbStyleConstants

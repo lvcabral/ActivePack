@@ -1,0 +1,81 @@
+Microsoft (R) Help Compiler
+HCRTF 4.01.0950
+Copyright (c) Microsoft Corp 1990 - 1995. All rights reserved.
+activetext.hpj
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csPAlignmentActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csPAppearanceActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csPBackColorActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csPBorderStyleActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csEChangeActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csEClickActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csPDateFormatActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csEDblClickActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csPDecimalPointActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csPDecimalsActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csPEnabledActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csPFloatFormatActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csPFocusSelectActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csPFontActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csPForeColorActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csEKeyDownActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csEKeyPressActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csEKeyUpActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csPLockedActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csPMaskActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csPMaxLengthActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csEMouseDownActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csEMouseMoveActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csEMouseUpActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csPPasswordCharActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csPRawTextActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csPSelLengthActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csPSelStartActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csPSelTextActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csPTextActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csPTextCaseActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csPTextMaskActiveText" is the same as the map value for "csCtlActiveText".
+    HC3037: Warning: activetext.hpj : 
+	The map value for "csPTimeFormatActiveText" is the same as the map value for "csCtlActiveText".
+45	Topics
+20	Jumps
+122	Keywords
+1	Bitmap
+
+
+File size: 27,983
+Bitmaps: 1,392 bytes
+Hall+Zeck compression decreased help file by 18,269 bytes.
+Compile time: 0 minutes, 1 second
+0 notes, 33 warnings

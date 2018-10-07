@@ -1,0 +1,25 @@
+Microsoft (R) Help Compiler
+HCRTF 4.01.0950
+Copyright (c) Microsoft Corp 1990 - 1995. All rights reserved.
+activecal.hpj
+    HC3037: Warning: activecal.hpj : 
+	The map value for "csPBorderStyleActiveCalendar" is the same as the map value for "csCtlActiveCalendar".
+    HC3037: Warning: activecal.hpj : 
+	The map value for "csEClickActiveCalendar" is the same as the map value for "csCtlActiveCalendar".
+    HC3037: Warning: activecal.hpj : 
+	The map value for "csEDblClickActiveCalendar" is the same as the map value for "csCtlActiveCalendar".
+    HC3037: Warning: activecal.hpj : 
+	The map value for "csPSelectedDateActiveCalendar" is the same as the map value for "csCtlActiveCalendar".
+    HC3037: Warning: activecal.hpj : 
+	The map value for "csPTodayCaptionActiveCalendar" is the same as the map value for "csCtlActiveCalendar".
+10	Topics
+2	Jumps
+26	Keywords
+1	Bitmap
+
+
+File size: 15,858
+Bitmaps: 972 bytes
+Hall+Zeck compression decreased help file by 3,637 bytes.
+Compile time: 0 minutes, 0 seconds
+0 notes, 5 warnings

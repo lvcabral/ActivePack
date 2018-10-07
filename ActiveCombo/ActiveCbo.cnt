@@ -1,0 +1,43 @@
+:Base ActiveCbo.hlp
+:Title RainDrops ActiveCombo
+1 RainDrops ActivePack
+2 Sobre o ActivePack=csCstSobreoActivePack
+2 Licença de Uso=csCstLicenadeUso
+1 ActiveCombo Controle
+2 ActiveCombo Controle=csCtlActiveCombo
+2 ActiveCombo Propriedades
+4 BackColor=csPBackColorActiveCombo
+4 Enabled=csPEnabledActiveCombo
+4 ForeColor=csPForeColorActiveCombo
+4 IconColorDepth=csPIconColorDepthActiveCombo
+4 IconSize=csPIconSizeActiveCombo
+4 ImageList=csPImageListActiveCombo
+4 ItemData=csPItemDataActiveCombo
+4 List=csPListActiveCombo
+4 ListCount=csPListCountActiveCombo
+4 ListIndex=csPListIndexActiveCombo
+4 Locked=csPLockedActiveCombo
+4 NewIndex=csPNewIndexActiveCombo
+4 SelLength=csPSelLengthActiveCombo
+4 SelStart=csPSelStartActiveCombo
+4 SelText=csPSelTextActiveCombo
+4 ShowIcons=csPShowIconsActiveCombo
+4 Style=csPStyleActiveCombo
+4 Text=csPTextActiveCombo
+2 ActiveCombo Eventos
+4 Change=csEChangeActiveCombo
+4 Click=csEClickActiveCombo
+4 DropDown=csEDropDownActiveCombo
+4 KeyDown=csEKeyDownActiveCombo
+4 KeyPress=csEKeyPressActiveCombo
+4 KeyUp=csEKeyUpActiveCombo
+2 ActiveCombo Métodos
+4 AddIcon=csMAddIconActiveCombo
+4 AddItem=csMAddItemActiveCombo
+4 Clear=csMClearActiveCombo
+2 Histórico das Alterações
+2 Histórico das Alterações=csCstHistricodasAlteraes
+1  Constantes
+2 CboStyleConstants Constantes=csSetCboStyleConstants
+2 ColorDepthConstants Constants=csSetColorDepthConstants
+2 IconSizeConstants Constantes=csSetIconSizeConstants

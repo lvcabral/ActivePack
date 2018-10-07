@@ -1,0 +1,55 @@
+Microsoft (R) Help Compiler
+HCRTF 4.01.0950
+Copyright (c) Microsoft Corp 1990 - 1995. All rights reserved.
+activeform.hpj
+    HC3037: Warning: activeform.hpj : 
+	The map value for "csPAllwaysOnTopActiveForm" is the same as the map value for "csCtlActiveForm".
+    HC3037: Warning: activeform.hpj : 
+	The map value for "csPBackColorActiveForm" is the same as the map value for "csCtlActiveForm".
+    HC3037: Warning: activeform.hpj : 
+	The map value for "csPBackColor2ActiveForm" is the same as the map value for "csCtlActiveForm".
+    HC3037: Warning: activeform.hpj : 
+	The map value for "csPBackGradientActiveForm" is the same as the map value for "csCtlActiveForm".
+    HC3037: Warning: activeform.hpj : 
+	The map value for "csPBackgroundActiveForm" is the same as the map value for "csCtlActiveForm".
+    HC3037: Warning: activeform.hpj : 
+	The map value for "csPCloseButtonActiveForm" is the same as the map value for "csCtlActiveForm".
+    HC3037: Warning: activeform.hpj : 
+	The map value for "csPMaxHeightActiveForm" is the same as the map value for "csCtlActiveForm".
+    HC3037: Warning: activeform.hpj : 
+	The map value for "csPMaxWidthActiveForm" is the same as the map value for "csCtlActiveForm".
+    HC3037: Warning: activeform.hpj : 
+	The map value for "csPMinHeightActiveForm" is the same as the map value for "csCtlActiveForm".
+    HC3037: Warning: activeform.hpj : 
+	The map value for "csPMinimizeToTrayActiveForm" is the same as the map value for "csCtlActiveForm".
+    HC3037: Warning: activeform.hpj : 
+	The map value for "csPMinWidthActiveForm" is the same as the map value for "csCtlActiveForm".
+    HC3037: Warning: activeform.hpj : 
+	The map value for "csPResizeControlsActiveForm" is the same as the map value for "csCtlActiveForm".
+    HC3037: Warning: activeform.hpj : 
+	The map value for "csPResizeFontsActiveForm" is the same as the map value for "csCtlActiveForm".
+    HC3037: Warning: activeform.hpj : 
+	The map value for "csMRestoreActiveForm" is the same as the map value for "csCtlActiveForm".
+    HC3037: Warning: activeform.hpj : 
+	The map value for "csPRestoreModeActiveForm" is the same as the map value for "csCtlActiveForm".
+    HC3037: Warning: activeform.hpj : 
+	The map value for "csMSetTrayIconActiveForm" is the same as the map value for "csCtlActiveForm".
+    HC3037: Warning: activeform.hpj : 
+	The map value for "csMSetTrayToolTipActiveForm" is the same as the map value for "csCtlActiveForm".
+    HC3037: Warning: activeform.hpj : 
+	The map value for "csETrayDblClickActiveForm" is the same as the map value for "csCtlActiveForm".
+    HC3037: Warning: activeform.hpj : 
+	The map value for "csETrayLeftClickActiveForm" is the same as the map value for "csCtlActiveForm".
+    HC3037: Warning: activeform.hpj : 
+	The map value for "csETrayRightClickActiveForm" is the same as the map value for "csCtlActiveForm".
+27	Topics
+21	Jumps
+90	Keywords
+1	Bitmap
+
+
+File size: 23,934
+Bitmaps: 1,392 bytes
+Hall+Zeck compression decreased help file by 11,484 bytes.
+Compile time: 0 minutes, 1 second
+0 notes, 20 warnings

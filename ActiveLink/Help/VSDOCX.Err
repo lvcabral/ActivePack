@@ -1,0 +1,23 @@
+Microsoft (R) Help Compiler
+HCRTF 4.01.0950
+Copyright (c) Microsoft Corp 1990 - 1995. All rights reserved.
+activelink.hpj
+    HC3037: Warning: activelink.hpj : 
+	The map value for "csPCaptionActiveLink" is the same as the map value for "csCtlActiveLink".
+    HC3037: Warning: activelink.hpj : 
+	The map value for "csPLinkActiveLink" is the same as the map value for "csCtlActiveLink".
+    HC3037: Warning: activelink.hpj : 
+	The map value for "csPMouseIconActiveLink" is the same as the map value for "csCtlActiveLink".
+    HC3037: Warning: activelink.hpj : 
+	The map value for "csPMousePointerActiveLink" is the same as the map value for "csCtlActiveLink".
+8	Topics
+0	Jumps
+13	Keywords
+1	Bitmap
+
+
+File size: 13,730
+Bitmaps: 305 bytes
+Hall+Zeck compression decreased help file by 2,643 bytes.
+Compile time: 0 minutes, 3 seconds
+0 notes, 4 warnings

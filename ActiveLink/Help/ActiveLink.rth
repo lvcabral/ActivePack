@@ -1,0 +1,143 @@
+{\rtf1\ansi \deff0\deflang1033{\fonttbl{\f0\froman\fcharset0 Arial;}{\f1\froman\fcharset0 Arial;}{\f2\fswiss\fcharset0 Arial;}{\f3\fmodern\fcharset0 Courier New;}{\f4\fmodern\fcharset0 Arial;}}{\colortbl\red0\green0\blue0;\red128\green128\blue128;}{\stylesheet{\sb0\sa240\li0\f0\fs18\snext0 \snext0 Normal;}{\s1\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 \sbasedon0\snext0 heading 1;}{\s2\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 \sbasedon0\snext0 heading 2;}{\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 \sbasedon0\snext0 heading 3;}{\*\cs10 \additive \f1\fs22 Default Paragraph Font;}{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 \sbasedon0\snext17 CallOut;}{\*\cs16\additive\f2\fs18\b\i0\sbasedon10 \sbasedon10 CallOutChar;}{\*\cs17\additive\f3\fs18\sbasedon10 \sbasedon10 Code;}}\pard\plain \sb0\sa240\li0\f0\fs18\snext0 
+{\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 ActiveLink Controle}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csCtlActiveLink}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 ActiveLink Controle;ACTIVELINK.OCX Controles}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00001}}}\s1\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 ActiveLink Controle{\f4\fs16\b0\i0\line {\uldb\cf1 Propriedades}{\v !KLink("ActiveLink Propriedades")}     {\uldb\cf1 Métodos}     {\uldb\cf1 Eventos}{\v !KLink("ActiveLink Eventos")}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0\b Controle:  \tab \f0\b0\i0\ul0  {\pict\wmetafile8\picw416\pich391\picscalex98\picscaley98\picwgoal238\pichgoal223
+010009000003C701000000008A0100000000050000000B0200000000050000000C028701A00103
+0000001E00050000000C028B01A501050000000B0200000000030000001E00050000000C028C01
+A701050000000B0200000000050000000B02000000008A010000430F2000CC0000000F00100000
+0000008C01A7010000000028000000100000000F0000000100180000000000D0020000C40E0000
+C40E00000000000000000000000000000000000000000000080C08080C08080C08000000000000
+000000000000000000000000000000000000000000000000000000000000080C08734900946100
+946100080C08000000000000000000000000000000000000000000000000000000000000080C08
+734900BD7900BD7900946100080C08000000000000000000000000000000000000000000000000
+000000080C08734900BD7900FFAA00BD7900BD7900080C08080C08080C08000000000000000000
+000000000000000000000000080C08946100BD7900BD7900FFAA00080C0884AAC684AAC684AAC6
+080C08080C08000000000000000000000000000000080C08946100946100BD7900080C0884AAC6
+6BC7FFB5E3FFB5E3FF84AAC684AAC6080C08080C08000000000000000000000000080C08080C08
+080C0884AAC66BC7FFB5E3FFB5E3FFB5E3FFB5E3FFB5E3FFB5E3FFCEEBFF080C08000000000000
+000000000000080C0884AAC66BC7FFB5E3FFB5E3FFB5E3FFB5E3FF84AAC6080C08CEEBFF84AAC6
+080C08000000000000000000000000080C088CD7FFB5E3FFB5E3FFB5E3FFB5E3FFCEEBFFB5E3FF
+B5E3FF080C08080C08000000000000000000000000000000080C088CD7FFCEEBFF5A7584CEEBFF
+B5E3FF080C08CEEBFF84AAC6080C08000000000000000000000000000000000000080C088CD7FF
+5A7584080C08080C08CEEBFFB5E3FF080C08080C08000000000000000000000000000000000000
+000000080C088CD7FF080C08000000000000080C08CEEBFFB5E3FF080C08000000000000000000
+000000000000000000000000080C08CEEBFF080C08000000000000000000080C08CEEBFFB5E3FF
+080C08000000000000000000000000000000000000000000080C08000000000000000000000000
+000000080C08B5E3FF84AAC6080C08000000000000000000000000000000000000000000000000
+000000000000000000000000000000080C08080C08000000000000000000040000002701FFFF04
+0000002701FFFF030000000000
+}\f0\b0\i0\ul0   ActiveLink
+\line \f0\b0\i0\ul0\b Descri\'e7\'e3o:  \tab \f0\b0\i0\ul0  Controle para criar um Hyperlink para Arquivos ou URL's
+\line \f0\b0\i0\ul0\b Arquivo:      \tab \f0\b0\i0\ul0  ActiveLink.ocx
+\line \f0\b0\i0\ul0\b Ajuda:     \tab \f0\b0\i0\ul0  ActiveLink.hlp
+\line \f0\b0\i0\ul0\b GUID:        \tab \f0\b0\i0\ul0  \{a7d577e7-e727-11d3-8dcd-92ec485ce63e\}
+\line \f0\b0\i0\ul0\b Propriedades:   \tab \f0\b0\i0\ul0  3
+\line \f0\b0\i0\ul0\b Eventos:       \tab \f0\b0\i0\ul0  0
+\line \f0\b0\i0\ul0\b M\'e9todos:      \tab \f0\b0\i0\ul0  0
+\line 
+\line Antes de usar o controle \f0\b0\i0\ul0\b ActiveLink\f0\b0\i0\ul0  em seus aplicativos, voc\'ea deve incluir o arquivo \f0\b0\i0\ul0\b ACTIVELINK.OCX\f0\b0\i0\ul0  em seu projeto. Se voc\'ea usa o controle na maioria de seus projetos, recomenda-se adicion\'e1-lo ao arquivo Autoload do Visual Basic.
+\line 
+\line Para distribuir aplicativos criados com o controle \f0\b0\i0\ul0\b ActiveLink\f0\b0\i0\ul0 , voc\'ea deve instal\'e1-lo e registr\'e1-lo no computador do usu\'e1rio. O Package & Deployment Wizard distribuido com o Visual Basic fornece as ferramentas necess\'e1rias para fazer isso. Veja o manual do Visual Basic para detalhes.\f0\b0\i0\ul0 
+\par 
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 Caption* Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPCaptionActiveLink}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 Caption* Propriedade;ActiveLink Propriedades}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00002}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 Caption* Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveLink Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Retorna/configura o texto que mostrado no Link.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveLink}.{\b Caption}[ = {\i value As String} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 String\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 Link Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPLinkActiveLink}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 Link Propriedade;ActiveLink Propriedades}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00003}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 Link Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveLink Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Endere\'e7o da URL ou do Arquivo que ser\'e1 executado quando o usu\'e1rio clicar no controle.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveLink}.{\b Link}[ = {\i value As String} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 String\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 MouseIcon Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPMouseIconActiveLink}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 MouseIcon Propriedade;ActiveLink Propriedades}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00004}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 MouseIcon Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveLink Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Configura um icone customizado para o cursor do mouse.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveLink}.{\b MouseIcon}[ = {\i Picture} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 Picture\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 MousePointer Propriedade}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csPMousePointerActiveLink}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 MousePointer Propriedade;ActiveLink Propriedades}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00005}}}\s3\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 MousePointer Propriedade{\f4\fs16\b0\i0\line {\uldb\cf1 Veja também}     {\uldb\cf1 Exemplos}     {\uldb\cf1 Se aplica a}{\v !KLink("ActiveLink Controle", 0)}     }\sa100 \par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0 Retorna/seta o tipo do ponteiro do mouse mostrado quando este passa sobre um objeto.\f0\b0\i0\ul0 
+\par 
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Syntaxe    }\line \sb0\sa240\li0\f0\fs18\snext0 [{\i form}!]{\i ActiveLink}.{\b MousePointer}[ = {\i MousePointerConstants} ]\par }
+{\s15\sb0\sa240\li0\fi0\sbasedon0\snext15 {\b\f2\fs18 Tipo     }\line \sb0\sa240\li0\f0\fs18\snext0 MousePointerConstants\par }
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 Sobre o ActivePack}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csCstSobreoActivePack}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 Sobre o ActivePack}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00006}}}\s1\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 Sobre o ActivePack\par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0\b\i O Software
+\line \f0\b0\i0\ul0 
+\line Este \'e9 um software FREEWARE. 
+\line 
+\line Software FREEWARE \'e9 de LIVRE uso e distribui\'e7\'e3o, n\'e3o significa que ele necessariamente seja \f0\b0\i0\ul0\i gr\'e1tis,\f0\b0\i0\ul0  pois existem direitos autorais envolvidos, e \'e9 claro tempo e dinheiro investidos. Por favor leia a Licen\'e7a de Uso.
+\line 
+\line Se voc\'ea acha que este software de alguma forma lhe est\'e1 sendo \'fatil, para que ele possa continuar sendo atualizado e aperfei\'e7oado e para que voc\'ea possa me ajudar a fazer uma poupan\'e7a para o meu filho Matheus (ele tem 2 anos) ,  torne-se um usu\'e1rio registrado depositando qualquer quantia na poupan\'e7a que abri para ele (veja o n\'famero l\'e1 embaixo). Ap\'f3s o dep\'f3sito envie um e-mail informando os dados do comprovante (data / hora / valor),  para ser registrado e receber as novas vers\'f5es do software em primeira m\'e3o e ter prioridade nas solicita\'e7\'f5es de novas funcionalidades.
+\line 
+\line Se voc\'ea achar melhor, ajude uma institui\'e7\'e3o de apoio a menores carentes que atue na sua cidade, n\'e3o d\'ea apenas dinheiro, visite regularmente, d\'ea aten\'e7\'e3o e carinho. Um sorriso pode iluminar um cora\'e7\'e3o sufocado na desesperan\'e7a. Envie-me ent\'e3o o nome e endere\'e7o da institui\'e7\'e3o que voc\'ea ajuda regularmente, para que eu possa divulg\'e1-la na HomePage e incentivar outras pessoas a faz\'ea-lo, bem como inclu\'ed-lo como usu\'e1rio registrado. 
+\line 
+\line O Usu\'e1rio registrado tem direito, al\'e9m do j\'e1 exposto, a fazer consultas sobre Visual Basic via e-mail exclusivo para usu\'e1rios registrados.
+\line 
+\line \f0\b0\i0\ul0\b\i O Autor
+\line \f0\b0\i0\ul0 
+\line Eu sou o Marcelo, analista de sistemas, casado com a \'c9rika, pai do Matheus. Programo computadores desde a d\'e9cada de 80, l\'e1 pelos meus 12 anos de idade eu j\'e1 fazia uns "programinhas" em BASIC no COMMODORE VIC-20 do meu pai. Comecei minha vida profissional programando com o D-Base  III+, depois FoxBase (que depois virou FoxPro e a MS comprou), passei alguns anos com o Clipper, trabalhei com COBOL para os minicomputadores COBRA (arghhhh) do Ex\'e9rcito Brasileiro. Conheci o VB na vers\'e3o 1.0 e desde l\'e1 tenho acompanhado a sua evolu\'e7\'e3o. Hoje, apesar de trabalhar com an\'e1lise de sistemas (OOA with UML), continuo exercitando a minha paix\'e3o pela arte de programar usando o Visual Basic 6.0. Em agosto de 1999 me certifiquei como Microsoft Certified Professional em Visual Basic 6.0.
+\line 
+\line Depois que terminei meus estudos de migra\'e7\'e3o do VB3 para o VB6, vi que tinha feito alguns controles que poderiam ser \'fateis a outras pessoas, resolvi ent\'e3o disponibiliz\'e1-los na Grande Rede.
+\line 
+\line Espero que gostem,
+\line 
+\line \f0\b0\i0\ul0\i Marcelo Leal Limaverde Cabral
+\line \f0\b0\i0\ul0 
+\line \f0\b0\i0\ul0\b Dep\'f3sitos para Registro:\f0\b0\i0\ul0 
+\line \f0\b0\i0\ul0\i Matheus Feitosa Cabral
+\line \f0\b0\i0\ul0 Caixa Econ\'f4mica Federal
+\line Ag\'eancia: 1583 - Espinheiro - Recife-PE
+\line Conta Poupan\'e7a: 13159-3
+\line 
+\line ____________________________________________
+\line http://members.xoom.com/ActivePack
+\line activepack@xoommail.com
+\line Copyright \'a9 1998-2000 Marcelo Leal Limaverde Cabral
+\line \f0\b0\i0\ul0 
+\par 
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 Licença de Uso}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csCstLicenadeUso}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 Licença de Uso}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00007}}}\s1\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 Licença de Uso\par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0\b\ul Acordo de Licen\'e7a de Uso de Usu\'e1rio Final
+\line \f0\b0\i0\ul0 
+\line SOFTWARE : RainDrops ActivePack for Visual Basic 6
+\line AUTOR    : Marcelo Leal Limaverde Cabral
+\line 
+\line O SOFTWARE, a informa\'e7\'e3o e a documenta\'e7\'e3o \'e9 distribuida "como est\'e1" sem garantias expl\'edcitas ou impl\'edcitas de nenhum tipo.
+\line 
+\line Em nenhum caso o AUTOR poder\'e1 ser processado legalmente por qualquer dano ou problema ocorrido incluindo prejuizos diretos, indiretos ou mesmo perda de informacoes em decorrencia do uso do SOFTWARE, mesmo que o AUTOR tenha sido avisado da possibilidade de tais danos.
+\line 
+\line Todo o risco relacionado com a performance do sofware bem como da sua qualidade \'e9 assumido pelo usu\'e1rio.
+\line 
+\line \'c9 proibido alterar este software de qualquer forma, incluindo mudan\'e7as ou remo\'e7\'f5es de quaisquer mensagens ou janelas.
+\line 
+\line \'c9 proibido realizar a engenharia reversa (descompila\'e7\'e3o) deste SOFTWARE.
+\line 
+\line \'c9 proibido adicionar qualquer outra informa\'e7\'e3o de copyright (direitos Autorais) \'e0quelas listadas nesta licen\'e7a, na documenta\'e7\'e3o e no SOFTWARE.
+\line 
+\line Este software pode ser distribu\'eddo gratuitamente em servi\'e7os online, BBS, ou quaisquer outras m\'eddias eletr\'f4nicas, desde que todos os arquivos sejam inclu\'eddos na distribui\'e7\'e3o. Este software n\'e3o pode ser distribu\'eddo em CD-ROM, disquete ou outra m\'eddia f\'edsica n\'e3o gratuita sem a permiss\'e3o do AUTOR.
+\line 
+\line O registro do software junto ao autor n\'e3o \'e9 obrigat\'f3rio, no entanto o usu\'e1rio registrado passa a receber as novas vers\'f5es dos controles antes da sua publica\'e7\'e3o na internet e tem direito \'e0 suporte t\'e9cnico em Visual Basic via e-mail exclusivo para usu\'e1rios registrados. Para obter informa\'e7\'f5es sobre registro visite a homepage do SOFTWARE ou envie e-mail ao AUTOR.
+\line 
+\line Todos os direitos s\'e3o reservados ao AUTOR.
+\line 
+\line Se voc\'ea n\'e3o concorda com os termos desta licen\'e7a voc\'ea deve remover o SOFTWARE dos seus dispositivos de armazenamento (discos r\'edgidos e disketes) e n\'e3o utilizar mais o SOFTWARE.
+\line 
+\line Contatos com o AUTOR:
+\line 
+\line \f0\b0\i0\ul0\b Marcelo Leal Limaverde Cabral
+\line \f0\b0\i0\ul0 
+\line ____________________________________________
+\line http://members.xoom.com/ActivePack
+\line activepack@xoommail.com
+\line Copyright \'a9 1998-2000 Marcelo Leal Limaverde Cabral
+\line \f0\b0\i0\ul0 
+\par 
+\par \page {\super\b0 ${\footnote {\super $}{ \sb0\sa240\li0\f0\fs18\snext0 Histórico de Alterações}}#{\footnote {\super #}{ \sb0\sa240\li0\f0\fs18\snext0 csCstHistricodeAlteraes}}K{\footnote {\super K}{ \sb0\sa240\li0\f0\fs18\snext0 Histórico de Alterações}}+{\footnote {\super +}{ \sb0\sa240\li0\f0\fs18\snext0 00008}}}\s1\sb160\sa160\li0\keep\keepn\f1\fs28\b0\i0\sbasedon0\snext0 Histórico de Alterações\par \pard\plain 
+\sb0\sa240\li0\f0\fs18\snext0 \f0\b0\i0\ul0\b\ul Release v1.03.0005 - 10/04/2000\f0\b0\i0\ul0 
+\line 
+\line - Paineis com estilo (Date, Time, Caps, Num, Ins e Scrl) agora s\'e3o centralizados por Default;
+\line - Compila\'e7\'e3o com o Service Pack 3 do Visual Studio 6;
+\line 
+\line \f0\b0\i0\ul0\b\ul Release v1.02.0003 - 20/04/1999 
+\line \f0\b0\i0\ul0 
+\line - Release Inicial do Produto
+\line 
+\par 
+}

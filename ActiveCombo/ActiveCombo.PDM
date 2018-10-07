@@ -1,0 +1,143 @@
+[Root]
+Most Recent Package=ActiveCombo DEP
+
+
+[Package|ActiveCombo INF|Root]
+SubWizProgID=PDWizard.InetCABPkgSubWiz
+BuildFolder=C:\Projetos\ActivePack\ActiveCombo\Install
+Controls Design-Time Support=No
+
+[Package|ActiveCombo INF|Configure DAO ISAMs]
+Applicable=No
+
+[Package|ActiveCombo INF|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|ActiveCombo INF|Files Found]
+
+[Package|ActiveCombo INF|Files Released]
+
+[Package|ActiveCombo INF|Missing Dependency Information]
+
+[Package|ActiveCombo INF|Out-of-Date Dependency Information]
+
+[Package|ActiveCombo INF|Files Added]
+c:\windows\system\msstkprp.dll=This file is needed for usercontrol design-time support.
+C:\Projetos\ActivePack\ActiveCombo\ActiveCombo.DEP=
+
+[Package|ActiveCombo INF|Files Removed]
+c:\windows\system\msstkprp.dll=
+c:\windows\system\msvbvm60.dll=
+c:\windows\system\oleaut32.dll=
+c:\windows\system\olepro32.dll=
+c:\windows\system\asycfilt.dll=
+c:\windows\system\stdole2.tlb=
+c:\arquivos de programas\microsoft visual studio\vb98\wizards\pdwizard\redist\comcat.dll=
+
+[Package|ActiveCombo INF|Files In Project]
+C:\Projetos\ActivePack\ActiveCombo\ActiveCombo.ocx=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=No
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=No
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=No
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=No
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=No
+C:\Arquivos de Programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\WINDOWS\SYSTEM\Msstkprp.dll=No
+C:\Projetos\ActivePack\ActiveCombo\ActiveCombo.DEP=Yes
+
+[Package|ActiveCombo INF|Configure Registry Files]
+Applicable=No
+
+[Package|ActiveCombo INF|Configure Remote Servers]
+Applicable=No
+
+[Package|ActiveCombo INF|Install Locations]
+
+[Package|ActiveCombo INF|Configure Shared Files]
+Applicable=
+
+[Package|ActiveCombo INF|ComponentInfo]
+ActiveCombo.ocx=thiscab
+ActiveCombo.DEP=thiscab
+
+[Package|ActiveCombo INF|ObjectInfo]
+ActiveCombo=false;false
+
+[Package|ActiveCombo INF|Package]
+PackageFolder=C:\Projetos\ActivePack\ActiveCombo\Install
+ProjectFolder=C:\Projetos\ActivePack\ActiveCombo
+ServerSideCab=C:\Projetos\ActivePack\ActiveCombo\Install\ActiveCombo.CAB
+File1=C:\Projetos\ActivePack\ActiveCombo\Install\ActiveCombo.CAB
+File2=C:\Projetos\ActivePack\ActiveCombo\Install\ActiveCombo.HTM
+Handler1=PDWizard.WebPostDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+
+
+[Package|ActiveCombo DEP|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Projetos\ActivePack\ActiveCombo
+Controls Design-Time Support=Yes
+
+[Package|ActiveCombo DEP|Configure DAO ISAMs]
+Applicable=No
+
+[Package|ActiveCombo DEP|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|ActiveCombo DEP|Files Found]
+
+[Package|ActiveCombo DEP|Files Released]
+
+[Package|ActiveCombo DEP|Missing Dependency Information]
+
+[Package|ActiveCombo DEP|Out-of-Date Dependency Information]
+
+[Package|ActiveCombo DEP|Files Added]
+c:\windows\system\msstkprp.dll=This file is needed for usercontrol design-time support.
+
+[Package|ActiveCombo DEP|Files Removed]
+
+[Package|ActiveCombo DEP|Files In Project]
+C:\Projetos\ActivePack\ActiveCombo\ActiveCombo.ocx=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Arquivos de Programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\Msstkprp.dll=Yes
+C:\Projetos\ActivePack\Help\ActiveCombo.hlp=Yes
+
+[Package|ActiveCombo DEP|Configure Registry Files]
+Applicable=
+
+[Package|ActiveCombo DEP|Configure Remote Servers]
+Applicable=
+
+[Package|ActiveCombo DEP|Install Locations]
+C:\Projetos\ActivePack\ActiveCombo\ActiveCombo.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Arquivos de Programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\Msstkprp.dll=$(WinSysPath)
+C:\Projetos\ActivePack\Help\ActiveCombo.hlp=$(AppPath)
+
+[Package|ActiveCombo DEP|Configure Shared Files]
+Applicable=
+
+[Package|ActiveCombo DEP|DepFile]
+DepCabFile=
+DepCabRun=acombo.INF
+
+[Package|ActiveCombo DEP|Package]
+PackageFolder=C:\Projetos\ActivePack\ActiveCombo
+ProjectFolder=C:\Projetos\ActivePack\ActiveCombo
+ServerSideCab=
+File1=C:\Projetos\ActivePack\ActiveCombo\ActiveCombo.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

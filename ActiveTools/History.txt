@@ -1,0 +1,78 @@
+Produto.....: RainDrops ActivePack for Visual Basic 6
+Controle....: RainDrops ActiveTools (antigo ActiveSearch)
+Arquivo.....: ActiveTools.exe
+Documento...: Histórico das Alterações e Correções das Releases do Produto
+
+*** Release v1.03.0032 *** 25/04/2001 ***
+- Incluída uma crítica para evitar que nenhum tipo de arquivo seja selecionado
+  o que gera um erro não tratado na tela de filtro de arquivos;
+- Incluídos o botão e a opção de menu PopUp para abrir a pasta do arquivo 
+  selecionado;
+- Agora são apresentados no painel de informações do Object Browser o CLSID e
+  o ProgID de cada objeto dos componentes;
+
+*** Release v1.03.0030 *** 09/04/2001 ***
+- Incluído o form para seleção do filtro de arquivos substituindo o ImputBox;
+- Eliminado o bug que ocorria quando era aberto um arquivo sem typelib pelo
+  explorer;
+- Incluída tradução no AboutBox;
+
+*** Release v1.03.0028 *** 03/11/2000 ***
+- Eliminado o bug que ocasionava um GPF abortando o programa quando era
+  selecionado um caminho raiz (ex. C:\ ou D:\ etc.) pois a rotina estava
+  eliminando a barra final mesmo nestes casos;
+
+*** Release v1.03.0025 *** 13/09/2000 ***
+- Implementado o Object Browser para apresentar os eventos corretamente;
+- Eliminados alguns bugs;
+
+*** Release v1.03.0024 *** 04/07/2000 ***
+- Corrigido o bug que abortava o programa no Windows NT quando o usuário
+  apertava o botão para selecionar o diretório;
+- Incluido suporte para arquivos OLB (Object Library);
+- Implementado o autosize para as colunas do ListView dos arquivos;
+- Incluida a janela Object Browser que explora a interface COM dos 
+  Aplicativos, Bibliotecas e Controles ActiveX; 
+- Novos ícones da Barra de Ferramentas para quem usa 256 ou mais cores;
+- Corrigido bug que deixava habilitados os botões de registro e deleção
+  após o envio (ou não) de arquivos para a lixeira;
+- Incluida a possibilidade de passar um arquivo como parâmetro para abrir
+  diretamente a janela de Object Browser;
+- Incluida a possibilidade de passar uma pasta como parâmetro para mostrar
+  automaticamente os arquivos ;
+- O Duplo Clique ou a tecla Enter em um arquivo abre o Object Browser;
+- O Clique com o botão direito abre um menu PopUp;
+- As informações do arquivo aparecem na área de descrição quando o nome da
+  biblioteca é selecionado no TreeView;
+
+*** Release v1.02.0012 *** 04/04/1999 ***
+- Alterada a função BrowseForFolder para apresentar a pasta default;
+- Corrigido bug que ocorria quando era interrompida uma procura, nas proximas
+  pesquisas o nivel da chamada recursiva não estava sendo zerado;
+- Alterada a rotina para executar a animação, para usar o AVI diretamente do
+  EXE sem a necessidade de gerar arquivo temporário;
+- Relatório alterado para uma melhor formatação;
+
+*** Release v1.02.0008 *** 30/03/1999 ***
+- Incluidas as colunas GUID e Interface que apresentam as informações de
+  identificação OLE dos componentes ActiveX;
+- As opções de Pasta e Máscara de Arquivos agora são salvas no Registry
+  e apresentadas como default;
+- Alteração do nome de ActiveSearch para ActiveTools;
+
+*** Release v1.01.0007 *** 10/01/1999 ***
+- Corrigido erro que ocorria quando era alterada a coluna que classificava os
+  arquivos e haviam arquivos marcados, pois o indice dos arquivos marcados 
+  não acompanhava a nova classificação;
+- Incluido rotina de tratamento de erros para evitar que o programa aborte na
+  ocorrência de um Filtro de Arquivos que gere duplicações de arquivos;
+- Incluidos dois novos botões na barra de ferramentas, Marcar Todos e Desmar-
+  car todos;
+- Alterado o AboutBox para o form padrão do ActivePack;
+- Incluida uma StringTable para tornar o ActiveSearch biligüe, agora depen-
+  dendo da versão do Windows (Inglês ou Português) ele apresentas os textos
+  na lingua adequada automaticamente sem configuração.
+- Alterada a pasta Default para o dirtetório Raiz do drive;
+
+*** Release v1.00.0005 *** 13/12/1998 ***
+- Release Inicial do Produto

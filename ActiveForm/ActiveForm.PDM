@@ -1,0 +1,149 @@
+[Root]
+Most Recent Package=ActiveForm DEP
+Most Recent Deploy=Folder Deployment 1
+
+[Deploy|Folder Deployment 1|Root]
+Package=Internet Package 1
+Handler=PDWizard.FolderDplySubWiz
+Folder=C:\Projetos\ActivePack\ActiveForm\Teste
+
+
+[Package|ActiveForm INF|Root]
+SubWizProgID=PDWizard.InetCABPkgSubWiz
+BuildFolder=C:\Projetos\ActivePack\ActiveForm\Install
+Controls Design-Time Support=No
+
+[Package|ActiveForm INF|Configure DAO ISAMs]
+Applicable=No
+
+[Package|ActiveForm INF|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|ActiveForm INF|Files Found]
+
+[Package|ActiveForm INF|Files Released]
+
+[Package|ActiveForm INF|Missing Dependency Information]
+
+[Package|ActiveForm INF|Out-of-Date Dependency Information]
+
+[Package|ActiveForm INF|Files Added]
+C:\WINDOWS\SYSTEM\MsStkPrp.dll=This file is needed for usercontrol design-time support.
+C:\Projetos\ActivePack\ActiveForm\ActiveForm.DEP=
+
+[Package|ActiveForm INF|Files Removed]
+c:\windows\system\msstkprp.dll=
+c:\windows\system\msvbvm60.dll=
+c:\windows\system\oleaut32.dll=
+c:\windows\system\olepro32.dll=
+c:\windows\system\asycfilt.dll=
+c:\windows\system\stdole2.tlb=
+c:\arquivos de programas\microsoft visual studio\vb98\wizards\pdwizard\redist\comcat.dll=
+
+[Package|ActiveForm INF|Files In Project]
+C:\Projetos\ActivePack\ActiveForm\ActiveForm.ocx=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=No
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=No
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=No
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=No
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=No
+C:\Arquivos de Programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\WINDOWS\SYSTEM\Msstkprp.dll=No
+C:\Projetos\ActivePack\ActiveForm\ActiveForm.DEP=Yes
+
+[Package|ActiveForm INF|Configure Registry Files]
+Applicable=No
+
+[Package|ActiveForm INF|Configure Remote Servers]
+Applicable=No
+
+[Package|ActiveForm INF|Install Locations]
+
+[Package|ActiveForm INF|Configure Shared Files]
+Applicable=
+
+[Package|ActiveForm INF|ComponentInfo]
+ActiveForm.ocx=thiscab
+ActiveForm.DEP=thiscab
+
+[Package|ActiveForm INF|ObjectInfo]
+ActiveForm=false;false
+
+[Package|ActiveForm INF|Package]
+PackageFolder=C:\Projetos\ActivePack\ActiveForm\Install
+ProjectFolder=C:\Projetos\ActivePack\ActiveForm
+ServerSideCab=C:\Projetos\ActivePack\ActiveForm\Install\ActiveForm.CAB
+File1=C:\Projetos\ActivePack\ActiveForm\Install\ActiveForm.CAB
+File2=C:\Projetos\ActivePack\ActiveForm\Install\ActiveForm.HTM
+Handler1=PDWizard.WebPostDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+
+
+[Package|ActiveForm DEP|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=C:\Projetos\ActivePack\ActiveForm
+Controls Design-Time Support=Yes
+
+[Package|ActiveForm DEP|Configure DAO ISAMs]
+Applicable=No
+
+[Package|ActiveForm DEP|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|ActiveForm DEP|Files Found]
+
+[Package|ActiveForm DEP|Files Released]
+
+[Package|ActiveForm DEP|Missing Dependency Information]
+
+[Package|ActiveForm DEP|Out-of-Date Dependency Information]
+
+[Package|ActiveForm DEP|Files Added]
+c:\windows\system\msstkprp.dll=This file is needed for usercontrol design-time support.
+
+[Package|ActiveForm DEP|Files Removed]
+
+[Package|ActiveForm DEP|Files In Project]
+C:\Projetos\ActivePack\ActiveForm\ActiveForm.ocx=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Arquivos de Programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\Msstkprp.dll=Yes
+C:\Projetos\ActivePack\Help\ActiveForm.hlp=Yes
+
+[Package|ActiveForm DEP|Configure Registry Files]
+Applicable=
+
+[Package|ActiveForm DEP|Configure Remote Servers]
+Applicable=
+
+[Package|ActiveForm DEP|Install Locations]
+C:\Projetos\ActivePack\ActiveForm\ActiveForm.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Arquivos de Programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\Msstkprp.dll=$(WinSysPath)
+C:\Projetos\ActivePack\Help\ActiveForm.hlp=$(AppPath)
+
+[Package|ActiveForm DEP|Configure Shared Files]
+Applicable=
+
+[Package|ActiveForm DEP|DepFile]
+DepCabFile=ActiveForm.CAB
+DepCabRun=ActiveForm.INF
+
+[Package|ActiveForm DEP|Package]
+PackageFolder=C:\Projetos\ActivePack\ActiveForm
+ProjectFolder=C:\Projetos\ActivePack\ActiveForm
+ServerSideCab=
+File1=C:\Projetos\ActivePack\ActiveForm\ActiveForm.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

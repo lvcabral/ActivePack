@@ -1,0 +1,39 @@
+Microsoft (R) Help Compiler
+HCRTF 4.01.0950
+Copyright (c) Microsoft Corp 1990 - 1995. All rights reserved.
+activestatus.hpj
+    HC3037: Warning: activestatus.hpj : 
+	The map value for "csEClickActiveStatus" is the same as the map value for "csCtlActiveStatus".
+    HC3037: Warning: activestatus.hpj : 
+	The map value for "csEDblClickActiveStatus" is the same as the map value for "csCtlActiveStatus".
+    HC3037: Warning: activestatus.hpj : 
+	The map value for "csPEnabledActiveStatus" is the same as the map value for "csCtlActiveStatus".
+    HC3037: Warning: activestatus.hpj : 
+	The map value for "csPFontActiveStatus" is the same as the map value for "csCtlActiveStatus".
+    HC3037: Warning: activestatus.hpj : 
+	The map value for "csPImageListActiveStatus" is the same as the map value for "csCtlActiveStatus".
+    HC3037: Warning: activestatus.hpj : 
+	The map value for "csPImageSizeActiveStatus" is the same as the map value for "csCtlActiveStatus".
+    HC3037: Warning: activestatus.hpj : 
+	The map value for "csEMouseDownActiveStatus" is the same as the map value for "csCtlActiveStatus".
+    HC3037: Warning: activestatus.hpj : 
+	The map value for "csEMouseMoveActiveStatus" is the same as the map value for "csCtlActiveStatus".
+    HC3037: Warning: activestatus.hpj : 
+	The map value for "csEMouseUpActiveStatus" is the same as the map value for "csCtlActiveStatus".
+    HC3037: Warning: activestatus.hpj : 
+	The map value for "csPPanelsActiveStatus" is the same as the map value for "csCtlActiveStatus".
+    HC3037: Warning: activestatus.hpj : 
+	The map value for "csPSimpleTextActiveStatus" is the same as the map value for "csCtlActiveStatus".
+    HC3037: Warning: activestatus.hpj : 
+	The map value for "csPStyleActiveStatus" is the same as the map value for "csCtlActiveStatus".
+23	Topics
+3	Jumps
+53	Keywords
+1	Bitmap
+
+
+File size: 17,860
+Bitmaps: 1,036 bytes
+Hall+Zeck compression decreased help file by 6,074 bytes.
+Compile time: 0 minutes, 0 seconds
+0 notes, 12 warnings

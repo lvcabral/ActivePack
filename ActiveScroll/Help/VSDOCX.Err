@@ -1,0 +1,19 @@
+Microsoft (R) Help Compiler
+HCRTF 4.01.0950
+Copyright (c) Microsoft Corp 1990 - 1995. All rights reserved.
+activescroll.hpj
+    HC3037: Warning: activescroll.hpj : 
+	The map value for "csPhWndActiveScroll" is the same as the map value for "csCtlActiveScroll".
+    HC3037: Warning: activescroll.hpj : 
+	The map value for "csPStyleActiveScroll" is the same as the map value for "csCtlActiveScroll".
+7	Topics
+0	Jumps
+12	Keywords
+1	Bitmap
+
+
+File size: 14,282
+Bitmaps: 1,036 bytes
+Hall+Zeck compression decreased help file by 2,366 bytes.
+Compile time: 0 minutes, 0 seconds
+0 notes, 2 warnings
