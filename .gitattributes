@@ -21,3 +21,5 @@
 *.bin binary
 *.aps binary
 *.ncb binary
+*.png binary
+
