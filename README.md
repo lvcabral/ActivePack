@@ -1,7 +1,7 @@
 # ActivePack
 RainDrops ActivePack - OCX Components for Visual Basic 6
 
-![Logo](/lvcabral/ActivePack/blob/master/activepack-logo.png?raw=true)
+![Logo](https://github.com/lvcabral/ActivePack/blob/master/activepack-logo.png?raw=true)
 
 ## The Project
 
