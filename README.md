@@ -34,7 +34,7 @@ There is also in ActivePack an application called **ActiveX Tools**, it allows y
 
 ## The Author
 - My website is [https://lvcabral.com](https://lvcabral.com)
-- My twitter is [@lvcabral](https://twitter.com/twitter)
+- My twitter is [@lvcabral](https://twitter.com/lvcabral)
 - My podcast is [PODebug Podcast](http://podebug.com)
 - Check my other [GitHub repositories ](https://github.com/lvcabral)
 
