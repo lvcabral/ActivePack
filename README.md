@@ -8,6 +8,8 @@ RainDrops ActivePack - OCX Components for Visual Basic 6
 ActivePack is a collection of ActiveX controls designed to be used with Microsoft® Visual Basic 6, they were created during my ActiveX technology studies around 1998, I was looking to make simple and useful controls, that would cover some needs that the Visual Basic with it's native controls doesn't cover. 
 This was an active freeware project until 2002. I'm now opening the source code under a new license (see below).
 
+If you just want the binaries, you can download the installer at the [Release page](https://github.com/lvcabral/ActivePack/releases)
+
 ## The Controls
 
 - **ActiveForm**: Add new properties to a Form. You can configure minimum and maximum size,turn off the close windows button (the X button), turns your form Always-On-Top, resize the form controls proportionaly when it resizes, change the form background to several types of gradient, or tile a wallpaper picture. You can also enable the "Minimize To Tray" feature to your form only setting a property to True.
