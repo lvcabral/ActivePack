@@ -1,0 +1,23 @@
+* binary
+*.bas text eol=crlf
+*.frm text eol=crlf
+*.ctl text eol=crlf
+*.log text eol=crlf
+*.vbg text eol=crlf
+*.vbp text eol=crlf
+*.cls text eol=crlf
+*.vbw text eol=crlf
+*.dsr text eol=crlf
+*.ini text eol=crlf
+*.txt text eol=crlf
+*.cfg text eol=crlf
+*.dep text eol=crlf
+*.md text eol=crlf
+*.rc text eol=crlf
+*.hpj text eol=crlf
+*.rth text
+*.rtf text
+*.err text
+.gitattributes text
+.gitignore text
+license text
